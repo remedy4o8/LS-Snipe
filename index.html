@@ -740,17 +740,21 @@ document.addEventListener('click', e => {
 function renderWatchlist() {
   const grid = document.getElementById('watchlistGrid');
   if (!watchlist.length) {
-    grid.innerHTML = '<div style="color:var(--muted);font-size:11px;padding:0.3rem 0">Targets will load from drop intel automatically.</div>';
+    grid.innerHTML = '<div style="color:var(--muted);font-size:11px;padding:0.3rem 0">Targets load automatically from drop intel.</div>';
     return;
   }
   grid.innerHTML = '';
   watchlist.forEach((w, i) => {
     const div = document.createElement('div');
     div.className = `watch-item${w.sniped ? ' sniped' : w.matched ? ' matched' : ''}`;
+
+    const sizeLabel = w.sizes?.length ? w.sizes.join(', ') : 'tap to set sizes';
+    const sizeColor = w.sizes?.length ? 'var(--muted)' : 'var(--pink)';
+
     div.innerHTML = `
       <span class="watch-dot${w.sniped ? ' sniped' : w.matched ? ' matched' : ''}"></span>
       <span class="watch-label${w.sniped ? ' sniped' : w.matched ? ' matched' : ''}">${w.keyword}</span>
-      <span class="watch-sizes">${w.sizes?.length ? w.sizes.join(', ') : 'any size'}</span>
+      <span class="watch-sizes" style="color:${sizeColor};cursor:pointer;text-decoration:underline;text-decoration-style:dotted" title="Click to edit sizes" onclick="editWatchSizes(${i})">${sizeLabel}</span>
       ${w.manual ? '<span class="watch-source">manual</span>' : ''}
       ${w.sniped ? '<span style="color:var(--yellow);font-size:10px">SNIPED</span>' : ''}
       <button class="btn-red btn-sm" onclick="removeWatch(${i})">x</button>`;
@@ -772,6 +776,54 @@ function addWatchItem() {
 
 function removeWatch(idx) {
   watchlist.splice(idx, 1); persist('watchlist', watchlist); renderWatchlist();
+  if (dropConfig?.items) refreshBannerChips(dropConfig.items);
+}
+
+let editingWatchIndex = -1;
+
+function editWatchSizes(idx) {
+  const w = watchlist[idx];
+  if (!w) return;
+  editingWatchIndex = idx;
+  modalKeyword = w.keyword;
+  modalSelectedSizes = w.sizes?.length ? [...w.sizes] : [];
+
+  document.getElementById('modal-title').textContent = w.keyword;
+  document.getElementById('modal-sub').textContent = 'Update sizes for this snipe target';
+
+  const grid = document.getElementById('modalSizeGrid');
+  grid.innerHTML = '';
+  MODAL_SIZES.forEach(size => {
+    const btn = document.createElement('button');
+    btn.className = `modal-size-btn${modalSelectedSizes.includes(size) ? ' active' : ''}`;
+    btn.textContent = size;
+    btn.onclick = () => {
+      if (modalSelectedSizes.includes(size)) {
+        modalSelectedSizes = modalSelectedSizes.filter(s => s !== size);
+        btn.classList.remove('active');
+      } else {
+        modalSelectedSizes.push(size);
+        btn.classList.add('active');
+      }
+    };
+    grid.appendChild(btn);
+  });
+
+  document.getElementById('modalConfirmBtn').textContent = 'Save Sizes';
+  document.getElementById('modalConfirmBtn').onclick = saveEditedSizes;
+  document.getElementById('modal-overlay').classList.add('open');
+}
+
+function saveEditedSizes() {
+  if (editingWatchIndex < 0) return;
+  watchlist[editingWatchIndex].sizes = [...modalSelectedSizes];
+  persist('watchlist', watchlist);
+  renderWatchlist();
+  toast(`Sizes updated: ${modalSelectedSizes.length ? modalSelectedSizes.join(', ') : 'any size'}`);
+  editingWatchIndex = -1;
+  document.getElementById('modalConfirmBtn').textContent = 'Add to Snipe List';
+  document.getElementById('modalConfirmBtn').onclick = confirmModal;
+  closeModal();
 }
 
 // ============================================================
