@@ -1,0 +1,34 @@
+name: Sync Drop Intel
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Fetch drop intel from Worker
+        env:
+          WORKER_URL: ${{ secrets.WORKER_URL }}
+        run: |
+          mkdir -p data
+          curl -sf "$WORKER_URL/coming-soon" \
+            -H "Accept: application/json" \
+            --max-time 15 \
+            -o data/drop-intel.json
+          echo "Fetched drop intel:"
+          cat data/drop-intel.json | python3 -m json.tool --no-ensure-ascii | head -50
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/drop-intel.json
+          git diff --cached --quiet && echo "No changes to commit." || \
+            git commit -m "chore: update drop intel [skip ci]"
+          git push

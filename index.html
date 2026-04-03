@@ -1,0 +1,492 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Little Sleepies Drop Cart</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg:#0f0f1a;--surface:#1a1a2e;--card:#22223b;--border:#2d2d50;
+      --pink:#e879a0;--pink-light:#f4b8cf;--pink-dim:rgba(232,121,160,0.12);
+      --red:#e85454;--green:#4ade80;--yellow:#fbbf24;--blue:#60a5fa;
+      --text:#e8e8f0;--muted:#7070a0;
+      --mono:'DM Mono',monospace;--serif:'Playfair Display',serif;
+    }
+    *{box-sizing:border-box;margin:0;padding:0;}
+    body{background:var(--bg);color:var(--text);font-family:var(--mono);font-size:13px;line-height:1.6;overflow-y:scroll;}
+    header{position:fixed;top:0;left:0;width:100%;z-index:100;background:var(--surface);border-bottom:1px solid var(--border);padding:.65rem 1.25rem;display:flex;align-items:center;gap:.75rem;flex-wrap:wrap;}
+    header h1{font-family:var(--serif);font-size:1.3rem;color:var(--pink);flex:1;min-width:150px;}
+    .pill{padding:2px 8px;border-radius:999px;font-size:10px;letter-spacing:.5px;text-transform:uppercase;background:var(--pink-dim);color:var(--pink-light);border:1px solid var(--pink);white-space:nowrap;}
+    .pill.green{background:rgba(74,222,128,.1);color:var(--green);border-color:var(--green);}
+    .pill.yellow{background:rgba(251,191,36,.1);color:var(--yellow);border-color:var(--yellow);animation:pulse 2s infinite;}
+    .pill.blue{background:rgba(96,165,250,.1);color:var(--blue);border-color:var(--blue);}
+    .pill.red{background:rgba(232,84,84,.1);color:var(--red);border-color:var(--red);}
+    @keyframes pulse{0%,100%{opacity:1;}50%{opacity:.5;}}
+    #countdownDisplay{font-family:var(--mono);font-size:12px;color:var(--pink-light);background:var(--pink-dim);padding:3px 10px;border-radius:4px;letter-spacing:1px;min-width:80px;text-align:center;white-space:nowrap;}
+    .container{max-width:1400px;margin:0 auto;padding:5rem .75rem 2rem;display:flex;gap:.75rem;}
+    .main{flex:2;min-width:0;display:flex;flex-direction:column;gap:.6rem;}
+    .sidebar{flex:1;position:sticky;top:4.5rem;height:calc(100vh - 5.25rem);min-width:260px;display:flex;flex-direction:column;gap:.6rem;}
+    button{font-family:var(--mono);cursor:pointer;border:none;border-radius:4px;transition:all .15s;font-size:12px;}
+    .btn-pink{background:var(--pink);color:#fff;padding:5px 12px;}
+    .btn-pink:hover{background:var(--pink-light);color:var(--bg);}
+    .btn-outline{background:transparent;color:var(--pink);padding:5px 12px;border:1px solid var(--pink);}
+    .btn-outline:hover{background:var(--pink-dim);}
+    .btn-red{background:var(--red);color:#fff;padding:5px 10px;}
+    .btn-green{background:var(--green);color:var(--bg);padding:5px 12px;font-weight:700;}
+    .btn-sm{padding:2px 7px;font-size:11px;}
+    button:disabled{opacity:.35;cursor:not-allowed;}
+    .panel{background:var(--surface);border:1px solid var(--border);border-radius:8px;overflow:hidden;}
+    .panel-header{padding:.6rem .85rem;border-bottom:1px solid var(--border);display:flex;justify-content:space-between;align-items:center;gap:.5rem;}
+    .panel-header h2{font-family:var(--serif);font-size:1rem;color:var(--pink);}
+    .panel-header h3{font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:.5px;}
+    .panel-body{padding:.6rem;}
+    .toggle-switch{position:relative;display:inline-flex;align-items:center;cursor:pointer;gap:5px;color:var(--muted);font-size:11px;}
+    .toggle-switch input{display:none;}
+    .toggle-track{width:30px;height:17px;background:var(--border);border-radius:999px;position:relative;transition:background .2s;}
+    .toggle-switch input:checked~.toggle-track{background:var(--pink);}
+    .toggle-track::after{content:'';position:absolute;top:2px;left:2px;width:13px;height:13px;border-radius:50%;background:#fff;transition:transform .2s;}
+    .toggle-switch input:checked~.toggle-track::after{transform:translateX(13px);}
+    #dropBanner{background:linear-gradient(135deg,rgba(251,191,36,.1),rgba(232,121,160,.1));border:1px solid var(--yellow);border-radius:8px;padding:.75rem 1rem;display:none;}
+    #dropBanner.visible{display:block;}
+    .drop-banner-title{color:var(--yellow);font-weight:500;font-size:13px;margin-bottom:2px;}
+    .drop-banner-sub{color:var(--muted);font-size:11px;}
+    .drop-items-preview{display:flex;flex-wrap:wrap;gap:4px;margin-top:.5rem;}
+    .drop-item-chip{font-size:10px;padding:2px 7px;border-radius:3px;background:var(--card);border:1px solid var(--border);color:var(--muted);}
+    .drop-item-chip.high{border-color:var(--yellow);color:var(--yellow);}
+    .controls-row{display:flex;gap:.5rem;align-items:center;flex-wrap:wrap;}
+    .watchlist-grid{display:flex;flex-direction:column;gap:4px;max-height:140px;overflow-y:auto;}
+    .watch-item{display:flex;align-items:center;gap:.4rem;background:var(--card);border:1px solid var(--border);border-radius:5px;padding:.3rem .5rem;font-size:11px;}
+    .watch-item.matched{border-color:var(--green);}
+    .watch-item.sniped{border-color:var(--yellow);background:rgba(251,191,36,.07);}
+    .watch-dot{width:7px;height:7px;border-radius:50%;background:var(--border);flex-shrink:0;transition:background .3s;}
+    .watch-dot.matched{background:var(--green);}
+    .watch-dot.sniped{background:var(--yellow);box-shadow:0 0 8px var(--yellow);}
+    .watch-label{flex:1;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
+    .watch-label.matched{color:var(--green);}
+    .watch-label.sniped{color:var(--yellow);}
+    .watch-sizes{font-size:10px;color:var(--muted);white-space:nowrap;}
+    .watch-source{font-size:9px;padding:1px 4px;border-radius:2px;background:var(--border);color:var(--muted);}
+    .add-watch-row{display:flex;gap:4px;margin-top:.5rem;}
+    .add-watch-row input{flex:1;background:var(--card);border:1px solid var(--border);border-radius:4px;color:var(--text);font-family:var(--mono);font-size:11px;padding:4px 7px;}
+    .add-watch-row input:focus{outline:none;border-color:var(--pink);}
+    .products-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(175px,1fr));gap:.4rem;}
+    .product{background:var(--card);border:1px solid var(--border);border-radius:7px;overflow:hidden;transition:border-color .2s,transform .15s;}
+    .product:hover{border-color:var(--pink);transform:translateY(-1px);}
+    .product.is-target{border-color:rgba(251,191,36,.4);}
+    .product img{width:100%;height:125px;object-fit:cover;display:block;}
+    .product-body{padding:.5rem;}
+    .product-title{color:var(--pink-light);font-size:11px;font-weight:500;margin-bottom:2px;line-height:1.3;}
+    .product-price{color:var(--muted);font-size:10px;margin-bottom:.35rem;}
+    .variants{display:flex;flex-wrap:wrap;gap:3px;}
+    .var-btn{font-family:var(--mono);font-size:10px;padding:2px 6px;border-radius:3px;cursor:pointer;border:none;background:var(--surface);color:var(--text);transition:all .12s;}
+    .var-btn:hover{background:var(--pink);color:#fff;}
+    .var-btn.sold-out{background:var(--border);color:var(--muted);text-decoration:line-through;cursor:not-allowed;}
+    .badge{display:inline-block;font-size:9px;padding:1px 5px;border-radius:3px;margin-bottom:3px;font-weight:700;letter-spacing:.5px;}
+    .badge-new{background:var(--green);color:var(--bg);}
+    .badge-target{background:var(--yellow);color:var(--bg);}
+    .size-grid{display:flex;flex-wrap:wrap;gap:3px;max-height:100px;overflow-y:auto;}
+    .size-tag{padding:2px 7px;border-radius:3px;font-size:10px;cursor:pointer;background:var(--surface);color:var(--muted);border:1px solid var(--border);transition:all .12s;font-family:var(--mono);}
+    .size-tag:hover{border-color:var(--pink);color:var(--text);}
+    .size-tag.active{background:var(--pink);color:#fff;border-color:var(--pink);}
+    .cart-panel{display:flex;flex-direction:column;flex:1;overflow:hidden;}
+    .cart-body{flex:1;overflow-y:auto;padding:.5rem;}
+    .cart-item{display:flex;align-items:center;gap:.4rem;background:var(--card);border:1px solid var(--border);border-radius:5px;padding:.4rem;margin-bottom:.35rem;}
+    .cart-item img{width:32px;height:32px;border-radius:3px;object-fit:cover;flex-shrink:0;}
+    .cart-item-info{flex:1;min-width:0;}
+    .ci-title{font-size:11px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
+    .ci-size{font-size:10px;color:var(--muted);}
+    .cart-footer{padding:.6rem;border-top:1px solid var(--border);display:flex;flex-direction:column;gap:.4rem;}
+    .cart-footer-row{display:flex;justify-content:space-between;align-items:center;font-size:11px;color:var(--muted);}
+    .cart-empty{color:var(--muted);font-size:12px;text-align:center;padding:1.5rem 0;}
+    #logPanel{max-height:80px;overflow-y:auto;}
+    .log-line{font-size:10px;color:var(--muted);padding:1px 0;}
+    .log-line.ok{color:var(--green);}
+    .log-line.hi{color:var(--yellow);}
+    .log-line.err{color:var(--red);}
+    #toast{position:fixed;bottom:1.25rem;right:1.25rem;z-index:999;background:var(--card);border:1px solid var(--pink);color:var(--text);padding:.5rem .9rem;border-radius:6px;font-size:12px;opacity:0;transform:translateY(8px);transition:opacity .2s,transform .2s;max-width:280px;}
+    #toast.show{opacity:1;transform:translateY(0);}
+    #toast.snipe{border-color:var(--yellow);}
+    #toast.err{border-color:var(--red);}
+    ::-webkit-scrollbar{width:4px;}
+    ::-webkit-scrollbar-thumb{background:var(--border);border-radius:99px;}
+    @media(max-width:800px){.container{flex-direction:column;}.sidebar{position:static;height:auto;}header{padding:.5rem .75rem;}}
+  </style>
+</head>
+<body>
+<header>
+  <h1>LS Drop Cart</h1>
+  <span id="countdownDisplay">loading...</span>
+  <span id="dropNamePill" class="pill yellow" style="display:none"></span>
+  <span id="pollStatus" class="pill">IDLE</span>
+  <span id="snipePill" class="pill blue">SNIPE OFF</span>
+  <span id="cartCount" class="pill">0 items</span>
+</header>
+<div class="container">
+  <div class="main">
+    <div id="dropBanner">
+      <div class="drop-banner-title" id="dropBannerTitle"></div>
+      <div class="drop-banner-sub" id="dropBannerSub"></div>
+      <div class="drop-items-preview" id="dropItemsPreview"></div>
+    </div>
+    <div class="panel">
+      <div class="panel-body controls-row">
+        <button class="btn-pink" id="refreshBtn">&#8635; Refresh</button>
+        <label class="toggle-switch"><input type="checkbox" id="pollToggle"><span class="toggle-track"></span><span id="pollLabel" style="color:var(--muted)">Auto-Poll Off</span></label>
+        <input type="range" id="pollInterval" min="5" max="60" value="15" step="5" style="accent-color:var(--pink);width:80px">
+        <span id="pollIntervalDisplay" style="color:var(--pink-light);font-size:11px">15s</span>
+        <label class="toggle-switch" style="margin-left:auto"><input type="checkbox" id="availableOnly" checked><span class="toggle-track"></span><span>Avail only</span></label>
+        <span id="lastFetch" style="color:var(--muted);font-size:11px"></span>
+      </div>
+    </div>
+    <div class="panel">
+      <div class="panel-header">
+        <h2>Snipe Targets</h2>
+        <label class="toggle-switch"><input type="checkbox" id="snipeToggle"><span class="toggle-track"></span><span id="snipeLabel" style="font-size:11px">Auto-snipe Off</span></label>
+      </div>
+      <div class="panel-body">
+        <p style="font-size:10px;color:var(--muted);margin-bottom:.5rem">High-value targets load automatically from the drop. Add your sizes or extras below.</p>
+        <div class="watchlist-grid" id="watchlistGrid"></div>
+        <div class="add-watch-row">
+          <input type="text" id="watchKeyword" placeholder="keyword e.g. zippy">
+          <input type="text" id="watchSizes" placeholder="2T,3T (optional)" style="width:120px">
+          <button class="btn-outline btn-sm" onclick="addWatchItem()">+ Add</button>
+        </div>
+      </div>
+    </div>
+    <div class="panel">
+      <div class="panel-header"><h2>VIP Products</h2><span id="productCount" style="font-size:11px;color:var(--muted)"></span></div>
+      <div class="panel-body">
+        <div style="margin-bottom:.5rem">
+          <div style="font-size:10px;color:var(--muted);margin-bottom:4px">Filter by size:</div>
+          <div class="size-grid" id="sizeFilterGrid"></div>
+        </div>
+        <div class="products-grid" id="products">
+          <div style="grid-column:1/-1;text-align:center;padding:2rem;color:var(--muted)">Enable Auto-Poll or click Refresh to load products.</div>
+        </div>
+      </div>
+    </div>
+    <div class="panel">
+      <div class="panel-header"><h3>Log</h3><button class="btn-sm btn-outline" onclick="document.getElementById('logPanel').innerHTML=''">Clear</button></div>
+      <div class="panel-body" id="logPanel"></div>
+    </div>
+  </div>
+  <div class="sidebar">
+    <div class="panel cart-panel" style="flex:1;overflow:hidden;display:flex;flex-direction:column;">
+      <div class="panel-header">
+        <h2>Cart</h2>
+        <div style="display:flex;gap:.35rem">
+          <button class="btn-outline btn-sm" id="viewCartBtn" style="display:none">View</button>
+          <button class="btn-green btn-sm" id="checkoutBtn" style="display:none">Checkout</button>
+        </div>
+      </div>
+      <div class="cart-body" id="cartBody"><div class="cart-empty">Cart is empty</div></div>
+      <div class="cart-footer">
+        <div class="cart-footer-row">
+          <span>Auto-checkout on snipe</span>
+          <label class="toggle-switch"><input type="checkbox" id="autoCheckout"><span class="toggle-track"></span></label>
+        </div>
+        <button class="btn-red" id="clearCartBtn">Clear Cart</button>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="toast"></div>
+<script>
+const GITHUB_INTEL_URL="https://remedy4o8.github.io/LS-Snipe/data/drop-intel.json";
+const SHOP="https://littlesleepies.com";
+const COLLECTION="vip-early-access";
+const DISCOUNT="lsvip";
+const MAX_PAGES=5;
+const MAX_BLANKETS=2;
+const SIZES=["show_all","Preemie","Newborn","0-3 months","3-6 months","6-12 months","12-18 months","18-24 months","2T","3T","4T","5/6","7/8","9/10","12/14","16","XS","S","M","L","XL","XXL","3XL","Mini Crib","Standard Crib","Default Title"];
+
+let cartItems=safe('cartItems',[]);
+let selectedSizes=safe('selectedSizes',['show_all']);
+let watchlist=safe('watchlist',[]);
+let allProducts=[];
+let knownIds=new Set(safe('knownIds',[]));
+let pollTimer=null,isPolling=false,isFetching=false,snipeEnabled=false;
+let dropConfig=null;
+
+function safe(k,d){try{return JSON.parse(localStorage.getItem(k))??d;}catch{return d;}}
+function persist(k,v){localStorage.setItem(k,JSON.stringify(v));}
+
+async function loadDropIntel(){
+  try{
+    const res=await fetch(GITHUB_INTEL_URL+'?t='+Date.now());
+    if(!res.ok)throw new Error('HTTP '+res.status);
+    const data=await res.json();
+    const drop=data.drops?.[0];
+    if(!drop||!drop.raw_item_count)return;
+    dropConfig=drop;
+    renderDropBanner(drop);
+    syncWatchlistFromIntel(drop);
+    log('Drop intel loaded: "'+drop.name+'" — '+drop.raw_item_count+' items','ok');
+  }catch(e){
+    log('Drop intel not available yet ('+e.message+')','err');
+  }
+}
+
+function renderDropBanner(drop){
+  const HV=['blanket','zippy','lovey','two-piece'];
+  document.getElementById('dropBannerTitle').textContent=drop.name||'Upcoming Drop';
+  document.getElementById('dropBannerSub').textContent=(drop.date||'?')+' at '+(drop.time_local||'?')+' '+(drop.timezone||'PT')+' — '+drop.raw_item_count+' items';
+  document.getElementById('dropItemsPreview').innerHTML=(drop.items||[]).map(i=>{
+    const hi=HV.some(k=>i.full?.toLowerCase().includes(k));
+    return '<span class="drop-item-chip'+(hi?' high':'')+'">'+i.full+'</span>';
+  }).join('');
+  document.getElementById('dropBanner').classList.add('visible');
+  const pill=document.getElementById('dropNamePill');
+  pill.textContent=drop.name||'Drop incoming';
+  pill.style.display='';
+}
+
+function syncWatchlistFromIntel(drop){
+  if(!drop?.snipe_targets?.length)return;
+  watchlist=watchlist.filter(w=>w.manual);
+  let added=0;
+  drop.snipe_targets.forEach(t=>{
+    if(!watchlist.find(w=>w.keyword===t.keyword)){
+      watchlist.push({keyword:t.keyword,sizes:getDefaultSizes(),matched:false,sniped:false,priority:t.priority,manual:false});
+      added++;
+    }
+  });
+  persist('watchlist',watchlist);
+  renderWatchlist();
+  if(added>0)log(added+' snipe targets loaded from drop intel','ok');
+}
+
+function getDefaultSizes(){return selectedSizes.includes('show_all')?[...selectedSizes]:selectedSizes.filter(s=>s!=='show_all');}
+
+function updateCountdown(){
+  if(!dropConfig?.date){document.getElementById('countdownDisplay').textContent='--:--:--';return;}
+  const now=new Date();
+  const tz=dropConfig.timezone?.includes('ET')?'America/New_York':'America/Los_Angeles';
+  const local=new Date(now.toLocaleString('en-US',{timeZone:tz}));
+  const[y,mo,d]=dropConfig.date.split('-').map(Number);
+  const target=new Date(local);
+  target.setFullYear(y,mo-1,d);
+  target.setHours(dropConfig.drop_hour??9,dropConfig.drop_min??0,0,0);
+  const diff=target-local;
+  if(diff<=0){
+    document.getElementById('countdownDisplay').textContent='LIVE!';
+    if(!isPolling){startPolling(5000);log('Drop is LIVE — auto-started 5s poll!','hi');}
+    return;
+  }
+  const h=String(Math.floor(diff/3600000)).padStart(2,'0');
+  const m=String(Math.floor((diff%3600000)/60000)).padStart(2,'0');
+  const s=String(Math.floor((diff%60000)/1000)).padStart(2,'0');
+  document.getElementById('countdownDisplay').textContent=h+':'+m+':'+s;
+  if(diff<180000&&!isPolling){log('3 min to drop — auto-starting 5s poll!','hi');startPolling(5000);}
+}
+setInterval(updateCountdown,1000);
+
+async function fetchAllProducts(){
+  if(isFetching)return;
+  isFetching=true;
+  document.getElementById('refreshBtn').disabled=true;
+  const ts=Date.now();
+  const url=p=>SHOP+'/collections/'+COLLECTION+'/products.json?limit=50&page='+p+'&t='+ts;
+  try{
+    const responses=await Promise.all(Array.from({length:MAX_PAGES},(_,i)=>fetch(url(i+1)).catch(()=>null)));
+    const pages=await Promise.all(responses.map(r=>r?.ok?r.json().catch(()=>null):null));
+    allProducts=[];
+    for(const page of pages){if(!page?.products?.length)break;allProducts.push(...page.products);}
+    const newOnes=allProducts.filter(p=>!knownIds.has(p.id));
+    newOnes.forEach(p=>knownIds.add(p.id));
+    persist('knownIds',[...knownIds]);
+    if(newOnes.length){
+      const names=newOnes.map(p=>p.title).slice(0,2).join(', ');
+      log('NEW: '+names+(newOnes.length>2?' +'+(newOnes.length-2)+' more':''),'hi');
+      toast('NEW: '+names,false,'snipe');
+    }
+    const rank=['cloud blanket','two-piece','zippy'];
+    allProducts.sort((a,b)=>{
+      const ai=rank.findIndex(k=>a.title.toLowerCase().includes(k));
+      const bi=rank.findIndex(k=>b.title.toLowerCase().includes(k));
+      return(ai===-1?99:ai)-(bi===-1?99:bi);
+    });
+    autoAddBlankets();runSniper();displayProducts();
+    document.getElementById('lastFetch').textContent=new Date().toLocaleTimeString();
+    document.getElementById('productCount').textContent=allProducts.length+' products';
+  }catch(e){log('Fetch error: '+e.message,'err');}
+  isFetching=false;
+  document.getElementById('refreshBtn').disabled=false;
+}
+
+function runSniper(){
+  if(!snipeEnabled||!watchlist.length)return;
+  watchlist.forEach(watch=>{
+    if(watch.sniped)return;
+    const kw=watch.keyword.toLowerCase();
+    const matches=allProducts.filter(p=>p.title.toLowerCase().includes(kw));
+    if(!matches.length)return;
+    watch.matched=true;
+    log('MATCH: "'+watch.keyword+'"','hi');
+    matches.forEach(p=>{
+      const avail=p.variants.filter(v=>v.available!==false);
+      const target=watch.sizes?.length?avail.filter(v=>watch.sizes.some(s=>v.option1?.toLowerCase()===s.toLowerCase())):avail.slice(0,1);
+      target.forEach(v=>addToCart(p.title,v.id,v.option1,v.option2,p.images[0]?.src,false,true));
+    });
+    watch.sniped=true;
+  });
+  persist('watchlist',watchlist);renderWatchlist();
+  if(watchlist.some(w=>w.sniped)&&document.getElementById('autoCheckout')?.checked)setTimeout(checkout,800);
+}
+
+function autoAddBlankets(){
+  const existing=cartItems.filter(i=>i.title.toLowerCase().includes('cloud blanket')).length;
+  if(existing>=MAX_BLANKETS)return;
+  allProducts.forEach(p=>{
+    if(!p.title.toLowerCase().includes('cloud blanket'))return;
+    const avail=p.variants.filter(v=>v.available!==false);
+    const need=MAX_BLANKETS-cartItems.filter(i=>i.title.toLowerCase().includes('cloud blanket')).length;
+    for(let i=0;i<Math.min(need,avail.length);i++)addToCart(p.title,avail[i].id,avail[i].option1,avail[i].option2,p.images[0]?.src,true);
+  });
+}
+
+function displayProducts(){
+  const container=document.getElementById('products');
+  const showAvail=document.getElementById('availableOnly')?.checked;
+  const filtered=selectedSizes.includes('show_all')?allProducts:allProducts.filter(p=>p.variants.some(v=>selectedSizes.includes(v.option1)));
+  container.innerHTML='';
+  if(!filtered.length){container.innerHTML='<div style="grid-column:1/-1;color:var(--muted);padding:1.5rem;text-align:center">No products.</div>';return;}
+  filtered.forEach(p=>{
+    const isNew=!knownIds.has(p.id+'_seen');
+    const isTarget=watchlist.some(w=>p.title.toLowerCase().includes(w.keyword.toLowerCase()));
+    const div=document.createElement('div');
+    div.className='product'+(isTarget?' is-target':'');
+    div.innerHTML='<img src="'+(p.images[0]?.src||'')+'" alt="'+p.title+'" loading="lazy"><div class="product-body">'+(isTarget?'<span class="badge badge-target">TARGET</span> ':'')+( isNew?'<span class="badge badge-new">NEW</span>':'' )+'<div class="product-title">'+p.title+'</div><div class="product-price">$'+p.variants[0]?.price+'</div><div class="variants" id="v-'+p.id+'"></div></div>';
+    const vc=div.querySelector('#v-'+p.id);
+    p.variants.forEach(v=>{
+      if(!selectedSizes.includes('show_all')&&!selectedSizes.includes(v.option1))return;
+      if(showAvail&&v.available===false)return;
+      const btn=document.createElement('button');
+      btn.className='var-btn'+(v.available===false?' sold-out':'');
+      btn.textContent=v.option1;btn.disabled=v.available===false;
+      btn.onclick=()=>addToCart(p.title,v.id,v.option1,v.option2,p.images[0]?.src);
+      vc.appendChild(btn);
+    });
+    container.appendChild(div);
+  });
+}
+
+function addToCart(title,variantId,size,color,imageUrl,silent=false,snipe=false){
+  const blankets=cartItems.filter(i=>i.title.toLowerCase().includes('cloud blanket')).length;
+  if(title.toLowerCase().includes('cloud blanket')&&blankets>=MAX_BLANKETS){if(!silent)toast('Max 2 blankets',false,'err');return;}
+  if(cartItems.find(i=>i.variantId===variantId)){if(!silent)toast('Already in cart',false,'err');return;}
+  cartItems.push({title,variantId,size,color,imageUrl});
+  persist('cartItems',cartItems);renderCart();
+  if(!silent)toast((snipe?'SNIPED: ':'')+title+' ('+size+')',false,snipe?'snipe':'');
+}
+function removeFromCart(idx){cartItems.splice(idx,1);persist('cartItems',cartItems);renderCart();}
+function renderCart(){
+  const body=document.getElementById('cartBody');
+  document.getElementById('cartCount').textContent=cartItems.length+' item'+(cartItems.length!==1?'s':'');
+  if(!cartItems.length){body.innerHTML='<div class="cart-empty">Cart is empty</div>';['viewCartBtn','checkoutBtn'].forEach(id=>document.getElementById(id).style.display='none');return;}
+  body.innerHTML=cartItems.map((item,i)=>'<div class="cart-item"><img src="'+(item.imageUrl||'')+'" alt=""><div class="cart-item-info"><div class="ci-title">'+item.title+'</div><div class="ci-size">'+item.size+'</div></div><button class="btn-red btn-sm" onclick="removeFromCart('+i+')">x</button></div>').join('');
+  ['viewCartBtn','checkoutBtn'].forEach(id=>document.getElementById(id).style.display='');
+}
+function cartUrl(){return SHOP+'/cart/'+cartItems.map(i=>i.variantId+':1').join(',')+'?discount='+DISCOUNT;}
+function checkout(){if(!cartItems.length)return;window.open(cartUrl(),'_blank');}
+
+function renderWatchlist(){
+  const grid=document.getElementById('watchlistGrid');
+  if(!watchlist.length){grid.innerHTML='<div style="color:var(--muted);font-size:11px;padding:.3rem 0">Targets load automatically from drop intel.</div>';return;}
+  grid.innerHTML='';
+  watchlist.forEach((w,i)=>{
+    const div=document.createElement('div');
+    div.className='watch-item'+(w.sniped?' sniped':w.matched?' matched':'');
+    div.innerHTML='<span class="watch-dot'+(w.sniped?' sniped':w.matched?' matched':'')+'"></span><span class="watch-label'+(w.sniped?' sniped':w.matched?' matched':'')+'">'+w.keyword+'</span><span class="watch-sizes">'+(w.sizes?.length?w.sizes.join(', '):'any size')+'</span>'+(w.manual?'<span class="watch-source">manual</span>':'')+(w.sniped?'<span style="color:var(--yellow);font-size:10px">SNIPED</span>':'')+'<button class="btn-red btn-sm" onclick="removeWatch('+i+')">x</button>';
+    grid.appendChild(div);
+  });
+}
+function addWatchItem(){
+  const kw=document.getElementById('watchKeyword').value.trim().toLowerCase();
+  const sizes=document.getElementById('watchSizes').value.split(',').map(s=>s.trim()).filter(Boolean);
+  if(!kw)return;
+  if(watchlist.find(w=>w.keyword===kw)){toast('Already watching',false,'err');return;}
+  watchlist.push({keyword:kw,sizes,matched:false,sniped:false,manual:true});
+  persist('watchlist',watchlist);renderWatchlist();
+  document.getElementById('watchKeyword').value='';document.getElementById('watchSizes').value='';
+}
+function removeWatch(idx){watchlist.splice(idx,1);persist('watchlist',watchlist);renderWatchlist();}
+
+function startPolling(interval){
+  stopPolling();isPolling=true;
+  const ms=interval||parseInt(document.getElementById('pollInterval').value)*1000;
+  pollTimer=setInterval(fetchAllProducts,ms);
+  document.getElementById('pollStatus').textContent='POLLING '+ms/1000+'s';
+  document.getElementById('pollStatus').className='pill green';
+  document.getElementById('pollLabel').textContent='Auto-Poll '+ms/1000+'s';
+  fetchAllProducts();
+}
+function stopPolling(){
+  if(pollTimer)clearInterval(pollTimer);
+  pollTimer=null;isPolling=false;
+  document.getElementById('pollStatus').textContent='IDLE';
+  document.getElementById('pollStatus').className='pill';
+  document.getElementById('pollLabel').textContent='Auto-Poll Off';
+}
+
+function buildSizeFilter(){
+  const grid=document.getElementById('sizeFilterGrid');
+  SIZES.forEach(size=>{
+    const tag=document.createElement('span');
+    tag.className='size-tag'+(selectedSizes.includes(size)?' active':'');
+    tag.textContent=size;
+    tag.onclick=()=>{
+      selectedSizes=size==='show_all'?['show_all']:selectedSizes.filter(s=>s!=='show_all').includes(size)?selectedSizes.filter(s=>s!==size):[...selectedSizes.filter(s=>s!=='show_all'),size];
+      if(!selectedSizes.length)selectedSizes=['show_all'];
+      persist('selectedSizes',selectedSizes);
+      grid.querySelectorAll('.size-tag').forEach(t=>t.classList.toggle('active',selectedSizes.includes(t.textContent)));
+      displayProducts();
+    };
+    grid.appendChild(tag);
+  });
+}
+
+function log(msg,type=''){
+  const el=document.getElementById('logPanel');
+  const d=document.createElement('div');
+  d.className='log-line'+(type?' '+type:'');
+  d.textContent='['+new Date().toLocaleTimeString()+'] '+msg;
+  el.prepend(d);if(el.children.length>50)el.removeChild(el.lastChild);
+}
+let toastTimer;
+function toast(msg,isErr=false,type=''){
+  const el=document.getElementById('toast');
+  el.textContent=msg;el.className='show'+(type?' '+type:'');
+  clearTimeout(toastTimer);toastTimer=setTimeout(()=>el.className='',3500);
+}
+
+document.addEventListener('DOMContentLoaded',()=>{
+  buildSizeFilter();renderCart();renderWatchlist();
+  loadDropIntel();
+  document.getElementById('refreshBtn').onclick=fetchAllProducts;
+  document.getElementById('pollToggle').onchange=function(){this.checked?startPolling():stopPolling();};
+  document.getElementById('pollInterval').oninput=function(){
+    document.getElementById('pollIntervalDisplay').textContent=this.value+'s';
+    if(isPolling)startPolling(parseInt(this.value)*1000);
+  };
+  document.getElementById('availableOnly').onchange=displayProducts;
+  document.getElementById('clearCartBtn').onclick=()=>{cartItems=[];persist('cartItems',cartItems);renderCart();};
+  document.getElementById('viewCartBtn').onclick=()=>window.open(cartUrl(),'_blank');
+  document.getElementById('checkoutBtn').onclick=()=>checkout();
+  document.getElementById('snipeToggle').onchange=function(){
+    snipeEnabled=this.checked;
+    document.getElementById('snipePill').textContent=snipeEnabled?'SNIPE ON':'SNIPE OFF';
+    document.getElementById('snipePill').className=snipeEnabled?'pill yellow':'pill blue';
+    document.getElementById('snipeLabel').textContent=snipeEnabled?'Auto-snipe On':'Auto-snipe Off';
+  };
+  const ac=document.getElementById('autoCheckout');
+  ac.checked=localStorage.getItem('autoCheckout')==='true';
+  ac.onchange=()=>persist('autoCheckout',ac.checked);
+  document.getElementById('watchKeyword').onkeydown=e=>{if(e.key==='Enter')addWatchItem();};
+  setInterval(updateCountdown,1000);updateCountdown();
+});
+</script>
+</body>
+</html>
