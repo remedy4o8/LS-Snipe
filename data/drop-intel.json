@@ -1,4 +1,172 @@
 {
-  "scraped_at": "pending",
-  "drops": []
+  "scraped_at": "2026-04-03T06:16:35.619Z",
+  "drops": [
+    {
+      "name": "&ndash; Little Sleepies",
+      "date": "2026-04-07",
+      "time_local": "9am",
+      "timezone": "PT",
+      "drop_hour": 9,
+      "drop_min": 0,
+      "items": [
+        {
+          "name": "Tiny Webs",
+          "type": "Zippy",
+          "full": "Tiny Webs Zippy"
+        },
+        {
+          "name": "Tiny Webs",
+          "type": "Shorty Zippy",
+          "full": "Tiny Webs Shorty Zippy"
+        },
+        {
+          "name": "Tiny Webs",
+          "type": "Two-Piece Pajama Set",
+          "full": "Tiny Webs Two-Piece Pajama Set"
+        },
+        {
+          "name": "Tiny Webs",
+          "type": "Women's Pajama Top",
+          "full": "Tiny Webs Women's Pajama Top"
+        },
+        {
+          "name": "Tiny Webs",
+          "type": "Women's Pajama Pants",
+          "full": "Tiny Webs Women's Pajama Pants"
+        },
+        {
+          "name": "Tiny Webs",
+          "type": "Men's Pajama Top",
+          "full": "Tiny Webs Men's Pajama Top"
+        },
+        {
+          "name": "Tiny Webs",
+          "type": "Men's Pajama Pants",
+          "full": "Tiny Webs Men's Pajama Pants"
+        },
+        {
+          "name": "Spidey",
+          "type": "Zip Hoodie",
+          "full": "Spidey Zip Hoodie"
+        },
+        {
+          "name": "Tiny Webs",
+          "type": "Relaxed Pocket Tee",
+          "full": "Tiny Webs Relaxed Pocket Tee"
+        },
+        {
+          "name": "Tiny Webs",
+          "type": "Relaxed Tee",
+          "full": "Tiny Webs Relaxed Tee"
+        },
+        {
+          "name": "Spidey",
+          "type": "Spidey Bodysuit",
+          "full": "Spidey Spidey Bodysuit"
+        },
+        {
+          "name": "Tiny Webs",
+          "type": "Pocket Shorty Romper",
+          "full": "Tiny Webs Pocket Shorty Romper"
+        },
+        {
+          "name": "Tiny Webs",
+          "type": "Bodysuit",
+          "full": "Tiny Webs Bodysuit"
+        },
+        {
+          "name": "Mighty City Heroes",
+          "type": "Crewneck Sweatshirt",
+          "full": "Mighty City Heroes Crewneck Sweatshirt"
+        },
+        {
+          "name": "Tiny Webs",
+          "type": "Skater Dress",
+          "full": "Tiny Webs Skater Dress"
+        },
+        {
+          "name": "Ghost-Spider",
+          "type": "Zip Hoodie",
+          "full": "Ghost-Spider Zip Hoodie"
+        },
+        {
+          "name": "Ghost-Spider",
+          "type": "Peplum Top",
+          "full": "Ghost-Spider Peplum Top"
+        },
+        {
+          "name": "Web Wonders",
+          "type": "Bike Shorts",
+          "full": "Web Wonders Bike Shorts"
+        },
+        {
+          "name": "Spin",
+          "type": "Lovey",
+          "full": "Spin Lovey"
+        },
+        {
+          "name": "Spidey",
+          "type": "Lovey",
+          "full": "Spidey Lovey"
+        },
+        {
+          "name": "Ghost-Spider",
+          "type": "Lovey",
+          "full": "Ghost-Spider Lovey"
+        },
+        {
+          "name": "Tiny Webs",
+          "type": "Luxe Bow Headband",
+          "full": "Tiny Webs Luxe Bow Headband"
+        },
+        {
+          "name": "Tiny Webs",
+          "type": "Large Cloud Blanket®",
+          "full": "Tiny Webs Large Cloud Blanket®"
+        },
+        {
+          "name": "Tiny Webs",
+          "type": "Fitted Crib Sheet",
+          "full": "Tiny Webs Fitted Crib Sheet"
+        },
+        {
+          "name": "Tiny Webs",
+          "type": "Twin Sheet Set",
+          "full": "Tiny Webs Twin Sheet Set"
+        }
+      ],
+      "snipe_targets": [
+        {
+          "keyword": "tiny webs zippy",
+          "priority": "NORMAL"
+        },
+        {
+          "keyword": "tiny webs shorty zippy",
+          "priority": "NORMAL"
+        },
+        {
+          "keyword": "tiny webs two-piece pajama set",
+          "priority": "NORMAL"
+        },
+        {
+          "keyword": "spin lovey",
+          "priority": "MEDIUM"
+        },
+        {
+          "keyword": "spidey lovey",
+          "priority": "MEDIUM"
+        },
+        {
+          "keyword": "ghost-spider lovey",
+          "priority": "MEDIUM"
+        },
+        {
+          "keyword": "tiny webs large cloud blanket®",
+          "priority": "HIGH"
+        }
+      ],
+      "raw_item_count": 25,
+      "parse_strategy": "found"
+    }
+  ]
 }
