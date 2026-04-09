@@ -1,171 +1,170 @@
 {
-  "scraped_at": "2026-04-07T23:37:06.983Z",
+  "scraped_at": "2026-04-09T23:37:14.126Z",
   "drops": [
     {
       "name": "Coming Soon",
-      "date": "2026-04-07",
+      "date": "2026-04-14",
       "time_local": "9am",
       "timezone": "PT",
       "drop_hour": 9,
       "drop_min": 0,
       "items": [
         {
-          "name": "Tiny Webs",
+          "name": "Underwater Discovery",
           "type": "Zippy",
-          "full": "Tiny Webs Zippy"
+          "full": "Underwater Discovery Zippy"
         },
         {
-          "name": "Tiny Webs",
+          "name": "Underwater Discovery",
           "type": "Shorty Zippy",
-          "full": "Tiny Webs Shorty Zippy"
+          "full": "Underwater Discovery Shorty Zippy"
         },
         {
-          "name": "Tiny Webs",
+          "name": "Underwater Discovery",
           "type": "Two-Piece Pajama Set",
-          "full": "Tiny Webs Two-Piece Pajama Set"
+          "full": "Underwater Discovery Two-Piece Pajama Set"
         },
         {
-          "name": "Tiny Webs",
-          "type": "Women's Pajama Top",
-          "full": "Tiny Webs Women's Pajama Top"
-        },
-        {
-          "name": "Tiny Webs",
-          "type": "Women's Pajama Pants",
-          "full": "Tiny Webs Women's Pajama Pants"
-        },
-        {
-          "name": "Tiny Webs",
-          "type": "Men's Pajama Top",
-          "full": "Tiny Webs Men's Pajama Top"
-        },
-        {
-          "name": "Tiny Webs",
-          "type": "Men's Pajama Pants",
-          "full": "Tiny Webs Men's Pajama Pants"
-        },
-        {
-          "name": "Spidey",
-          "type": "Zip Hoodie",
-          "full": "Spidey Zip Hoodie"
-        },
-        {
-          "name": "Tiny Webs",
+          "name": "Underwater Discovery",
           "type": "Relaxed Pocket Tee",
-          "full": "Tiny Webs Relaxed Pocket Tee"
+          "full": "Underwater Discovery Relaxed Pocket Tee"
         },
         {
-          "name": "Tiny Webs",
-          "type": "Relaxed Tee",
-          "full": "Tiny Webs Relaxed Tee"
-        },
-        {
-          "name": "Spidey",
-          "type": "Spidey Bodysuit",
-          "full": "Spidey Spidey Bodysuit"
-        },
-        {
-          "name": "Tiny Webs",
+          "name": "Underwater Discovery",
           "type": "Pocket Shorty Romper",
-          "full": "Tiny Webs Pocket Shorty Romper"
+          "full": "Underwater Discovery Pocket Shorty Romper"
         },
         {
-          "name": "Tiny Webs",
-          "type": "Bodysuit",
-          "full": "Tiny Webs Bodysuit"
+          "name": "Underwater Discovery",
+          "type": "Pocket Bodysuit",
+          "full": "Underwater Discovery Pocket Bodysuit"
         },
         {
-          "name": "Mighty City Heroes",
-          "type": "Crewneck Sweatshirt",
-          "full": "Mighty City Heroes Crewneck Sweatshirt"
+          "name": "Underwater Discovery",
+          "type": "Bow Back Skater Dress",
+          "full": "Underwater Discovery Bow Back Skater Dress"
         },
         {
-          "name": "Tiny Webs",
-          "type": "Skater Dress",
-          "full": "Tiny Webs Skater Dress"
+          "name": "Flutter Garden",
+          "type": "Zippy",
+          "full": "Flutter Garden Zippy"
         },
         {
-          "name": "Ghost-Spider",
-          "type": "Zip Hoodie",
-          "full": "Ghost-Spider Zip Hoodie"
+          "name": "Flutter Garden",
+          "type": "Shorty Zippy",
+          "full": "Flutter Garden Shorty Zippy"
         },
         {
-          "name": "Ghost-Spider",
-          "type": "Peplum Top",
-          "full": "Ghost-Spider Peplum Top"
+          "name": "Flutter Garden",
+          "type": "Two-Piece Pajama Set",
+          "full": "Flutter Garden Two-Piece Pajama Set"
         },
         {
-          "name": "Web Wonders",
-          "type": "Bike Shorts",
-          "full": "Web Wonders Bike Shorts"
+          "name": "Flutter Garden",
+          "type": "Women's Pajama Set",
+          "full": "Flutter Garden Women's Pajama Set"
         },
         {
-          "name": "Spin",
-          "type": "Lovey",
-          "full": "Spin Lovey"
+          "name": "Flutter Garden",
+          "type": "Women's Pajama Top",
+          "full": "Flutter Garden Women's Pajama Top"
         },
         {
-          "name": "Spidey",
-          "type": "Lovey",
-          "full": "Spidey Lovey"
+          "name": "Flutter Garden",
+          "type": "Women's Pajama Pants",
+          "full": "Flutter Garden Women's Pajama Pants"
         },
         {
-          "name": "Ghost-Spider",
-          "type": "Lovey",
-          "full": "Ghost-Spider Lovey"
+          "name": "Flutter Garden",
+          "type": "Flutter Skater Dress",
+          "full": "Flutter Garden Flutter Skater Dress"
         },
         {
-          "name": "Tiny Webs",
-          "type": "Luxe Bow Headband",
-          "full": "Tiny Webs Luxe Bow Headband"
+          "name": "Flutter Garden",
+          "type": "Bubble Romper",
+          "full": "Flutter Garden Bubble Romper"
         },
         {
-          "name": "Tiny Webs",
+          "name": "Flutter Garden",
+          "type": "Skort",
+          "full": "Flutter Garden Skort"
+        },
+        {
+          "name": "Underwater Discovery",
           "type": "Large Cloud Blanket®",
-          "full": "Tiny Webs Large Cloud Blanket®"
+          "full": "Underwater Discovery Large Cloud Blanket®"
         },
         {
-          "name": "Tiny Webs",
+          "name": "Underwater Discovery",
           "type": "Fitted Crib Sheet",
-          "full": "Tiny Webs Fitted Crib Sheet"
+          "full": "Underwater Discovery Fitted Crib Sheet"
         },
         {
-          "name": "Tiny Webs",
+          "name": "Underwater Discovery",
           "type": "Twin Sheet Set",
-          "full": "Tiny Webs Twin Sheet Set"
+          "full": "Underwater Discovery Twin Sheet Set"
+        },
+        {
+          "name": "Flutter Garden",
+          "type": "Large Cloud Blanket®",
+          "full": "Flutter Garden Large Cloud Blanket®"
+        },
+        {
+          "name": "Flutter Garden",
+          "type": "Fitted Crib Sheet",
+          "full": "Flutter Garden Fitted Crib Sheet"
+        },
+        {
+          "name": "Flutter Garden",
+          "type": "Twin Sheet Set",
+          "full": "Flutter Garden Twin Sheet Set"
+        },
+        {
+          "name": "Flutter Garden",
+          "type": "Swaddle & Luxe Bow Headband Set",
+          "full": "Flutter Garden Swaddle & Luxe Bow Headband Set"
+        },
+        {
+          "name": "Flutter Garden",
+          "type": "Luxe Bow Headband",
+          "full": "Flutter Garden Luxe Bow Headband"
         }
       ],
       "snipe_targets": [
         {
-          "keyword": "tiny webs zippy",
+          "keyword": "underwater discovery zippy",
           "priority": "NORMAL"
         },
         {
-          "keyword": "tiny webs shorty zippy",
+          "keyword": "underwater discovery shorty zippy",
           "priority": "NORMAL"
         },
         {
-          "keyword": "tiny webs two-piece pajama set",
+          "keyword": "underwater discovery two-piece pajama set",
           "priority": "NORMAL"
         },
         {
-          "keyword": "spin lovey",
-          "priority": "MEDIUM"
+          "keyword": "flutter garden zippy",
+          "priority": "NORMAL"
         },
         {
-          "keyword": "spidey lovey",
-          "priority": "MEDIUM"
+          "keyword": "flutter garden shorty zippy",
+          "priority": "NORMAL"
         },
         {
-          "keyword": "ghost-spider lovey",
-          "priority": "MEDIUM"
+          "keyword": "flutter garden two-piece pajama set",
+          "priority": "NORMAL"
         },
         {
-          "keyword": "tiny webs large cloud blanket®",
+          "keyword": "underwater discovery large cloud blanket®",
+          "priority": "HIGH"
+        },
+        {
+          "keyword": "flutter garden large cloud blanket®",
           "priority": "HIGH"
         }
       ],
-      "raw_item_count": 25,
+      "raw_item_count": 24,
       "parse_strategy": "found"
     }
   ]
