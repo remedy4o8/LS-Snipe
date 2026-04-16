@@ -1,170 +1,162 @@
 {
-  "scraped_at": "2026-04-14T17:07:25.040Z",
+  "scraped_at": "2026-04-16T23:40:08.455Z",
   "drops": [
     {
       "name": "Coming Soon",
-      "date": "2026-04-14",
+      "date": "2026-04-21",
       "time_local": "9am",
       "timezone": "PT",
       "drop_hour": 9,
       "drop_min": 0,
       "items": [
         {
-          "name": "Underwater Discovery",
+          "name": "Nautical Paws",
           "type": "Zippy",
-          "full": "Underwater Discovery Zippy"
+          "full": "Nautical Paws Zippy"
         },
         {
-          "name": "Underwater Discovery",
+          "name": "Nautical Paws",
           "type": "Shorty Zippy",
-          "full": "Underwater Discovery Shorty Zippy"
+          "full": "Nautical Paws Shorty Zippy"
         },
         {
-          "name": "Underwater Discovery",
+          "name": "Nautical Paws",
           "type": "Two-Piece Pajama Set",
-          "full": "Underwater Discovery Two-Piece Pajama Set"
+          "full": "Nautical Paws Two-Piece Pajama Set"
         },
         {
-          "name": "Underwater Discovery",
-          "type": "Relaxed Pocket Tee",
-          "full": "Underwater Discovery Relaxed Pocket Tee"
+          "name": "Nautical Paws",
+          "type": "Women's Pajama Shorts",
+          "full": "Nautical Paws Women's Pajama Shorts"
         },
         {
-          "name": "Underwater Discovery",
-          "type": "Pocket Shorty Romper",
-          "full": "Underwater Discovery Pocket Shorty Romper"
+          "name": "Nautical Paws",
+          "type": "Men's Pajama Shorts",
+          "full": "Nautical Paws Men's Pajama Shorts"
         },
         {
-          "name": "Underwater Discovery",
-          "type": "Pocket Bodysuit",
-          "full": "Underwater Discovery Pocket Bodysuit"
+          "name": "Nautical Paws",
+          "type": "Large Cloud Blanket®",
+          "full": "Nautical Paws Large Cloud Blanket®"
         },
         {
-          "name": "Underwater Discovery",
-          "type": "Bow Back Skater Dress",
-          "full": "Underwater Discovery Bow Back Skater Dress"
-        },
-        {
-          "name": "Flutter Garden",
+          "name": "Dockside Stripe",
           "type": "Zippy",
-          "full": "Flutter Garden Zippy"
+          "full": "Dockside Stripe Zippy"
         },
         {
-          "name": "Flutter Garden",
-          "type": "Shorty Zippy",
-          "full": "Flutter Garden Shorty Zippy"
-        },
-        {
-          "name": "Flutter Garden",
+          "name": "Dockside Stripe",
           "type": "Two-Piece Pajama Set",
-          "full": "Flutter Garden Two-Piece Pajama Set"
+          "full": "Dockside Stripe Two-Piece Pajama Set"
         },
         {
-          "name": "Flutter Garden",
-          "type": "Women's Pajama Set",
-          "full": "Flutter Garden Women's Pajama Set"
+          "name": "Dockside Stripe",
+          "type": "Two-Piece Short Sleeve & Shorts Pajama Set",
+          "full": "Dockside Stripe Two-Piece Short Sleeve & Shorts Pajama Set"
         },
         {
-          "name": "Flutter Garden",
+          "name": "Dockside Stripe",
+          "type": "Men's Pajama Top",
+          "full": "Dockside Stripe Men's Pajama Top"
+        },
+        {
+          "name": "Dockside Stripe",
+          "type": "Men's Pajama Pants",
+          "full": "Dockside Stripe Men's Pajama Pants"
+        },
+        {
+          "name": "Sweet Orchid Stripe",
+          "type": "Zippy",
+          "full": "Sweet Orchid Stripe Zippy"
+        },
+        {
+          "name": "Sweet Orchid Stripe",
+          "type": "Two-Piece Pajama Set",
+          "full": "Sweet Orchid Stripe Two-Piece Pajama Set"
+        },
+        {
+          "name": "Sweet Orchid Stripe",
           "type": "Women's Pajama Top",
-          "full": "Flutter Garden Women's Pajama Top"
+          "full": "Sweet Orchid Stripe Women's Pajama Top"
         },
         {
-          "name": "Flutter Garden",
+          "name": "Sweet Orchid Stripe",
           "type": "Women's Pajama Pants",
-          "full": "Flutter Garden Women's Pajama Pants"
+          "full": "Sweet Orchid Stripe Women's Pajama Pants"
         },
         {
-          "name": "Flutter Garden",
-          "type": "Flutter Skater Dress",
-          "full": "Flutter Garden Flutter Skater Dress"
-        },
-        {
-          "name": "Flutter Garden",
-          "type": "Bubble Romper",
-          "full": "Flutter Garden Bubble Romper"
-        },
-        {
-          "name": "Flutter Garden",
-          "type": "Skort",
-          "full": "Flutter Garden Skort"
-        },
-        {
-          "name": "Underwater Discovery",
-          "type": "Large Cloud Blanket®",
-          "full": "Underwater Discovery Large Cloud Blanket®"
-        },
-        {
-          "name": "Underwater Discovery",
-          "type": "Fitted Crib Sheet",
-          "full": "Underwater Discovery Fitted Crib Sheet"
-        },
-        {
-          "name": "Underwater Discovery",
-          "type": "Twin Sheet Set",
-          "full": "Underwater Discovery Twin Sheet Set"
-        },
-        {
-          "name": "Flutter Garden",
-          "type": "Large Cloud Blanket®",
-          "full": "Flutter Garden Large Cloud Blanket®"
-        },
-        {
-          "name": "Flutter Garden",
-          "type": "Fitted Crib Sheet",
-          "full": "Flutter Garden Fitted Crib Sheet"
-        },
-        {
-          "name": "Flutter Garden",
-          "type": "Twin Sheet Set",
-          "full": "Flutter Garden Twin Sheet Set"
-        },
-        {
-          "name": "Flutter Garden",
-          "type": "Swaddle & Luxe Bow Headband Set",
-          "full": "Flutter Garden Swaddle & Luxe Bow Headband Set"
-        },
-        {
-          "name": "Flutter Garden",
+          "name": "Sweet Orchid Stripe",
           "type": "Luxe Bow Headband",
-          "full": "Flutter Garden Luxe Bow Headband"
+          "full": "Sweet Orchid Stripe Luxe Bow Headband"
+        },
+        {
+          "name": "Marigold Stripe",
+          "type": "Zippy",
+          "full": "Marigold Stripe Zippy"
+        },
+        {
+          "name": "Marigold Stripe",
+          "type": "Two-Piece Pajama Set",
+          "full": "Marigold Stripe Two-Piece Pajama Set"
+        },
+        {
+          "name": "Marigold Stripe",
+          "type": "Women's Pajama Top",
+          "full": "Marigold Stripe Women's Pajama Top"
+        },
+        {
+          "name": "Marigold Stripe",
+          "type": "Women's Pajama Pants",
+          "full": "Marigold Stripe Women's Pajama Pants"
         }
       ],
       "snipe_targets": [
         {
-          "keyword": "underwater discovery zippy",
+          "keyword": "nautical paws zippy",
           "priority": "NORMAL"
         },
         {
-          "keyword": "underwater discovery shorty zippy",
+          "keyword": "nautical paws shorty zippy",
           "priority": "NORMAL"
         },
         {
-          "keyword": "underwater discovery two-piece pajama set",
+          "keyword": "nautical paws two-piece pajama set",
           "priority": "NORMAL"
         },
         {
-          "keyword": "flutter garden zippy",
-          "priority": "NORMAL"
-        },
-        {
-          "keyword": "flutter garden shorty zippy",
-          "priority": "NORMAL"
-        },
-        {
-          "keyword": "flutter garden two-piece pajama set",
-          "priority": "NORMAL"
-        },
-        {
-          "keyword": "underwater discovery large cloud blanket®",
+          "keyword": "nautical paws large cloud blanket®",
           "priority": "HIGH"
         },
         {
-          "keyword": "flutter garden large cloud blanket®",
-          "priority": "HIGH"
+          "keyword": "dockside stripe zippy",
+          "priority": "NORMAL"
+        },
+        {
+          "keyword": "dockside stripe two-piece pajama set",
+          "priority": "NORMAL"
+        },
+        {
+          "keyword": "dockside stripe two-piece short sleeve & shorts pajama set",
+          "priority": "NORMAL"
+        },
+        {
+          "keyword": "sweet orchid stripe zippy",
+          "priority": "NORMAL"
+        },
+        {
+          "keyword": "sweet orchid stripe two-piece pajama set",
+          "priority": "NORMAL"
+        },
+        {
+          "keyword": "marigold stripe zippy",
+          "priority": "NORMAL"
+        },
+        {
+          "keyword": "marigold stripe two-piece pajama set",
+          "priority": "NORMAL"
         }
       ],
-      "raw_item_count": 24,
+      "raw_item_count": 20,
       "parse_strategy": "found"
     }
   ]
