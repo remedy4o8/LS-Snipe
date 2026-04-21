@@ -1,162 +1,187 @@
 {
-  "scraped_at": "2026-04-21T17:01:46.386Z",
+  "scraped_at": "2026-04-21T23:34:58.885Z",
   "drops": [
     {
       "name": "Coming Soon",
-      "date": "2026-04-21",
+      "date": "2026-04-23",
       "time_local": "9am",
       "timezone": "PT",
       "drop_hour": 9,
       "drop_min": 0,
       "items": [
         {
-          "name": "Nautical Paws",
-          "type": "Zippy",
-          "full": "Nautical Paws Zippy"
+          "name": "Aqua Surf",
+          "type": "Relaxed Pocket Tee",
+          "full": "Aqua Surf Relaxed Pocket Tee"
         },
         {
-          "name": "Nautical Paws",
-          "type": "Shorty Zippy",
-          "full": "Nautical Paws Shorty Zippy"
+          "name": "Beach Coral",
+          "type": "Asymmetrical Dress",
+          "full": "Beach Coral Asymmetrical Dress"
         },
         {
-          "name": "Nautical Paws",
-          "type": "Two-Piece Pajama Set",
-          "full": "Nautical Paws Two-Piece Pajama Set"
+          "name": "Beach Coral",
+          "type": "Smocked Top with Bloomer",
+          "full": "Beach Coral Smocked Top with Bloomer"
         },
         {
-          "name": "Nautical Paws",
-          "type": "Women's Pajama Shorts",
-          "full": "Nautical Paws Women's Pajama Shorts"
+          "name": "Coastal Rays",
+          "type": "Bow Front Flutter Top",
+          "full": "Coastal Rays Bow Front Flutter Top"
         },
         {
-          "name": "Nautical Paws",
-          "type": "Men's Pajama Shorts",
-          "full": "Nautical Paws Men's Pajama Shorts"
+          "name": "Coastal Rays",
+          "type": "Bucket Hat",
+          "full": "Coastal Rays Bucket Hat"
         },
         {
-          "name": "Nautical Paws",
-          "type": "Large Cloud Blanket®",
-          "full": "Nautical Paws Large Cloud Blanket®"
+          "name": "Coastal Rays",
+          "type": "Button Down Polo",
+          "full": "Coastal Rays Button Down Polo"
         },
         {
-          "name": "Dockside Stripe",
-          "type": "Zippy",
-          "full": "Dockside Stripe Zippy"
+          "name": "Coastal Rays",
+          "type": "Drawstring Shorts",
+          "full": "Coastal Rays Drawstring Shorts"
         },
         {
-          "name": "Dockside Stripe",
-          "type": "Two-Piece Pajama Set",
-          "full": "Dockside Stripe Two-Piece Pajama Set"
+          "name": "Coastal Rays",
+          "type": "Flounce Skort",
+          "full": "Coastal Rays Flounce Skort"
         },
         {
-          "name": "Dockside Stripe",
-          "type": "Two-Piece Short Sleeve & Shorts Pajama Set",
-          "full": "Dockside Stripe Two-Piece Short Sleeve & Shorts Pajama Set"
+          "name": "Coastal Rays",
+          "type": "Flutter Bodysuit",
+          "full": "Coastal Rays Flutter Bodysuit"
         },
         {
-          "name": "Dockside Stripe",
-          "type": "Men's Pajama Top",
-          "full": "Dockside Stripe Men's Pajama Top"
+          "name": "Coastal Rays",
+          "type": "Henley Tank Set",
+          "full": "Coastal Rays Henley Tank Set"
         },
         {
-          "name": "Dockside Stripe",
-          "type": "Men's Pajama Pants",
-          "full": "Dockside Stripe Men's Pajama Pants"
+          "name": "Palm Dunes",
+          "type": "Bubble Romper",
+          "full": "Palm Dunes Bubble Romper"
         },
         {
-          "name": "Sweet Orchid Stripe",
-          "type": "Zippy",
-          "full": "Sweet Orchid Stripe Zippy"
+          "name": "Palm Dunes",
+          "type": "Button Down Polo",
+          "full": "Palm Dunes Button Down Polo"
         },
         {
-          "name": "Sweet Orchid Stripe",
-          "type": "Two-Piece Pajama Set",
-          "full": "Sweet Orchid Stripe Two-Piece Pajama Set"
+          "name": "Palm Dunes",
+          "type": "Pocket Tank",
+          "full": "Palm Dunes Pocket Tank"
         },
         {
-          "name": "Sweet Orchid Stripe",
-          "type": "Women's Pajama Top",
-          "full": "Sweet Orchid Stripe Women's Pajama Top"
+          "name": "Palm Dunes",
+          "type": "Smocked Tank & Shorts Set",
+          "full": "Palm Dunes Smocked Tank & Shorts Set"
         },
         {
-          "name": "Sweet Orchid Stripe",
-          "type": "Women's Pajama Pants",
-          "full": "Sweet Orchid Stripe Women's Pajama Pants"
+          "name": "Palm Dunes",
+          "type": "Tank Button Romper",
+          "full": "Palm Dunes Tank Button Romper"
         },
         {
-          "name": "Sweet Orchid Stripe",
-          "type": "Luxe Bow Headband",
-          "full": "Sweet Orchid Stripe Luxe Bow Headband"
+          "name": "Salt Water Social Club",
+          "type": "Relaxed Tee",
+          "full": "Salt Water Social Club Relaxed Tee"
         },
         {
-          "name": "Marigold Stripe",
-          "type": "Zippy",
-          "full": "Marigold Stripe Zippy"
+          "name": "Sand Bar",
+          "type": "Relaxed Pocket Tee",
+          "full": "Sand Bar Relaxed Pocket Tee"
         },
         {
-          "name": "Marigold Stripe",
-          "type": "Two-Piece Pajama Set",
-          "full": "Marigold Stripe Two-Piece Pajama Set"
+          "name": "Seashell Cove",
+          "type": "Smocked Tank & Shorts Set",
+          "full": "Seashell Cove Smocked Tank & Shorts Set"
         },
         {
-          "name": "Marigold Stripe",
-          "type": "Women's Pajama Top",
-          "full": "Marigold Stripe Women's Pajama Top"
+          "name": "Shark Fin Checks",
+          "type": "Dolman Henley Romper",
+          "full": "Shark Fin Checks Dolman Henley Romper"
         },
         {
-          "name": "Marigold Stripe",
-          "type": "Women's Pajama Pants",
-          "full": "Marigold Stripe Women's Pajama Pants"
+          "name": "Shark Fin Checks",
+          "type": "Drawstring Shorts",
+          "full": "Shark Fin Checks Drawstring Shorts"
+        },
+        {
+          "name": "Shark Fin Checks",
+          "type": "Relaxed Pocket Tee",
+          "full": "Shark Fin Checks Relaxed Pocket Tee"
+        },
+        {
+          "name": "Shoreline Blooms",
+          "type": "Cross Back Skater Dress",
+          "full": "Shoreline Blooms Cross Back Skater Dress"
+        },
+        {
+          "name": "Shoreline Blooms",
+          "type": "Cross Back Skater Dress with Bloomer",
+          "full": "Shoreline Blooms Cross Back Skater Dress with Bloomer"
+        },
+        {
+          "name": "Shoreline Blooms",
+          "type": "Smocked Bubble Romper",
+          "full": "Shoreline Blooms Smocked Bubble Romper"
+        },
+        {
+          "name": "Sparkling Seas",
+          "type": "Flutter Bodysuit",
+          "full": "Sparkling Seas Flutter Bodysuit"
+        },
+        {
+          "name": "Sparkling Seas",
+          "type": "Puff Sleeve Tee",
+          "full": "Sparkling Seas Puff Sleeve Tee"
+        },
+        {
+          "name": "Surf's Up",
+          "type": "Relaxed Tee",
+          "full": "Surf's Up Relaxed Tee"
+        },
+        {
+          "name": "Swell Stripes",
+          "type": "Drawstring Shorts",
+          "full": "Swell Stripes Drawstring Shorts"
+        },
+        {
+          "name": "Swell Stripes",
+          "type": "Hooded Tee",
+          "full": "Swell Stripes Hooded Tee"
+        },
+        {
+          "name": "Swell Stripes",
+          "type": "Pocket Bodysuit",
+          "full": "Swell Stripes Pocket Bodysuit"
+        },
+        {
+          "name": "Swell Stripes",
+          "type": "Pocket Tank",
+          "full": "Swell Stripes Pocket Tank"
+        },
+        {
+          "name": "Swell Stripes",
+          "type": "Relaxed Pocket Tee",
+          "full": "Swell Stripes Relaxed Pocket Tee"
+        },
+        {
+          "name": "Toasted Hazelnut",
+          "type": "Chino Shorts",
+          "full": "Toasted Hazelnut Chino Shorts"
+        },
+        {
+          "name": "Vintage Navy",
+          "type": "Chino Shorts",
+          "full": "Vintage Navy Chino Shorts"
         }
       ],
-      "snipe_targets": [
-        {
-          "keyword": "nautical paws zippy",
-          "priority": "NORMAL"
-        },
-        {
-          "keyword": "nautical paws shorty zippy",
-          "priority": "NORMAL"
-        },
-        {
-          "keyword": "nautical paws two-piece pajama set",
-          "priority": "NORMAL"
-        },
-        {
-          "keyword": "nautical paws large cloud blanket®",
-          "priority": "HIGH"
-        },
-        {
-          "keyword": "dockside stripe zippy",
-          "priority": "NORMAL"
-        },
-        {
-          "keyword": "dockside stripe two-piece pajama set",
-          "priority": "NORMAL"
-        },
-        {
-          "keyword": "dockside stripe two-piece short sleeve & shorts pajama set",
-          "priority": "NORMAL"
-        },
-        {
-          "keyword": "sweet orchid stripe zippy",
-          "priority": "NORMAL"
-        },
-        {
-          "keyword": "sweet orchid stripe two-piece pajama set",
-          "priority": "NORMAL"
-        },
-        {
-          "keyword": "marigold stripe zippy",
-          "priority": "NORMAL"
-        },
-        {
-          "keyword": "marigold stripe two-piece pajama set",
-          "priority": "NORMAL"
-        }
-      ],
-      "raw_item_count": 20,
+      "snipe_targets": [],
+      "raw_item_count": 34,
       "parse_strategy": "found"
     }
   ]
