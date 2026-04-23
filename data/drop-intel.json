@@ -1,187 +1,157 @@
 {
-  "scraped_at": "2026-04-23T15:53:09.910Z",
+  "scraped_at": "2026-04-23T23:44:55.775Z",
   "drops": [
     {
       "name": "Coming Soon",
-      "date": "2026-04-23",
+      "date": "2026-04-28",
       "time_local": "9am",
       "timezone": "PT",
       "drop_hour": 9,
       "drop_min": 0,
       "items": [
         {
-          "name": "Aqua Surf",
-          "type": "Relaxed Pocket Tee",
-          "full": "Aqua Surf Relaxed Pocket Tee"
-        },
-        {
-          "name": "Beach Coral",
-          "type": "Asymmetrical Dress",
-          "full": "Beach Coral Asymmetrical Dress"
-        },
-        {
-          "name": "Beach Coral",
-          "type": "Smocked Top with Bloomer",
-          "full": "Beach Coral Smocked Top with Bloomer"
-        },
-        {
-          "name": "Coastal Rays",
-          "type": "Bow Front Flutter Top",
-          "full": "Coastal Rays Bow Front Flutter Top"
-        },
-        {
-          "name": "Coastal Rays",
-          "type": "Bucket Hat",
-          "full": "Coastal Rays Bucket Hat"
-        },
-        {
-          "name": "Coastal Rays",
-          "type": "Button Down Polo",
-          "full": "Coastal Rays Button Down Polo"
-        },
-        {
-          "name": "Coastal Rays",
-          "type": "Drawstring Shorts",
-          "full": "Coastal Rays Drawstring Shorts"
-        },
-        {
-          "name": "Coastal Rays",
-          "type": "Flounce Skort",
-          "full": "Coastal Rays Flounce Skort"
-        },
-        {
-          "name": "Coastal Rays",
-          "type": "Flutter Bodysuit",
-          "full": "Coastal Rays Flutter Bodysuit"
-        },
-        {
-          "name": "Coastal Rays",
-          "type": "Henley Tank Set",
-          "full": "Coastal Rays Henley Tank Set"
-        },
-        {
-          "name": "Palm Dunes",
-          "type": "Bubble Romper",
-          "full": "Palm Dunes Bubble Romper"
-        },
-        {
-          "name": "Palm Dunes",
-          "type": "Button Down Polo",
-          "full": "Palm Dunes Button Down Polo"
-        },
-        {
-          "name": "Palm Dunes",
-          "type": "Pocket Tank",
-          "full": "Palm Dunes Pocket Tank"
-        },
-        {
-          "name": "Palm Dunes",
-          "type": "Smocked Tank & Shorts Set",
-          "full": "Palm Dunes Smocked Tank & Shorts Set"
-        },
-        {
-          "name": "Palm Dunes",
-          "type": "Tank Button Romper",
-          "full": "Palm Dunes Tank Button Romper"
-        },
-        {
-          "name": "Salt Water Social Club",
+          "name": "Little Rebels",
           "type": "Relaxed Tee",
-          "full": "Salt Water Social Club Relaxed Tee"
+          "full": "Little Rebels Relaxed Tee"
         },
         {
-          "name": "Sand Bar",
-          "type": "Relaxed Pocket Tee",
-          "full": "Sand Bar Relaxed Pocket Tee"
+          "name": "Little Rebels",
+          "type": "Bodysuit",
+          "full": "Little Rebels Bodysuit"
         },
         {
-          "name": "Seashell Cove",
-          "type": "Smocked Tank & Shorts Set",
-          "full": "Seashell Cove Smocked Tank & Shorts Set"
+          "name": "Yoda",
+          "type": "Lovey",
+          "full": "Yoda Lovey"
         },
         {
-          "name": "Shark Fin Checks",
-          "type": "Dolman Henley Romper",
-          "full": "Shark Fin Checks Dolman Henley Romper"
+          "name": "Far, Far, Away Friends",
+          "type": "Crewneck Sweatshirt",
+          "full": "Far, Far, Away Friends Crewneck Sweatshirt"
         },
         {
-          "name": "Shark Fin Checks",
-          "type": "Drawstring Shorts",
-          "full": "Shark Fin Checks Drawstring Shorts"
+          "name": "Far, Far, Away Friends",
+          "type": "Skater Dress",
+          "full": "Far, Far, Away Friends Skater Dress"
         },
         {
-          "name": "Shark Fin Checks",
-          "type": "Relaxed Pocket Tee",
-          "full": "Shark Fin Checks Relaxed Pocket Tee"
+          "name": "Far, Far, Away Friends",
+          "type": "Skater Dress with Bodysuit",
+          "full": "Far, Far, Away Friends Skater Dress with Bodysuit"
         },
         {
-          "name": "Shoreline Blooms",
-          "type": "Cross Back Skater Dress",
-          "full": "Shoreline Blooms Cross Back Skater Dress"
+          "name": "Far, Far, Away Friends",
+          "type": "Bodysuit",
+          "full": "Far, Far, Away Friends Bodysuit"
         },
         {
-          "name": "Shoreline Blooms",
-          "type": "Cross Back Skater Dress with Bloomer",
-          "full": "Shoreline Blooms Cross Back Skater Dress with Bloomer"
+          "name": "Far, Far, Away Friends",
+          "type": "Zippy",
+          "full": "Far, Far, Away Friends Zippy"
         },
         {
-          "name": "Shoreline Blooms",
-          "type": "Smocked Bubble Romper",
-          "full": "Shoreline Blooms Smocked Bubble Romper"
+          "name": "Far, Far, Away Friends",
+          "type": "Shorty Zippy",
+          "full": "Far, Far, Away Friends Shorty Zippy"
         },
         {
-          "name": "Sparkling Seas",
-          "type": "Flutter Bodysuit",
-          "full": "Sparkling Seas Flutter Bodysuit"
+          "name": "Far, Far, Away Friends",
+          "type": "Two-Piece Pajama Set",
+          "full": "Far, Far, Away Friends Two-Piece Pajama Set"
         },
         {
-          "name": "Sparkling Seas",
-          "type": "Puff Sleeve Tee",
-          "full": "Sparkling Seas Puff Sleeve Tee"
+          "name": "Far, Far, Away Friends",
+          "type": "Far, Far, Away Friends Two-Piece Pajama Set",
+          "full": "Far, Far, Away Friends Far, Far, Away Friends Two-Piece Pajama Set"
         },
         {
-          "name": "Surf's Up",
+          "name": "Dark Side",
+          "type": "Bodysuit",
+          "full": "Dark Side Bodysuit"
+        },
+        {
+          "name": "Dark Side",
           "type": "Relaxed Tee",
-          "full": "Surf's Up Relaxed Tee"
+          "full": "Dark Side Relaxed Tee"
         },
         {
-          "name": "Swell Stripes",
-          "type": "Drawstring Shorts",
-          "full": "Swell Stripes Drawstring Shorts"
+          "name": "Far, Far, Away Friends",
+          "type": "Women's Pajama Top",
+          "full": "Far, Far, Away Friends Women's Pajama Top"
         },
         {
-          "name": "Swell Stripes",
-          "type": "Hooded Tee",
-          "full": "Swell Stripes Hooded Tee"
+          "name": "Far, Far, Away Friends",
+          "type": "Women's Pajama Pants",
+          "full": "Far, Far, Away Friends Women's Pajama Pants"
         },
         {
-          "name": "Swell Stripes",
-          "type": "Pocket Bodysuit",
-          "full": "Swell Stripes Pocket Bodysuit"
+          "name": "Far, Far, Away Friends",
+          "type": "Men's Pajama Top",
+          "full": "Far, Far, Away Friends Men's Pajama Top"
         },
         {
-          "name": "Swell Stripes",
-          "type": "Pocket Tank",
-          "full": "Swell Stripes Pocket Tank"
+          "name": "Far, Far, Away Friends",
+          "type": "Men's Pajama Pants",
+          "full": "Far, Far, Away Friends Men's Pajama Pants"
         },
         {
-          "name": "Swell Stripes",
-          "type": "Relaxed Pocket Tee",
-          "full": "Swell Stripes Relaxed Pocket Tee"
+          "name": "Far, Far, Away Friends",
+          "type": "Swaddle & Beanie Set",
+          "full": "Far, Far, Away Friends Swaddle & Beanie Set"
         },
         {
-          "name": "Toasted Hazelnut",
-          "type": "Chino Shorts",
-          "full": "Toasted Hazelnut Chino Shorts"
+          "name": "Far, Far, Away Friends",
+          "type": "Swaddle & Luxe Bow Headband Set",
+          "full": "Far, Far, Away Friends Swaddle & Luxe Bow Headband Set"
         },
         {
-          "name": "Vintage Navy",
-          "type": "Chino Shorts",
-          "full": "Vintage Navy Chino Shorts"
+          "name": "Far, Far, Away Friends",
+          "type": "Luxe Bow Headband",
+          "full": "Far, Far, Away Friends Luxe Bow Headband"
+        },
+        {
+          "name": "Far, Far, Away Friends",
+          "type": "Large Cloud Blanket®",
+          "full": "Far, Far, Away Friends Large Cloud Blanket®"
+        },
+        {
+          "name": "Far, Far, Away Friends",
+          "type": "Fitted Crib Sheet",
+          "full": "Far, Far, Away Friends Fitted Crib Sheet"
+        },
+        {
+          "name": "Far, Far, Away Friends",
+          "type": "Twin Sheet Set",
+          "full": "Far, Far, Away Friends Twin Sheet Set"
         }
       ],
-      "snipe_targets": [],
-      "raw_item_count": 34,
+      "snipe_targets": [
+        {
+          "keyword": "yoda lovey",
+          "priority": "MEDIUM"
+        },
+        {
+          "keyword": "far, far, away friends zippy",
+          "priority": "NORMAL"
+        },
+        {
+          "keyword": "far, far, away friends shorty zippy",
+          "priority": "NORMAL"
+        },
+        {
+          "keyword": "far, far, away friends two-piece pajama set",
+          "priority": "NORMAL"
+        },
+        {
+          "keyword": "far, far, away friends far, far, away friends two-piece pajama set",
+          "priority": "NORMAL"
+        },
+        {
+          "keyword": "far, far, away friends large cloud blanket®",
+          "priority": "HIGH"
+        }
+      ],
+      "raw_item_count": 23,
       "parse_strategy": "found"
     }
   ]
