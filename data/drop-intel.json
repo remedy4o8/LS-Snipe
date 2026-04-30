@@ -1,157 +1,129 @@
 {
-  "scraped_at": "2026-04-29T12:18:12.989Z",
+  "scraped_at": "2026-04-30T23:52:48.355Z",
   "drops": [
     {
       "name": "Coming Soon",
-      "date": "2026-04-28",
+      "date": "2026-05-05",
       "time_local": "9am",
       "timezone": "PT",
       "drop_hour": 9,
       "drop_min": 0,
       "items": [
         {
-          "name": "Little Rebels",
-          "type": "Relaxed Tee",
-          "full": "Little Rebels Relaxed Tee"
-        },
-        {
-          "name": "Little Rebels",
-          "type": "Bodysuit",
-          "full": "Little Rebels Bodysuit"
-        },
-        {
-          "name": "Yoda",
-          "type": "Lovey",
-          "full": "Yoda Lovey"
-        },
-        {
-          "name": "Far, Far, Away Friends",
-          "type": "Crewneck Sweatshirt",
-          "full": "Far, Far, Away Friends Crewneck Sweatshirt"
-        },
-        {
-          "name": "Far, Far, Away Friends",
-          "type": "Skater Dress",
-          "full": "Far, Far, Away Friends Skater Dress"
-        },
-        {
-          "name": "Far, Far, Away Friends",
-          "type": "Skater Dress with Bodysuit",
-          "full": "Far, Far, Away Friends Skater Dress with Bodysuit"
-        },
-        {
-          "name": "Far, Far, Away Friends",
-          "type": "Bodysuit",
-          "full": "Far, Far, Away Friends Bodysuit"
-        },
-        {
-          "name": "Far, Far, Away Friends",
+          "name": "Soccer Stars",
           "type": "Zippy",
-          "full": "Far, Far, Away Friends Zippy"
+          "full": "Soccer Stars Zippy"
         },
         {
-          "name": "Far, Far, Away Friends",
+          "name": "Soccer Stars",
           "type": "Shorty Zippy",
-          "full": "Far, Far, Away Friends Shorty Zippy"
+          "full": "Soccer Stars Shorty Zippy"
         },
         {
-          "name": "Far, Far, Away Friends",
+          "name": "Soccer Stars",
+          "type": "Pocket Shorty Romper",
+          "full": "Soccer Stars Pocket Shorty Romper"
+        },
+        {
+          "name": "Soccer Stars",
           "type": "Two-Piece Pajama Set",
-          "full": "Far, Far, Away Friends Two-Piece Pajama Set"
+          "full": "Soccer Stars Two-Piece Pajama Set"
         },
         {
-          "name": "Far, Far, Away Friends",
-          "type": "Far, Far, Away Friends Two-Piece Pajama Set",
-          "full": "Far, Far, Away Friends Far, Far, Away Friends Two-Piece Pajama Set"
+          "name": "Soccer Stars",
+          "type": "Relaxed Pocket Tee",
+          "full": "Soccer Stars Relaxed Pocket Tee"
         },
         {
-          "name": "Dark Side",
-          "type": "Bodysuit",
-          "full": "Dark Side Bodysuit"
+          "name": "Soccer Stars",
+          "type": "Zip Hoodie",
+          "full": "Soccer Stars Zip Hoodie"
         },
         {
-          "name": "Dark Side",
-          "type": "Relaxed Tee",
-          "full": "Dark Side Relaxed Tee"
-        },
-        {
-          "name": "Far, Far, Away Friends",
+          "name": "Soccer Stars",
           "type": "Women's Pajama Top",
-          "full": "Far, Far, Away Friends Women's Pajama Top"
+          "full": "Soccer Stars Women's Pajama Top"
         },
         {
-          "name": "Far, Far, Away Friends",
+          "name": "Soccer Stars",
           "type": "Women's Pajama Pants",
-          "full": "Far, Far, Away Friends Women's Pajama Pants"
+          "full": "Soccer Stars Women's Pajama Pants"
         },
         {
-          "name": "Far, Far, Away Friends",
+          "name": "Soccer Stars",
           "type": "Men's Pajama Top",
-          "full": "Far, Far, Away Friends Men's Pajama Top"
+          "full": "Soccer Stars Men's Pajama Top"
         },
         {
-          "name": "Far, Far, Away Friends",
+          "name": "Soccer Stars",
           "type": "Men's Pajama Pants",
-          "full": "Far, Far, Away Friends Men's Pajama Pants"
+          "full": "Soccer Stars Men's Pajama Pants"
         },
         {
-          "name": "Far, Far, Away Friends",
-          "type": "Swaddle & Beanie Set",
-          "full": "Far, Far, Away Friends Swaddle & Beanie Set"
+          "name": "Soccer Stars",
+          "type": "Bubble Romper",
+          "full": "Soccer Stars Bubble Romper"
         },
         {
-          "name": "Far, Far, Away Friends",
-          "type": "Swaddle & Luxe Bow Headband Set",
-          "full": "Far, Far, Away Friends Swaddle & Luxe Bow Headband Set"
+          "name": "Soccer Stars",
+          "type": "Skater Dress with Bodysuit",
+          "full": "Soccer Stars Skater Dress with Bodysuit"
         },
         {
-          "name": "Far, Far, Away Friends",
-          "type": "Luxe Bow Headband",
-          "full": "Far, Far, Away Friends Luxe Bow Headband"
+          "name": "Soccer Stars",
+          "type": "Skater Dress",
+          "full": "Soccer Stars Skater Dress"
         },
         {
-          "name": "Far, Far, Away Friends",
+          "name": "Soccer Stars",
           "type": "Large Cloud Blanket®",
-          "full": "Far, Far, Away Friends Large Cloud Blanket®"
+          "full": "Soccer Stars Large Cloud Blanket®"
         },
         {
-          "name": "Far, Far, Away Friends",
+          "name": "Soccer Stars",
           "type": "Fitted Crib Sheet",
-          "full": "Far, Far, Away Friends Fitted Crib Sheet"
+          "full": "Soccer Stars Fitted Crib Sheet"
         },
         {
-          "name": "Far, Far, Away Friends",
+          "name": "Soccer Stars",
           "type": "Twin Sheet Set",
-          "full": "Far, Far, Away Friends Twin Sheet Set"
+          "full": "Soccer Stars Twin Sheet Set"
+        },
+        {
+          "name": "Soccer Stars",
+          "type": "Swaddle & Beanie Set",
+          "full": "Soccer Stars Swaddle & Beanie Set"
+        },
+        {
+          "name": "Soccer Stars",
+          "type": "Swaddle & Luxe Bow Headband Set",
+          "full": "Soccer Stars Swaddle & Luxe Bow Headband Set"
+        },
+        {
+          "name": "Soccer Stars",
+          "type": "Luxe Bow Headband",
+          "full": "Soccer Stars Luxe Bow Headband"
         }
       ],
       "snipe_targets": [
         {
-          "keyword": "yoda lovey",
-          "priority": "MEDIUM"
-        },
-        {
-          "keyword": "far, far, away friends zippy",
+          "keyword": "soccer stars zippy",
           "priority": "NORMAL"
         },
         {
-          "keyword": "far, far, away friends shorty zippy",
+          "keyword": "soccer stars shorty zippy",
           "priority": "NORMAL"
         },
         {
-          "keyword": "far, far, away friends two-piece pajama set",
+          "keyword": "soccer stars two-piece pajama set",
           "priority": "NORMAL"
         },
         {
-          "keyword": "far, far, away friends far, far, away friends two-piece pajama set",
-          "priority": "NORMAL"
-        },
-        {
-          "keyword": "far, far, away friends large cloud blanket®",
+          "keyword": "soccer stars large cloud blanket®",
           "priority": "HIGH"
         }
       ],
-      "raw_item_count": 23,
+      "raw_item_count": 19,
       "parse_strategy": "found"
     }
   ]
