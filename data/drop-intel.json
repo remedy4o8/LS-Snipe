@@ -1,129 +1,192 @@
 {
-  "scraped_at": "2026-05-05T12:01:54.753Z",
+  "scraped_at": "2026-05-08T02:53:25.217Z",
   "drops": [
     {
       "name": "Coming Soon",
-      "date": "2026-05-05",
+      "date": "2026-05-12",
       "time_local": "9am",
       "timezone": "PT",
       "drop_hour": 9,
       "drop_min": 0,
       "items": [
         {
-          "name": "Soccer Stars",
+          "name": "Sparkle Treats",
           "type": "Zippy",
-          "full": "Soccer Stars Zippy"
+          "full": "Sparkle Treats Zippy"
         },
         {
-          "name": "Soccer Stars",
+          "name": "Sparkle Treats",
           "type": "Shorty Zippy",
-          "full": "Soccer Stars Shorty Zippy"
+          "full": "Sparkle Treats Shorty Zippy"
         },
         {
-          "name": "Soccer Stars",
-          "type": "Pocket Shorty Romper",
-          "full": "Soccer Stars Pocket Shorty Romper"
-        },
-        {
-          "name": "Soccer Stars",
-          "type": "Two-Piece Pajama Set",
-          "full": "Soccer Stars Two-Piece Pajama Set"
-        },
-        {
-          "name": "Soccer Stars",
-          "type": "Relaxed Pocket Tee",
-          "full": "Soccer Stars Relaxed Pocket Tee"
-        },
-        {
-          "name": "Soccer Stars",
-          "type": "Zip Hoodie",
-          "full": "Soccer Stars Zip Hoodie"
-        },
-        {
-          "name": "Soccer Stars",
-          "type": "Women's Pajama Top",
-          "full": "Soccer Stars Women's Pajama Top"
-        },
-        {
-          "name": "Soccer Stars",
-          "type": "Women's Pajama Pants",
-          "full": "Soccer Stars Women's Pajama Pants"
-        },
-        {
-          "name": "Soccer Stars",
-          "type": "Men's Pajama Top",
-          "full": "Soccer Stars Men's Pajama Top"
-        },
-        {
-          "name": "Soccer Stars",
-          "type": "Men's Pajama Pants",
-          "full": "Soccer Stars Men's Pajama Pants"
-        },
-        {
-          "name": "Soccer Stars",
+          "name": "Sparkle Treats",
           "type": "Bubble Romper",
-          "full": "Soccer Stars Bubble Romper"
+          "full": "Sparkle Treats Bubble Romper"
         },
         {
-          "name": "Soccer Stars",
-          "type": "Skater Dress with Bodysuit",
-          "full": "Soccer Stars Skater Dress with Bodysuit"
+          "name": "Sparkle Treats",
+          "type": "Henley Romper",
+          "full": "Sparkle Treats Henley Romper"
         },
         {
-          "name": "Soccer Stars",
-          "type": "Skater Dress",
-          "full": "Soccer Stars Skater Dress"
+          "name": "Sparkle Treats",
+          "type": "Flutter Skater Dress with Bodysuit",
+          "full": "Sparkle Treats Flutter Skater Dress with Bodysuit"
         },
         {
-          "name": "Soccer Stars",
-          "type": "Large Cloud Blanket®",
-          "full": "Soccer Stars Large Cloud Blanket®"
+          "name": "Sparkle Treats",
+          "type": "Two-Piece Pajama Set",
+          "full": "Sparkle Treats Two-Piece Pajama Set"
         },
         {
-          "name": "Soccer Stars",
-          "type": "Fitted Crib Sheet",
-          "full": "Soccer Stars Fitted Crib Sheet"
+          "name": "Sparkle Treats",
+          "type": "Flutter Skater Dress",
+          "full": "Sparkle Treats Flutter Skater Dress"
         },
         {
-          "name": "Soccer Stars",
-          "type": "Twin Sheet Set",
-          "full": "Soccer Stars Twin Sheet Set"
+          "name": "Sparkle Treats",
+          "type": "Women's Pajama Top",
+          "full": "Sparkle Treats Women's Pajama Top"
         },
         {
-          "name": "Soccer Stars",
-          "type": "Swaddle & Beanie Set",
-          "full": "Soccer Stars Swaddle & Beanie Set"
+          "name": "Sparkle Treats",
+          "type": "Women's Pajama Shorts",
+          "full": "Sparkle Treats Women's Pajama Shorts"
         },
         {
-          "name": "Soccer Stars",
-          "type": "Swaddle & Luxe Bow Headband Set",
-          "full": "Soccer Stars Swaddle & Luxe Bow Headband Set"
+          "name": "Sparkle Treats",
+          "type": "Men's Pajama Top",
+          "full": "Sparkle Treats Men's Pajama Top"
         },
         {
-          "name": "Soccer Stars",
+          "name": "Sparkle Treats",
+          "type": "Men's Pajama Shorts",
+          "full": "Sparkle Treats Men's Pajama Shorts"
+        },
+        {
+          "name": "Sparkle Treats",
+          "type": "Pet Bandana",
+          "full": "Sparkle Treats Pet Bandana"
+        },
+        {
+          "name": "Sparkle Treats",
           "type": "Luxe Bow Headband",
-          "full": "Soccer Stars Luxe Bow Headband"
+          "full": "Sparkle Treats Luxe Bow Headband"
+        },
+        {
+          "name": "Starry Splash",
+          "type": "Zippy",
+          "full": "Starry Splash Zippy"
+        },
+        {
+          "name": "Starry Splash",
+          "type": "Shorty Zippy",
+          "full": "Starry Splash Shorty Zippy"
+        },
+        {
+          "name": "Starry Splash",
+          "type": "Two-Piece Pajama Set",
+          "full": "Starry Splash Two-Piece Pajama Set"
+        },
+        {
+          "name": "Starry Splash",
+          "type": "Women's Pajama Top",
+          "full": "Starry Splash Women's Pajama Top"
+        },
+        {
+          "name": "Starry Splash",
+          "type": "Women's Pajama Shorts",
+          "full": "Starry Splash Women's Pajama Shorts"
+        },
+        {
+          "name": "Starry Splash",
+          "type": "Men's Pajama Top",
+          "full": "Starry Splash Men's Pajama Top"
+        },
+        {
+          "name": "Starry Splash",
+          "type": "Men's Pajama Shorts",
+          "full": "Starry Splash Men's Pajama Shorts"
+        },
+        {
+          "name": "Starry Splash",
+          "type": "Pet Bandana",
+          "full": "Starry Splash Pet Bandana"
+        },
+        {
+          "name": "Starry Splash",
+          "type": "Luxe Bow Headband",
+          "full": "Starry Splash Luxe Bow Headband"
+        },
+        {
+          "name": "Blue Ribbon Gingham",
+          "type": "Button Down Shirt",
+          "full": "Blue Ribbon Gingham Button Down Shirt"
+        },
+        {
+          "name": "Blue Ribbon Gingham",
+          "type": "Henley Romper",
+          "full": "Blue Ribbon Gingham Henley Romper"
+        },
+        {
+          "name": "Celebration Gingham",
+          "type": "Bow Back Bubble Romper",
+          "full": "Celebration Gingham Bow Back Bubble Romper"
+        },
+        {
+          "name": "Celebration Gingham",
+          "type": "Bow Back Twirl Dress",
+          "full": "Celebration Gingham Bow Back Twirl Dress"
+        },
+        {
+          "name": "Celebration Gingham",
+          "type": "Ruffle Tank Top",
+          "full": "Celebration Gingham Ruffle Tank Top"
+        },
+        {
+          "name": "Red White & Cool",
+          "type": "Relaxed Tee",
+          "full": "Red White & Cool Relaxed Tee"
+        },
+        {
+          "name": "Star Spangled Pup",
+          "type": "Flutter Bodysuit",
+          "full": "Star Spangled Pup Flutter Bodysuit"
+        },
+        {
+          "name": "Star Spangled Pup",
+          "type": "Flutter Tee",
+          "full": "Star Spangled Pup Flutter Tee"
         }
       ],
       "snipe_targets": [
         {
-          "keyword": "soccer stars zippy",
+          "keyword": "sparkle treats zippy",
           "priority": "NORMAL"
         },
         {
-          "keyword": "soccer stars shorty zippy",
+          "keyword": "sparkle treats shorty zippy",
           "priority": "NORMAL"
         },
         {
-          "keyword": "soccer stars two-piece pajama set",
+          "keyword": "sparkle treats two-piece pajama set",
           "priority": "NORMAL"
         },
         {
-          "keyword": "soccer stars large cloud blanket®",
-          "priority": "HIGH"
+          "keyword": "starry splash zippy",
+          "priority": "NORMAL"
+        },
+        {
+          "keyword": "starry splash shorty zippy",
+          "priority": "NORMAL"
+        },
+        {
+          "keyword": "starry splash two-piece pajama set",
+          "priority": "NORMAL"
         }
       ],
-      "raw_item_count": 19,
+      "raw_item_count": 30,
       "parse_strategy": "found"
     }
   ]
