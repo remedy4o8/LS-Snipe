@@ -1,192 +1,187 @@
 {
-  "scraped_at": "2026-05-12T14:28:11.465Z",
+  "scraped_at": "2026-05-13T03:25:33.455Z",
   "drops": [
     {
       "name": "Coming Soon",
-      "date": "2026-05-12",
+      "date": "2026-05-19",
       "time_local": "9am",
       "timezone": "PT",
       "drop_hour": 9,
       "drop_min": 0,
       "items": [
         {
-          "name": "Sparkle Treats",
+          "name": "Puddle Jumpers",
           "type": "Zippy",
-          "full": "Sparkle Treats Zippy"
+          "full": "Puddle Jumpers Zippy"
         },
         {
-          "name": "Sparkle Treats",
+          "name": "Puddle Jumpers",
           "type": "Shorty Zippy",
-          "full": "Sparkle Treats Shorty Zippy"
+          "full": "Puddle Jumpers Shorty Zippy"
         },
         {
-          "name": "Sparkle Treats",
-          "type": "Bubble Romper",
-          "full": "Sparkle Treats Bubble Romper"
-        },
-        {
-          "name": "Sparkle Treats",
-          "type": "Henley Romper",
-          "full": "Sparkle Treats Henley Romper"
-        },
-        {
-          "name": "Sparkle Treats",
-          "type": "Flutter Skater Dress with Bodysuit",
-          "full": "Sparkle Treats Flutter Skater Dress with Bodysuit"
-        },
-        {
-          "name": "Sparkle Treats",
+          "name": "Puddle Jumpers",
           "type": "Two-Piece Pajama Set",
-          "full": "Sparkle Treats Two-Piece Pajama Set"
+          "full": "Puddle Jumpers Two-Piece Pajama Set"
         },
         {
-          "name": "Sparkle Treats",
-          "type": "Flutter Skater Dress",
-          "full": "Sparkle Treats Flutter Skater Dress"
-        },
-        {
-          "name": "Sparkle Treats",
+          "name": "Puddle Jumpers",
           "type": "Women's Pajama Top",
-          "full": "Sparkle Treats Women's Pajama Top"
+          "full": "Puddle Jumpers Women's Pajama Top"
         },
         {
-          "name": "Sparkle Treats",
+          "name": "Puddle Jumpers",
           "type": "Women's Pajama Shorts",
-          "full": "Sparkle Treats Women's Pajama Shorts"
+          "full": "Puddle Jumpers Women's Pajama Shorts"
         },
         {
-          "name": "Sparkle Treats",
+          "name": "Puddle Jumpers",
           "type": "Men's Pajama Top",
-          "full": "Sparkle Treats Men's Pajama Top"
+          "full": "Puddle Jumpers Men's Pajama Top"
         },
         {
-          "name": "Sparkle Treats",
+          "name": "Puddle Jumpers",
           "type": "Men's Pajama Shorts",
-          "full": "Sparkle Treats Men's Pajama Shorts"
+          "full": "Puddle Jumpers Men's Pajama Shorts"
         },
         {
-          "name": "Sparkle Treats",
-          "type": "Pet Bandana",
-          "full": "Sparkle Treats Pet Bandana"
+          "name": "Puddle Jumpers",
+          "type": "Large Cloud Blanket®",
+          "full": "Puddle Jumpers Large Cloud Blanket®"
         },
         {
-          "name": "Sparkle Treats",
+          "name": "Puddle Jumpers",
+          "type": "Fitted Crib Sheet",
+          "full": "Puddle Jumpers Fitted Crib Sheet"
+        },
+        {
+          "name": "Puddle Jumpers",
+          "type": "Swaddle & Beanie Set",
+          "full": "Puddle Jumpers Swaddle & Beanie Set"
+        },
+        {
+          "name": "Puddle Jumpers",
+          "type": "Swaddle & Luxe Bow Headband Set",
+          "full": "Puddle Jumpers Swaddle & Luxe Bow Headband Set"
+        },
+        {
+          "name": "Puddle Jumpers",
           "type": "Luxe Bow Headband",
-          "full": "Sparkle Treats Luxe Bow Headband"
+          "full": "Puddle Jumpers Luxe Bow Headband"
         },
         {
-          "name": "Starry Splash",
+          "name": "Game On",
           "type": "Zippy",
-          "full": "Starry Splash Zippy"
+          "full": "Game On Zippy"
         },
         {
-          "name": "Starry Splash",
+          "name": "Game On",
           "type": "Shorty Zippy",
-          "full": "Starry Splash Shorty Zippy"
+          "full": "Game On Shorty Zippy"
         },
         {
-          "name": "Starry Splash",
+          "name": "Game On",
           "type": "Two-Piece Pajama Set",
-          "full": "Starry Splash Two-Piece Pajama Set"
+          "full": "Game On Two-Piece Pajama Set"
         },
         {
-          "name": "Starry Splash",
+          "name": "Game On",
           "type": "Women's Pajama Top",
-          "full": "Starry Splash Women's Pajama Top"
+          "full": "Game On Women's Pajama Top"
         },
         {
-          "name": "Starry Splash",
+          "name": "Game On",
           "type": "Women's Pajama Shorts",
-          "full": "Starry Splash Women's Pajama Shorts"
+          "full": "Game On Women's Pajama Shorts"
         },
         {
-          "name": "Starry Splash",
+          "name": "Game On",
           "type": "Men's Pajama Top",
-          "full": "Starry Splash Men's Pajama Top"
+          "full": "Game On Men's Pajama Top"
         },
         {
-          "name": "Starry Splash",
+          "name": "Game On",
           "type": "Men's Pajama Shorts",
-          "full": "Starry Splash Men's Pajama Shorts"
+          "full": "Game On Men's Pajama Shorts"
         },
         {
-          "name": "Starry Splash",
-          "type": "Pet Bandana",
-          "full": "Starry Splash Pet Bandana"
+          "name": "Game On",
+          "type": "Large Cloud Blanket®",
+          "full": "Game On Large Cloud Blanket®"
         },
         {
-          "name": "Starry Splash",
-          "type": "Luxe Bow Headband",
-          "full": "Starry Splash Luxe Bow Headband"
+          "name": "Game On",
+          "type": "Twin Sheet Set",
+          "full": "Game On Twin Sheet Set"
         },
         {
-          "name": "Blue Ribbon Gingham",
-          "type": "Button Down Shirt",
-          "full": "Blue Ribbon Gingham Button Down Shirt"
+          "name": "Sunglow",
+          "type": "Zippy",
+          "full": "Sunglow Zippy"
         },
         {
-          "name": "Blue Ribbon Gingham",
-          "type": "Henley Romper",
-          "full": "Blue Ribbon Gingham Henley Romper"
+          "name": "Sunglow",
+          "type": "Shorty Zippy",
+          "full": "Sunglow Shorty Zippy"
         },
         {
-          "name": "Celebration Gingham",
-          "type": "Bow Back Bubble Romper",
-          "full": "Celebration Gingham Bow Back Bubble Romper"
+          "name": "Sunglow",
+          "type": "Two-Piece Pajama Set",
+          "full": "Sunglow Two-Piece Pajama Set"
         },
         {
-          "name": "Celebration Gingham",
-          "type": "Bow Back Twirl Dress",
-          "full": "Celebration Gingham Bow Back Twirl Dress"
-        },
-        {
-          "name": "Celebration Gingham",
-          "type": "Ruffle Tank Top",
-          "full": "Celebration Gingham Ruffle Tank Top"
-        },
-        {
-          "name": "Red White & Cool",
-          "type": "Relaxed Tee",
-          "full": "Red White & Cool Relaxed Tee"
-        },
-        {
-          "name": "Star Spangled Pup",
-          "type": "Flutter Bodysuit",
-          "full": "Star Spangled Pup Flutter Bodysuit"
-        },
-        {
-          "name": "Star Spangled Pup",
-          "type": "Flutter Tee",
-          "full": "Star Spangled Pup Flutter Tee"
+          "name": "Sunglow",
+          "type": "Swaddle & Hat Set",
+          "full": "Sunglow Swaddle & Hat Set"
         }
       ],
       "snipe_targets": [
         {
-          "keyword": "sparkle treats zippy",
+          "keyword": "puddle jumpers zippy",
           "priority": "NORMAL"
         },
         {
-          "keyword": "sparkle treats shorty zippy",
+          "keyword": "puddle jumpers shorty zippy",
           "priority": "NORMAL"
         },
         {
-          "keyword": "sparkle treats two-piece pajama set",
+          "keyword": "puddle jumpers two-piece pajama set",
           "priority": "NORMAL"
         },
         {
-          "keyword": "starry splash zippy",
+          "keyword": "puddle jumpers large cloud blanket®",
+          "priority": "HIGH"
+        },
+        {
+          "keyword": "game on zippy",
           "priority": "NORMAL"
         },
         {
-          "keyword": "starry splash shorty zippy",
+          "keyword": "game on shorty zippy",
           "priority": "NORMAL"
         },
         {
-          "keyword": "starry splash two-piece pajama set",
+          "keyword": "game on two-piece pajama set",
+          "priority": "NORMAL"
+        },
+        {
+          "keyword": "game on large cloud blanket®",
+          "priority": "HIGH"
+        },
+        {
+          "keyword": "sunglow zippy",
+          "priority": "NORMAL"
+        },
+        {
+          "keyword": "sunglow shorty zippy",
+          "priority": "NORMAL"
+        },
+        {
+          "keyword": "sunglow two-piece pajama set",
           "priority": "NORMAL"
         }
       ],
-      "raw_item_count": 30,
+      "raw_item_count": 25,
       "parse_strategy": "found"
     }
   ]
