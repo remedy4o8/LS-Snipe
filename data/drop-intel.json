@@ -1,187 +1,204 @@
 {
-  "scraped_at": "2026-05-19T16:19:27.402Z",
+  "scraped_at": "2026-05-22T00:01:42.518Z",
   "drops": [
     {
       "name": "Coming Soon",
-      "date": "2026-05-19",
+      "date": "2026-05-26",
       "time_local": "9am",
       "timezone": "PT",
       "drop_hour": 9,
       "drop_min": 0,
       "items": [
         {
-          "name": "Puddle Jumpers",
+          "name": "Varsity Mickey Mouse",
           "type": "Zippy",
-          "full": "Puddle Jumpers Zippy"
+          "full": "Varsity Mickey Mouse Zippy"
         },
         {
-          "name": "Puddle Jumpers",
+          "name": "Varsity Mickey Mouse",
           "type": "Shorty Zippy",
-          "full": "Puddle Jumpers Shorty Zippy"
+          "full": "Varsity Mickey Mouse Shorty Zippy"
         },
         {
-          "name": "Puddle Jumpers",
+          "name": "Varsity Mickey Mouse",
           "type": "Two-Piece Pajama Set",
-          "full": "Puddle Jumpers Two-Piece Pajama Set"
+          "full": "Varsity Mickey Mouse Two-Piece Pajama Set"
         },
         {
-          "name": "Puddle Jumpers",
+          "name": "Mickey Mouse Sports Club",
+          "type": "Drop Shoulder Crewneck",
+          "full": "Mickey Mouse Sports Club Drop Shoulder Crewneck"
+        },
+        {
+          "name": "Mickey Mouse Racket Rally",
+          "type": "Drawstring Shorts",
+          "full": "Mickey Mouse Racket Rally Drawstring Shorts"
+        },
+        {
+          "name": "Mickey Mouse Racket Rally",
+          "type": "Polo Shirt",
+          "full": "Mickey Mouse Racket Rally Polo Shirt"
+        },
+        {
+          "name": "Mickey Mouse Racket Rally",
+          "type": "Drop Waist Dress",
+          "full": "Mickey Mouse Racket Rally Drop Waist Dress"
+        },
+        {
+          "name": "Mickey Mouse & Minnie Mouse Match",
+          "type": "Drop Shoulder Crewneck",
+          "full": "Mickey Mouse & Minnie Mouse Match Drop Shoulder Crewneck"
+        },
+        {
+          "name": "Mickey Mouse & Minnie Mouse Match",
+          "type": "Pleated Skort",
+          "full": "Mickey Mouse & Minnie Mouse Match Pleated Skort"
+        },
+        {
+          "name": "Mickey Mouse & Minnie Mouse Match",
+          "type": "Twirl Dress",
+          "full": "Mickey Mouse & Minnie Mouse Match Twirl Dress"
+        },
+        {
+          "name": "Mickey Mouse & Minnie Mouse Match",
+          "type": "Twirl Dress with Bodysuit",
+          "full": "Mickey Mouse & Minnie Mouse Match Twirl Dress with Bodysuit"
+        },
+        {
+          "name": "Mickey Mouse Sports Club",
+          "type": "Varsity Cardigan",
+          "full": "Mickey Mouse Sports Club Varsity Cardigan"
+        },
+        {
+          "name": "Minnie Mouse Queen of Swing",
+          "type": "Ringer Tee",
+          "full": "Minnie Mouse Queen of Swing Ringer Tee"
+        },
+        {
+          "name": "Minnie Mouse Queen of Swing",
+          "type": "Athletic Short",
+          "full": "Minnie Mouse Queen of Swing Athletic Short"
+        },
+        {
+          "name": "Mickey Mouse Sports Club",
+          "type": "Relaxed Tee",
+          "full": "Mickey Mouse Sports Club Relaxed Tee"
+        },
+        {
+          "name": "Mickey Mouse Sports Club",
+          "type": "Track Jacket",
+          "full": "Mickey Mouse Sports Club Track Jacket"
+        },
+        {
+          "name": "Mickey Mouse Sports Club",
+          "type": "Panel Jogger",
+          "full": "Mickey Mouse Sports Club Panel Jogger"
+        },
+        {
+          "name": "Mickey Mouse Sports Club",
+          "type": "Henley Shorty Romper",
+          "full": "Mickey Mouse Sports Club Henley Shorty Romper"
+        },
+        {
+          "name": "Mickey Mouse Sports Club",
+          "type": "Bodysuit",
+          "full": "Mickey Mouse Sports Club Bodysuit"
+        },
+        {
+          "name": "Mickey Mouse & Minnie Mouse Match",
+          "type": "Bubble Romper",
+          "full": "Mickey Mouse & Minnie Mouse Match Bubble Romper"
+        },
+        {
+          "name": "Minnie Mouse Queen of Swing",
+          "type": "Bodysuit",
+          "full": "Minnie Mouse Queen of Swing Bodysuit"
+        },
+        {
+          "name": "Minnie Mouse Queen of Swing",
+          "type": "Women's Crewneck Sweatshirt",
+          "full": "Minnie Mouse Queen of Swing Women's Crewneck Sweatshirt"
+        },
+        {
+          "name": "Varsity Mickey Mouse",
           "type": "Women's Pajama Top",
-          "full": "Puddle Jumpers Women's Pajama Top"
+          "full": "Varsity Mickey Mouse Women's Pajama Top"
         },
         {
-          "name": "Puddle Jumpers",
+          "name": "Varsity Mickey Mouse",
           "type": "Women's Pajama Shorts",
-          "full": "Puddle Jumpers Women's Pajama Shorts"
+          "full": "Varsity Mickey Mouse Women's Pajama Shorts"
         },
         {
-          "name": "Puddle Jumpers",
+          "name": "Varsity Mickey Mouse",
           "type": "Men's Pajama Top",
-          "full": "Puddle Jumpers Men's Pajama Top"
+          "full": "Varsity Mickey Mouse Men's Pajama Top"
         },
         {
-          "name": "Puddle Jumpers",
+          "name": "Varsity Mickey Mouse",
           "type": "Men's Pajama Shorts",
-          "full": "Puddle Jumpers Men's Pajama Shorts"
+          "full": "Varsity Mickey Mouse Men's Pajama Shorts"
         },
         {
-          "name": "Puddle Jumpers",
-          "type": "Large Cloud Blanket®",
-          "full": "Puddle Jumpers Large Cloud Blanket®"
+          "name": "Varsity Mickey Mouse",
+          "type": "Pet Bandana",
+          "full": "Varsity Mickey Mouse Pet Bandana"
         },
         {
-          "name": "Puddle Jumpers",
-          "type": "Fitted Crib Sheet",
-          "full": "Puddle Jumpers Fitted Crib Sheet"
-        },
-        {
-          "name": "Puddle Jumpers",
+          "name": "Varsity Mickey Mouse",
           "type": "Swaddle & Beanie Set",
-          "full": "Puddle Jumpers Swaddle & Beanie Set"
+          "full": "Varsity Mickey Mouse Swaddle & Beanie Set"
         },
         {
-          "name": "Puddle Jumpers",
+          "name": "Varsity Mickey Mouse",
           "type": "Swaddle & Luxe Bow Headband Set",
-          "full": "Puddle Jumpers Swaddle & Luxe Bow Headband Set"
+          "full": "Varsity Mickey Mouse Swaddle & Luxe Bow Headband Set"
         },
         {
-          "name": "Puddle Jumpers",
+          "name": "Varsity Mickey Mouse",
+          "type": "Bandana Bib",
+          "full": "Varsity Mickey Mouse Bandana Bib"
+        },
+        {
+          "name": "Varsity Mickey Mouse",
           "type": "Luxe Bow Headband",
-          "full": "Puddle Jumpers Luxe Bow Headband"
+          "full": "Varsity Mickey Mouse Luxe Bow Headband"
         },
         {
-          "name": "Game On",
-          "type": "Zippy",
-          "full": "Game On Zippy"
-        },
-        {
-          "name": "Game On",
-          "type": "Shorty Zippy",
-          "full": "Game On Shorty Zippy"
-        },
-        {
-          "name": "Game On",
-          "type": "Two-Piece Pajama Set",
-          "full": "Game On Two-Piece Pajama Set"
-        },
-        {
-          "name": "Game On",
-          "type": "Women's Pajama Top",
-          "full": "Game On Women's Pajama Top"
-        },
-        {
-          "name": "Game On",
-          "type": "Women's Pajama Shorts",
-          "full": "Game On Women's Pajama Shorts"
-        },
-        {
-          "name": "Game On",
-          "type": "Men's Pajama Top",
-          "full": "Game On Men's Pajama Top"
-        },
-        {
-          "name": "Game On",
-          "type": "Men's Pajama Shorts",
-          "full": "Game On Men's Pajama Shorts"
-        },
-        {
-          "name": "Game On",
+          "name": "Varsity Mickey Mouse",
           "type": "Large Cloud Blanket®",
-          "full": "Game On Large Cloud Blanket®"
+          "full": "Varsity Mickey Mouse Large Cloud Blanket®"
         },
         {
-          "name": "Game On",
+          "name": "Varsity Mickey Mouse",
+          "type": "Fitted Crib Sheet",
+          "full": "Varsity Mickey Mouse Fitted Crib Sheet"
+        },
+        {
+          "name": "Varsity Mickey Mouse",
           "type": "Twin Sheet Set",
-          "full": "Game On Twin Sheet Set"
-        },
-        {
-          "name": "Sunglow",
-          "type": "Zippy",
-          "full": "Sunglow Zippy"
-        },
-        {
-          "name": "Sunglow",
-          "type": "Shorty Zippy",
-          "full": "Sunglow Shorty Zippy"
-        },
-        {
-          "name": "Sunglow",
-          "type": "Two-Piece Pajama Set",
-          "full": "Sunglow Two-Piece Pajama Set"
-        },
-        {
-          "name": "Sunglow",
-          "type": "Swaddle & Hat Set",
-          "full": "Sunglow Swaddle & Hat Set"
+          "full": "Varsity Mickey Mouse Twin Sheet Set"
         }
       ],
       "snipe_targets": [
         {
-          "keyword": "puddle jumpers zippy",
+          "keyword": "varsity mickey mouse zippy",
           "priority": "NORMAL"
         },
         {
-          "keyword": "puddle jumpers shorty zippy",
+          "keyword": "varsity mickey mouse shorty zippy",
           "priority": "NORMAL"
         },
         {
-          "keyword": "puddle jumpers two-piece pajama set",
+          "keyword": "varsity mickey mouse two-piece pajama set",
           "priority": "NORMAL"
         },
         {
-          "keyword": "puddle jumpers large cloud blanket®",
+          "keyword": "varsity mickey mouse large cloud blanket®",
           "priority": "HIGH"
-        },
-        {
-          "keyword": "game on zippy",
-          "priority": "NORMAL"
-        },
-        {
-          "keyword": "game on shorty zippy",
-          "priority": "NORMAL"
-        },
-        {
-          "keyword": "game on two-piece pajama set",
-          "priority": "NORMAL"
-        },
-        {
-          "keyword": "game on large cloud blanket®",
-          "priority": "HIGH"
-        },
-        {
-          "keyword": "sunglow zippy",
-          "priority": "NORMAL"
-        },
-        {
-          "keyword": "sunglow shorty zippy",
-          "priority": "NORMAL"
-        },
-        {
-          "keyword": "sunglow two-piece pajama set",
-          "priority": "NORMAL"
         }
       ],
-      "raw_item_count": 25,
+      "raw_item_count": 34,
       "parse_strategy": "found"
     }
   ]
