@@ -1,204 +1,84 @@
 {
-  "scraped_at": "2026-05-26T20:52:32.695Z",
+  "scraped_at": "2026-05-29T03:35:31.276Z",
   "drops": [
     {
       "name": "Coming Soon",
-      "date": "2026-05-26",
+      "date": "2026-06-02",
       "time_local": "9am",
       "timezone": "PT",
       "drop_hour": 9,
       "drop_min": 0,
       "items": [
         {
-          "name": "Varsity Mickey Mouse",
+          "name": "Roar & Explore",
           "type": "Zippy",
-          "full": "Varsity Mickey Mouse Zippy"
+          "full": "Roar & Explore Zippy"
         },
         {
-          "name": "Varsity Mickey Mouse",
+          "name": "Roar & Explore",
           "type": "Shorty Zippy",
-          "full": "Varsity Mickey Mouse Shorty Zippy"
+          "full": "Roar & Explore Shorty Zippy"
         },
         {
-          "name": "Varsity Mickey Mouse",
+          "name": "Roar & Explore",
           "type": "Two-Piece Pajama Set",
-          "full": "Varsity Mickey Mouse Two-Piece Pajama Set"
+          "full": "Roar & Explore Two-Piece Pajama Set"
         },
         {
-          "name": "Mickey Mouse Sports Club",
-          "type": "Drop Shoulder Crewneck",
-          "full": "Mickey Mouse Sports Club Drop Shoulder Crewneck"
-        },
-        {
-          "name": "Mickey Mouse Racket Rally",
-          "type": "Drawstring Shorts",
-          "full": "Mickey Mouse Racket Rally Drawstring Shorts"
-        },
-        {
-          "name": "Mickey Mouse Racket Rally",
-          "type": "Polo Shirt",
-          "full": "Mickey Mouse Racket Rally Polo Shirt"
-        },
-        {
-          "name": "Mickey Mouse Racket Rally",
-          "type": "Drop Waist Dress",
-          "full": "Mickey Mouse Racket Rally Drop Waist Dress"
-        },
-        {
-          "name": "Mickey Mouse & Minnie Mouse Match",
-          "type": "Drop Shoulder Crewneck",
-          "full": "Mickey Mouse & Minnie Mouse Match Drop Shoulder Crewneck"
-        },
-        {
-          "name": "Mickey Mouse & Minnie Mouse Match",
-          "type": "Pleated Skort",
-          "full": "Mickey Mouse & Minnie Mouse Match Pleated Skort"
-        },
-        {
-          "name": "Mickey Mouse & Minnie Mouse Match",
-          "type": "Twirl Dress",
-          "full": "Mickey Mouse & Minnie Mouse Match Twirl Dress"
-        },
-        {
-          "name": "Mickey Mouse & Minnie Mouse Match",
-          "type": "Twirl Dress with Bodysuit",
-          "full": "Mickey Mouse & Minnie Mouse Match Twirl Dress with Bodysuit"
-        },
-        {
-          "name": "Mickey Mouse Sports Club",
-          "type": "Varsity Cardigan",
-          "full": "Mickey Mouse Sports Club Varsity Cardigan"
-        },
-        {
-          "name": "Minnie Mouse Queen of Swing",
-          "type": "Ringer Tee",
-          "full": "Minnie Mouse Queen of Swing Ringer Tee"
-        },
-        {
-          "name": "Minnie Mouse Queen of Swing",
-          "type": "Athletic Short",
-          "full": "Minnie Mouse Queen of Swing Athletic Short"
-        },
-        {
-          "name": "Mickey Mouse Sports Club",
-          "type": "Relaxed Tee",
-          "full": "Mickey Mouse Sports Club Relaxed Tee"
-        },
-        {
-          "name": "Mickey Mouse Sports Club",
-          "type": "Track Jacket",
-          "full": "Mickey Mouse Sports Club Track Jacket"
-        },
-        {
-          "name": "Mickey Mouse Sports Club",
-          "type": "Panel Jogger",
-          "full": "Mickey Mouse Sports Club Panel Jogger"
-        },
-        {
-          "name": "Mickey Mouse Sports Club",
-          "type": "Henley Shorty Romper",
-          "full": "Mickey Mouse Sports Club Henley Shorty Romper"
-        },
-        {
-          "name": "Mickey Mouse Sports Club",
-          "type": "Bodysuit",
-          "full": "Mickey Mouse Sports Club Bodysuit"
-        },
-        {
-          "name": "Mickey Mouse & Minnie Mouse Match",
-          "type": "Bubble Romper",
-          "full": "Mickey Mouse & Minnie Mouse Match Bubble Romper"
-        },
-        {
-          "name": "Minnie Mouse Queen of Swing",
-          "type": "Bodysuit",
-          "full": "Minnie Mouse Queen of Swing Bodysuit"
-        },
-        {
-          "name": "Minnie Mouse Queen of Swing",
-          "type": "Women's Crewneck Sweatshirt",
-          "full": "Minnie Mouse Queen of Swing Women's Crewneck Sweatshirt"
-        },
-        {
-          "name": "Varsity Mickey Mouse",
-          "type": "Women's Pajama Top",
-          "full": "Varsity Mickey Mouse Women's Pajama Top"
-        },
-        {
-          "name": "Varsity Mickey Mouse",
-          "type": "Women's Pajama Shorts",
-          "full": "Varsity Mickey Mouse Women's Pajama Shorts"
-        },
-        {
-          "name": "Varsity Mickey Mouse",
-          "type": "Men's Pajama Top",
-          "full": "Varsity Mickey Mouse Men's Pajama Top"
-        },
-        {
-          "name": "Varsity Mickey Mouse",
+          "name": "Roar & Explore",
           "type": "Men's Pajama Shorts",
-          "full": "Varsity Mickey Mouse Men's Pajama Shorts"
+          "full": "Roar & Explore Men's Pajama Shorts"
         },
         {
-          "name": "Varsity Mickey Mouse",
-          "type": "Pet Bandana",
-          "full": "Varsity Mickey Mouse Pet Bandana"
-        },
-        {
-          "name": "Varsity Mickey Mouse",
-          "type": "Swaddle & Beanie Set",
-          "full": "Varsity Mickey Mouse Swaddle & Beanie Set"
-        },
-        {
-          "name": "Varsity Mickey Mouse",
-          "type": "Swaddle & Luxe Bow Headband Set",
-          "full": "Varsity Mickey Mouse Swaddle & Luxe Bow Headband Set"
-        },
-        {
-          "name": "Varsity Mickey Mouse",
-          "type": "Bandana Bib",
-          "full": "Varsity Mickey Mouse Bandana Bib"
-        },
-        {
-          "name": "Varsity Mickey Mouse",
-          "type": "Luxe Bow Headband",
-          "full": "Varsity Mickey Mouse Luxe Bow Headband"
-        },
-        {
-          "name": "Varsity Mickey Mouse",
+          "name": "Roar & Explore",
           "type": "Large Cloud Blanket®",
-          "full": "Varsity Mickey Mouse Large Cloud Blanket®"
+          "full": "Roar & Explore Large Cloud Blanket®"
         },
         {
-          "name": "Varsity Mickey Mouse",
-          "type": "Fitted Crib Sheet",
-          "full": "Varsity Mickey Mouse Fitted Crib Sheet"
-        },
-        {
-          "name": "Varsity Mickey Mouse",
+          "name": "Roar & Explore",
           "type": "Twin Sheet Set",
-          "full": "Varsity Mickey Mouse Twin Sheet Set"
+          "full": "Roar & Explore Twin Sheet Set"
+        },
+        {
+          "name": "Roar & Explore",
+          "type": "Swaddle & Beanie Set",
+          "full": "Roar & Explore Swaddle & Beanie Set"
+        },
+        {
+          "name": "Roar & Explore",
+          "type": "Women's Pajama Shorts",
+          "full": "Roar & Explore Women's Pajama Shorts"
+        },
+        {
+          "name": "Roar & Explore",
+          "type": "Swaddle & Luxe Bow Headband Set",
+          "full": "Roar & Explore Swaddle & Luxe Bow Headband Set"
+        },
+        {
+          "name": "Roar & Explore",
+          "type": "Luxe Bow Headband",
+          "full": "Roar & Explore Luxe Bow Headband"
         }
       ],
       "snipe_targets": [
         {
-          "keyword": "varsity mickey mouse zippy",
+          "keyword": "roar & explore zippy",
           "priority": "NORMAL"
         },
         {
-          "keyword": "varsity mickey mouse shorty zippy",
+          "keyword": "roar & explore shorty zippy",
           "priority": "NORMAL"
         },
         {
-          "keyword": "varsity mickey mouse two-piece pajama set",
+          "keyword": "roar & explore two-piece pajama set",
           "priority": "NORMAL"
         },
         {
-          "keyword": "varsity mickey mouse large cloud blanket®",
+          "keyword": "roar & explore large cloud blanket®",
           "priority": "HIGH"
         }
       ],
-      "raw_item_count": 34,
+      "raw_item_count": 10,
       "parse_strategy": "found"
     }
   ]
