@@ -1,9 +1,9 @@
 {
-  "scraped_at": "2026-06-02T17:22:46.082Z",
+  "scraped_at": "2026-06-03T04:05:26.259Z",
   "drops": [
     {
       "name": "Coming Soon",
-      "date": "2026-06-02",
+      "date": "2026-06-04",
       "time_local": "9am",
       "timezone": "PT",
       "drop_hour": 9,
@@ -11,74 +11,147 @@
       "items": [
         {
           "name": "Roar & Explore",
-          "type": "Zippy",
-          "full": "Roar & Explore Zippy"
+          "type": "Relaxed Pocket Tee",
+          "full": "Roar & Explore Relaxed Pocket Tee"
+        },
+        {
+          "name": "Muted Spruce",
+          "type": "Chino Shorts",
+          "full": "Muted Spruce Chino Shorts"
         },
         {
           "name": "Roar & Explore",
-          "type": "Shorty Zippy",
-          "full": "Roar & Explore Shorty Zippy"
+          "type": "Skater Dress",
+          "full": "Roar & Explore Skater Dress"
         },
         {
           "name": "Roar & Explore",
-          "type": "Two-Piece Pajama Set",
-          "full": "Roar & Explore Two-Piece Pajama Set"
+          "type": "Skater Dress with Bodysuit",
+          "full": "Roar & Explore Skater Dress with Bodysuit"
         },
         {
           "name": "Roar & Explore",
-          "type": "Men's Pajama Shorts",
-          "full": "Roar & Explore Men's Pajama Shorts"
+          "type": "Pocket Shorty Romper",
+          "full": "Roar & Explore Pocket Shorty Romper"
         },
         {
-          "name": "Roar & Explore",
-          "type": "Large Cloud Blanket®",
-          "full": "Roar & Explore Large Cloud Blanket®"
+          "name": "Volcano Valley",
+          "type": "Relaxed Tee",
+          "full": "Volcano Valley Relaxed Tee"
         },
         {
-          "name": "Roar & Explore",
-          "type": "Twin Sheet Set",
-          "full": "Roar & Explore Twin Sheet Set"
+          "name": "Dino Maze",
+          "type": "Shorts",
+          "full": "Dino Maze Shorts"
         },
         {
-          "name": "Roar & Explore",
-          "type": "Swaddle & Beanie Set",
-          "full": "Roar & Explore Swaddle & Beanie Set"
+          "name": "Muted Spruce",
+          "type": "Pocket Tank",
+          "full": "Muted Spruce Pocket Tank"
         },
         {
-          "name": "Roar & Explore",
-          "type": "Women's Pajama Shorts",
-          "full": "Roar & Explore Women's Pajama Shorts"
+          "name": "Tropical Garden",
+          "type": "Button Down Polo",
+          "full": "Tropical Garden Button Down Polo"
         },
         {
-          "name": "Roar & Explore",
-          "type": "Swaddle & Luxe Bow Headband Set",
-          "full": "Roar & Explore Swaddle & Luxe Bow Headband Set"
+          "name": "Pink Punch",
+          "type": "Open Back Tiered Dress",
+          "full": "Pink Punch Open Back Tiered Dress"
         },
         {
-          "name": "Roar & Explore",
-          "type": "Luxe Bow Headband",
-          "full": "Roar & Explore Luxe Bow Headband"
+          "name": "Pink Punch",
+          "type": "Open Back Tiered Dress with Bloomer",
+          "full": "Pink Punch Open Back Tiered Dress with Bloomer"
+        },
+        {
+          "name": "Hibiscus Blooms",
+          "type": "Bow Strap Tank",
+          "full": "Hibiscus Blooms Bow Strap Tank"
+        },
+        {
+          "name": "Royal Violet",
+          "type": "Ruffle Shorts",
+          "full": "Royal Violet Ruffle Shorts"
+        },
+        {
+          "name": "Summer Mood",
+          "type": "Puff Sleeve Tee",
+          "full": "Summer Mood Puff Sleeve Tee"
+        },
+        {
+          "name": "Hibiscus Blooms",
+          "type": "Tiered Flutter Dress",
+          "full": "Hibiscus Blooms Tiered Flutter Dress"
+        },
+        {
+          "name": "Hibiscus Blooms",
+          "type": "Tiered Flutter Dress with Bloomer",
+          "full": "Hibiscus Blooms Tiered Flutter Dress with Bloomer"
+        },
+        {
+          "name": "Tropical Garden",
+          "type": "Bow Strap Romper",
+          "full": "Tropical Garden Bow Strap Romper"
+        },
+        {
+          "name": "Tropical Garden",
+          "type": "Baby Bow Strap Romper",
+          "full": "Tropical Garden Baby Bow Strap Romper"
+        },
+        {
+          "name": "Midnight Tide",
+          "type": "Embroidered Peplum Tank",
+          "full": "Midnight Tide Embroidered Peplum Tank"
+        },
+        {
+          "name": "Tropical Garden",
+          "type": "Smocked Shorts",
+          "full": "Tropical Garden Smocked Shorts"
+        },
+        {
+          "name": "Pineapple Grove",
+          "type": "Relaxed Tee",
+          "full": "Pineapple Grove Relaxed Tee"
+        },
+        {
+          "name": "Vintage Plum",
+          "type": "Relaxed Pocket Tee",
+          "full": "Vintage Plum Relaxed Pocket Tee"
+        },
+        {
+          "name": "Dino Maze",
+          "type": "Henley Romper",
+          "full": "Dino Maze Henley Romper"
+        },
+        {
+          "name": "Explorer Stripes",
+          "type": "Relaxed Pocket Tee",
+          "full": "Explorer Stripes Relaxed Pocket Tee"
+        },
+        {
+          "name": "Hear Me Roar",
+          "type": "Bodysuit",
+          "full": "Hear Me Roar Bodysuit"
+        },
+        {
+          "name": "Orange Haze",
+          "type": "Cuffed Baby Shorts",
+          "full": "Orange Haze Cuffed Baby Shorts"
+        },
+        {
+          "name": "Tropical Garden",
+          "type": "Henley Romper",
+          "full": "Tropical Garden Henley Romper"
+        },
+        {
+          "name": "Hibiscus Blooms",
+          "type": "Flutter Bodysuit",
+          "full": "Hibiscus Blooms Flutter Bodysuit"
         }
       ],
-      "snipe_targets": [
-        {
-          "keyword": "roar & explore zippy",
-          "priority": "NORMAL"
-        },
-        {
-          "keyword": "roar & explore shorty zippy",
-          "priority": "NORMAL"
-        },
-        {
-          "keyword": "roar & explore two-piece pajama set",
-          "priority": "NORMAL"
-        },
-        {
-          "keyword": "roar & explore large cloud blanket®",
-          "priority": "HIGH"
-        }
-      ],
-      "raw_item_count": 10,
+      "snipe_targets": [],
+      "raw_item_count": 28,
       "parse_strategy": "found"
     }
   ]
