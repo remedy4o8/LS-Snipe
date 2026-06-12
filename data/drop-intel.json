@@ -1,248 +1,305 @@
 {
-  "scraped_at": "2026-06-10T00:13:10.731Z",
+  "scraped_at": "2026-06-12T03:57:00.163Z",
   "drops": [
     {
       "name": "Coming Soon",
-      "date": "2026-06-09",
+      "date": "2026-06-16",
       "time_local": "9am",
       "timezone": "PT",
       "drop_hour": 9,
       "drop_min": 0,
       "items": [
         {
-          "name": "Woody's Wild West",
+          "name": "Ciao Bella",
           "type": "Zippy",
-          "full": "Woody's Wild West Zippy"
+          "full": "Ciao Bella Zippy"
         },
         {
-          "name": "Woody's Wild West",
+          "name": "Ciao Bella",
           "type": "Shorty Zippy",
-          "full": "Woody's Wild West Shorty Zippy"
+          "full": "Ciao Bella Shorty Zippy"
         },
         {
-          "name": "Woody's Wild West",
+          "name": "Ciao Bella",
           "type": "Two-Piece Pajama Set",
-          "full": "Woody's Wild West Two-Piece Pajama Set"
+          "full": "Ciao Bella Two-Piece Pajama Set"
         },
         {
-          "name": "Woody's Wild West",
-          "type": "Tiered Flutter Dress",
-          "full": "Woody's Wild West Tiered Flutter Dress"
-        },
-        {
-          "name": "Woody's Wild West",
-          "type": "Tiered Flutter Dress with Bloomer",
-          "full": "Woody's Wild West Tiered Flutter Dress with Bloomer"
-        },
-        {
-          "name": "Howdy Jessie",
-          "type": "Puff Sleeve Tee",
-          "full": "Howdy Jessie Puff Sleeve Tee"
-        },
-        {
-          "name": "Milk Chocolate Moo Crew",
-          "type": "Ruffle Skort",
-          "full": "Milk Chocolate Moo Crew Ruffle Skort"
-        },
-        {
-          "name": "Woody's Wild West",
-          "type": "Smocked Romper",
-          "full": "Woody's Wild West Smocked Romper"
-        },
-        {
-          "name": "The Roundup Gang",
+          "name": "Summer Shores",
           "type": "Button Down Polo",
-          "full": "The Roundup Gang Button Down Polo"
+          "full": "Summer Shores Button Down Polo"
         },
         {
-          "name": "Woody's Wild West",
-          "type": "Crewneck Sweatshirt",
-          "full": "Woody's Wild West Crewneck Sweatshirt"
+          "name": "Summer Shores",
+          "type": "Drawstring Shorts",
+          "full": "Summer Shores Drawstring Shorts"
         },
         {
-          "name": "Woody's Wild West",
+          "name": "Rainbow Ribbon",
+          "type": "Smocked Tank Dress",
+          "full": "Rainbow Ribbon Smocked Tank Dress"
+        },
+        {
+          "name": "Ciao Bella",
+          "type": "Flutter Twirl Dress",
+          "full": "Ciao Bella Flutter Twirl Dress"
+        },
+        {
+          "name": "Ciao Bella",
+          "type": "Twirl Dress with Bodysuit",
+          "full": "Ciao Bella Twirl Dress with Bodysuit"
+        },
+        {
+          "name": "Ciao Bella",
           "type": "Relaxed Pocket Tee",
-          "full": "Woody's Wild West Relaxed Pocket Tee"
+          "full": "Ciao Bella Relaxed Pocket Tee"
         },
         {
-          "name": "Woody's Wild West",
+          "name": "Blue Bolt",
+          "type": "Shorts",
+          "full": "Blue Bolt Shorts"
+        },
+        {
+          "name": "School of Friends",
+          "type": "Relaxed Pocket Tee",
+          "full": "School of Friends Relaxed Pocket Tee"
+        },
+        {
+          "name": "Coastal Blue",
+          "type": "Pocket Tank",
+          "full": "Coastal Blue Pocket Tank"
+        },
+        {
+          "name": "Tidepool Party",
+          "type": "Relaxed Pocket Tee",
+          "full": "Tidepool Party Relaxed Pocket Tee"
+        },
+        {
+          "name": "Light Denim",
+          "type": "Chino Shorts",
+          "full": "Light Denim Chino Shorts"
+        },
+        {
+          "name": "Orange Crush",
+          "type": "Pocket Tank",
+          "full": "Orange Crush Pocket Tank"
+        },
+        {
+          "name": "Tidepool Party",
+          "type": "Tiered Dress",
+          "full": "Tidepool Party Tiered Dress"
+        },
+        {
+          "name": "Tidepool Party",
+          "type": "Tiered Dress with Bloomer",
+          "full": "Tidepool Party Tiered Dress with Bloomer"
+        },
+        {
+          "name": "Blue Bolt Stripes",
+          "type": "Relaxed Pocket Tee",
+          "full": "Blue Bolt Stripes Relaxed Pocket Tee"
+        },
+        {
+          "name": "Ciao Bella",
+          "type": "Bow Strap Tank",
+          "full": "Ciao Bella Bow Strap Tank"
+        },
+        {
+          "name": "Ciao Bella",
+          "type": "Bow Back Puff Sleeve Tee",
+          "full": "Ciao Bella Bow Back Puff Sleeve Tee"
+        },
+        {
+          "name": "Azure Garden",
+          "type": "Cross Back Skater Dress",
+          "full": "Azure Garden Cross Back Skater Dress"
+        },
+        {
+          "name": "Azure Garden",
+          "type": "Cross Back Skater Dress with Bloomer",
+          "full": "Azure Garden Cross Back Skater Dress with Bloomer"
+        },
+        {
+          "name": "Tidepool Party",
+          "type": "Bow Strap Tank",
+          "full": "Tidepool Party Bow Strap Tank"
+        },
+        {
+          "name": "Pink Spark",
+          "type": "Denim Shorts",
+          "full": "Pink Spark Denim Shorts"
+        },
+        {
+          "name": "Sparkling Scales",
+          "type": "Empire Tunic Top",
+          "full": "Sparkling Scales Empire Tunic Top"
+        },
+        {
+          "name": "Summer Shores",
+          "type": "Shorty Overall",
+          "full": "Summer Shores Shorty Overall"
+        },
+        {
+          "name": "Ciao Bella",
+          "type": "Pocket Shorty Romper",
+          "full": "Ciao Bella Pocket Shorty Romper"
+        },
+        {
+          "name": "Blue Bolt Stripes",
+          "type": "Pocket Bodysuit",
+          "full": "Blue Bolt Stripes Pocket Bodysuit"
+        },
+        {
+          "name": "Tidepool Party",
           "type": "Henley Romper",
-          "full": "Woody's Wild West Henley Romper"
+          "full": "Tidepool Party Henley Romper"
         },
         {
-          "name": "The Roundup Gang",
-          "type": "Polo Shorty Romper",
-          "full": "The Roundup Gang Polo Shorty Romper"
+          "name": "Rainbow Ribbon",
+          "type": "Smocked Top with Bloomer",
+          "full": "Rainbow Ribbon Smocked Top with Bloomer"
         },
         {
-          "name": "Woody's Wild West",
-          "type": "Bodysuit",
-          "full": "Woody's Wild West Bodysuit"
-        },
-        {
-          "name": "Woody's Wild West",
+          "name": "Ciao Bella",
           "type": "Bubble Romper",
-          "full": "Woody's Wild West Bubble Romper"
+          "full": "Ciao Bella Bubble Romper"
         },
         {
-          "name": "Woody",
-          "type": "Lovey",
-          "full": "Woody Lovey"
+          "name": "Tidepool Party",
+          "type": "Bubble Romper",
+          "full": "Tidepool Party Bubble Romper"
         },
         {
-          "name": "Buzz Lightyear",
-          "type": "Lovey",
-          "full": "Buzz Lightyear Lovey"
+          "name": "Sparkling Scales",
+          "type": "Empire Tunic Top with Bloomer",
+          "full": "Sparkling Scales Empire Tunic Top with Bloomer"
         },
         {
-          "name": "Buzz's Cosmic Crew",
+          "name": "Azure Garden",
           "type": "Zippy",
-          "full": "Buzz's Cosmic Crew Zippy"
+          "full": "Azure Garden Zippy"
         },
         {
-          "name": "Buzz's Cosmic Crew",
+          "name": "Azure Garden",
           "type": "Shorty Zippy",
-          "full": "Buzz's Cosmic Crew Shorty Zippy"
+          "full": "Azure Garden Shorty Zippy"
         },
         {
-          "name": "Buzz's Cosmic Crew",
+          "name": "Azure Garden",
           "type": "Two-Piece Pajama Set",
-          "full": "Buzz's Cosmic Crew Two-Piece Pajama Set"
+          "full": "Azure Garden Two-Piece Pajama Set"
         },
         {
-          "name": "Woody's Wild West",
-          "type": "Women's Pajama Top",
-          "full": "Woody's Wild West Women's Pajama Top"
+          "name": "Azure Garden",
+          "type": "Women's Pajama Set",
+          "full": "Azure Garden Women's Pajama Set"
         },
         {
-          "name": "Woody's Wild West",
-          "type": "Women's Pajama Shorts",
-          "full": "Woody's Wild West Women's Pajama Shorts"
+          "name": "Azure Garden",
+          "type": "Women's Robe",
+          "full": "Azure Garden Women's Robe"
         },
         {
-          "name": "Woody's Wild West",
-          "type": "Men's Pajama Top",
-          "full": "Woody's Wild West Men's Pajama Top"
-        },
-        {
-          "name": "Woody's Wild West",
-          "type": "Men's Pajama Shorts",
-          "full": "Woody's Wild West Men's Pajama Shorts"
-        },
-        {
-          "name": "Woody's Wild West",
+          "name": "Azure Garden",
           "type": "Swaddle & Luxe Bow Headband Set",
-          "full": "Woody's Wild West Swaddle & Luxe Bow Headband Set"
+          "full": "Azure Garden Swaddle & Luxe Bow Headband Set"
         },
         {
-          "name": "Woody's Wild West",
-          "type": "Swaddle & Beanie Set",
-          "full": "Woody's Wild West Swaddle & Beanie Set"
-        },
-        {
-          "name": "Woody's Wild West",
-          "type": "Pet Bandana",
-          "full": "Woody's Wild West Pet Bandana"
-        },
-        {
-          "name": "Woody's Wild West",
+          "name": "Azure Garden",
           "type": "Luxe Bow Headband",
-          "full": "Woody's Wild West Luxe Bow Headband"
+          "full": "Azure Garden Luxe Bow Headband"
         },
         {
-          "name": "Woody's Wild West",
+          "name": "Azure Garden",
           "type": "Large Cloud Blanket®",
-          "full": "Woody's Wild West Large Cloud Blanket®"
+          "full": "Azure Garden Large Cloud Blanket®"
         },
         {
-          "name": "Woody's Wild West",
+          "name": "Azure Garden",
           "type": "Fitted Crib Sheet",
-          "full": "Woody's Wild West Fitted Crib Sheet"
+          "full": "Azure Garden Fitted Crib Sheet"
         },
         {
-          "name": "Woody's Wild West",
+          "name": "Azure Garden",
           "type": "Twin Sheet Set",
-          "full": "Woody's Wild West Twin Sheet Set"
+          "full": "Azure Garden Twin Sheet Set"
         },
         {
-          "name": "Buzz's Cosmic Crew",
-          "type": "Women's Pajama Top",
-          "full": "Buzz's Cosmic Crew Women's Pajama Top"
+          "name": "Ciao Bella",
+          "type": "Women's Pajama Set",
+          "full": "Ciao Bella Women's Pajama Set"
         },
         {
-          "name": "Buzz's Cosmic Crew",
-          "type": "Women's Pajama Shorts",
-          "full": "Buzz's Cosmic Crew Women's Pajama Shorts"
+          "name": "Ciao Bella",
+          "type": "Women's Pajama Pants",
+          "full": "Ciao Bella Women's Pajama Pants"
         },
         {
-          "name": "Buzz's Cosmic Crew",
-          "type": "Men's Pajama Top",
-          "full": "Buzz's Cosmic Crew Men's Pajama Top"
-        },
-        {
-          "name": "Buzz's Cosmic Crew",
+          "name": "Ciao Bella",
           "type": "Men's Pajama Shorts",
-          "full": "Buzz's Cosmic Crew Men's Pajama Shorts"
+          "full": "Ciao Bella Men's Pajama Shorts"
         },
         {
-          "name": "Buzz's Cosmic Crew",
+          "name": "Ciao Bella",
+          "type": "Luxe Bow Headband",
+          "full": "Ciao Bella Luxe Bow Headband"
+        },
+        {
+          "name": "Ciao Bella",
+          "type": "Bandana Bib",
+          "full": "Ciao Bella Bandana Bib"
+        },
+        {
+          "name": "Ciao Bella",
           "type": "Large Cloud Blanket®",
-          "full": "Buzz's Cosmic Crew Large Cloud Blanket®"
+          "full": "Ciao Bella Large Cloud Blanket®"
         },
         {
-          "name": "Buzz's Cosmic Crew",
-          "type": "Fitted Crib Sheet",
-          "full": "Buzz's Cosmic Crew Fitted Crib Sheet"
+          "name": "Azure Garden",
+          "type": "3 Pack Girl's Brief Underwear",
+          "full": "Azure Garden 3 Pack Girl's Brief Underwear"
         },
         {
-          "name": "Buzz's Cosmic Crew",
-          "type": "Twin Sheet Set",
-          "full": "Buzz's Cosmic Crew Twin Sheet Set"
+          "name": "Tidepool Party",
+          "type": "3 Pack Boy's Boxer Brief Underwear",
+          "full": "Tidepool Party 3 Pack Boy's Boxer Brief Underwear"
         }
       ],
       "snipe_targets": [
         {
-          "keyword": "woody's wild west zippy",
+          "keyword": "ciao bella zippy",
           "priority": "NORMAL"
         },
         {
-          "keyword": "woody's wild west shorty zippy",
+          "keyword": "ciao bella shorty zippy",
           "priority": "NORMAL"
         },
         {
-          "keyword": "woody's wild west two-piece pajama set",
+          "keyword": "ciao bella two-piece pajama set",
           "priority": "NORMAL"
         },
         {
-          "keyword": "woody lovey",
-          "priority": "MEDIUM"
-        },
-        {
-          "keyword": "buzz lightyear lovey",
-          "priority": "MEDIUM"
-        },
-        {
-          "keyword": "buzz's cosmic crew zippy",
+          "keyword": "azure garden zippy",
           "priority": "NORMAL"
         },
         {
-          "keyword": "buzz's cosmic crew shorty zippy",
+          "keyword": "azure garden shorty zippy",
           "priority": "NORMAL"
         },
         {
-          "keyword": "buzz's cosmic crew two-piece pajama set",
+          "keyword": "azure garden two-piece pajama set",
           "priority": "NORMAL"
         },
         {
-          "keyword": "woody's wild west large cloud blanket®",
+          "keyword": "azure garden large cloud blanket®",
           "priority": "HIGH"
         },
         {
-          "keyword": "buzz's cosmic crew large cloud blanket®",
+          "keyword": "ciao bella large cloud blanket®",
           "priority": "HIGH"
         }
       ],
-      "raw_item_count": 38,
+      "raw_item_count": 51,
       "parse_strategy": "found"
     }
   ]
