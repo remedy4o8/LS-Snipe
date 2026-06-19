@@ -1,305 +1,220 @@
 {
-  "scraped_at": "2026-06-16T15:52:13.463Z",
+  "scraped_at": "2026-06-19T00:26:07.299Z",
   "drops": [
     {
       "name": "Coming Soon",
-      "date": "2026-06-16",
+      "date": "2026-06-23",
       "time_local": "9am",
       "timezone": "PT",
       "drop_hour": 9,
       "drop_min": 0,
       "items": [
         {
-          "name": "Ciao Bella",
+          "name": "Scoop Squad",
           "type": "Zippy",
-          "full": "Ciao Bella Zippy"
+          "full": "Scoop Squad Zippy"
         },
         {
-          "name": "Ciao Bella",
+          "name": "Scoop Squad",
           "type": "Shorty Zippy",
-          "full": "Ciao Bella Shorty Zippy"
+          "full": "Scoop Squad Shorty Zippy"
         },
         {
-          "name": "Ciao Bella",
+          "name": "Scoop Squad",
           "type": "Two-Piece Pajama Set",
-          "full": "Ciao Bella Two-Piece Pajama Set"
+          "full": "Scoop Squad Two-Piece Pajama Set"
         },
         {
-          "name": "Summer Shores",
-          "type": "Button Down Polo",
-          "full": "Summer Shores Button Down Polo"
+          "name": "Scoop Squad",
+          "type": "Women's Pajama Shorts",
+          "full": "Scoop Squad Women's Pajama Shorts"
         },
         {
-          "name": "Summer Shores",
-          "type": "Drawstring Shorts",
-          "full": "Summer Shores Drawstring Shorts"
-        },
-        {
-          "name": "Rainbow Ribbon",
-          "type": "Smocked Tank Dress",
-          "full": "Rainbow Ribbon Smocked Tank Dress"
-        },
-        {
-          "name": "Ciao Bella",
-          "type": "Flutter Twirl Dress",
-          "full": "Ciao Bella Flutter Twirl Dress"
-        },
-        {
-          "name": "Ciao Bella",
-          "type": "Twirl Dress with Bodysuit",
-          "full": "Ciao Bella Twirl Dress with Bodysuit"
-        },
-        {
-          "name": "Ciao Bella",
-          "type": "Relaxed Pocket Tee",
-          "full": "Ciao Bella Relaxed Pocket Tee"
-        },
-        {
-          "name": "Blue Bolt",
-          "type": "Shorts",
-          "full": "Blue Bolt Shorts"
-        },
-        {
-          "name": "School of Friends",
-          "type": "Relaxed Pocket Tee",
-          "full": "School of Friends Relaxed Pocket Tee"
-        },
-        {
-          "name": "Coastal Blue",
-          "type": "Pocket Tank",
-          "full": "Coastal Blue Pocket Tank"
-        },
-        {
-          "name": "Tidepool Party",
-          "type": "Relaxed Pocket Tee",
-          "full": "Tidepool Party Relaxed Pocket Tee"
-        },
-        {
-          "name": "Light Denim",
-          "type": "Chino Shorts",
-          "full": "Light Denim Chino Shorts"
-        },
-        {
-          "name": "Orange Crush",
-          "type": "Pocket Tank",
-          "full": "Orange Crush Pocket Tank"
-        },
-        {
-          "name": "Tidepool Party",
-          "type": "Tiered Dress",
-          "full": "Tidepool Party Tiered Dress"
-        },
-        {
-          "name": "Tidepool Party",
-          "type": "Tiered Dress with Bloomer",
-          "full": "Tidepool Party Tiered Dress with Bloomer"
-        },
-        {
-          "name": "Blue Bolt Stripes",
-          "type": "Relaxed Pocket Tee",
-          "full": "Blue Bolt Stripes Relaxed Pocket Tee"
-        },
-        {
-          "name": "Ciao Bella",
-          "type": "Bow Strap Tank",
-          "full": "Ciao Bella Bow Strap Tank"
-        },
-        {
-          "name": "Ciao Bella",
-          "type": "Bow Back Puff Sleeve Tee",
-          "full": "Ciao Bella Bow Back Puff Sleeve Tee"
-        },
-        {
-          "name": "Azure Garden",
-          "type": "Cross Back Skater Dress",
-          "full": "Azure Garden Cross Back Skater Dress"
-        },
-        {
-          "name": "Azure Garden",
-          "type": "Cross Back Skater Dress with Bloomer",
-          "full": "Azure Garden Cross Back Skater Dress with Bloomer"
-        },
-        {
-          "name": "Tidepool Party",
-          "type": "Bow Strap Tank",
-          "full": "Tidepool Party Bow Strap Tank"
-        },
-        {
-          "name": "Pink Spark",
-          "type": "Denim Shorts",
-          "full": "Pink Spark Denim Shorts"
-        },
-        {
-          "name": "Sparkling Scales",
-          "type": "Empire Tunic Top",
-          "full": "Sparkling Scales Empire Tunic Top"
-        },
-        {
-          "name": "Summer Shores",
-          "type": "Shorty Overall",
-          "full": "Summer Shores Shorty Overall"
-        },
-        {
-          "name": "Ciao Bella",
-          "type": "Pocket Shorty Romper",
-          "full": "Ciao Bella Pocket Shorty Romper"
-        },
-        {
-          "name": "Blue Bolt Stripes",
-          "type": "Pocket Bodysuit",
-          "full": "Blue Bolt Stripes Pocket Bodysuit"
-        },
-        {
-          "name": "Tidepool Party",
-          "type": "Henley Romper",
-          "full": "Tidepool Party Henley Romper"
-        },
-        {
-          "name": "Rainbow Ribbon",
-          "type": "Smocked Top with Bloomer",
-          "full": "Rainbow Ribbon Smocked Top with Bloomer"
-        },
-        {
-          "name": "Ciao Bella",
-          "type": "Bubble Romper",
-          "full": "Ciao Bella Bubble Romper"
-        },
-        {
-          "name": "Tidepool Party",
-          "type": "Bubble Romper",
-          "full": "Tidepool Party Bubble Romper"
-        },
-        {
-          "name": "Sparkling Scales",
-          "type": "Empire Tunic Top with Bloomer",
-          "full": "Sparkling Scales Empire Tunic Top with Bloomer"
-        },
-        {
-          "name": "Azure Garden",
-          "type": "Zippy",
-          "full": "Azure Garden Zippy"
-        },
-        {
-          "name": "Azure Garden",
-          "type": "Shorty Zippy",
-          "full": "Azure Garden Shorty Zippy"
-        },
-        {
-          "name": "Azure Garden",
-          "type": "Two-Piece Pajama Set",
-          "full": "Azure Garden Two-Piece Pajama Set"
-        },
-        {
-          "name": "Azure Garden",
-          "type": "Women's Pajama Set",
-          "full": "Azure Garden Women's Pajama Set"
-        },
-        {
-          "name": "Azure Garden",
-          "type": "Women's Robe",
-          "full": "Azure Garden Women's Robe"
-        },
-        {
-          "name": "Azure Garden",
-          "type": "Swaddle & Luxe Bow Headband Set",
-          "full": "Azure Garden Swaddle & Luxe Bow Headband Set"
-        },
-        {
-          "name": "Azure Garden",
-          "type": "Luxe Bow Headband",
-          "full": "Azure Garden Luxe Bow Headband"
-        },
-        {
-          "name": "Azure Garden",
-          "type": "Large Cloud Blanket®",
-          "full": "Azure Garden Large Cloud Blanket®"
-        },
-        {
-          "name": "Azure Garden",
-          "type": "Fitted Crib Sheet",
-          "full": "Azure Garden Fitted Crib Sheet"
-        },
-        {
-          "name": "Azure Garden",
-          "type": "Twin Sheet Set",
-          "full": "Azure Garden Twin Sheet Set"
-        },
-        {
-          "name": "Ciao Bella",
-          "type": "Women's Pajama Set",
-          "full": "Ciao Bella Women's Pajama Set"
-        },
-        {
-          "name": "Ciao Bella",
-          "type": "Women's Pajama Pants",
-          "full": "Ciao Bella Women's Pajama Pants"
-        },
-        {
-          "name": "Ciao Bella",
+          "name": "Scoop Squad",
           "type": "Men's Pajama Shorts",
-          "full": "Ciao Bella Men's Pajama Shorts"
+          "full": "Scoop Squad Men's Pajama Shorts"
         },
         {
-          "name": "Ciao Bella",
-          "type": "Luxe Bow Headband",
-          "full": "Ciao Bella Luxe Bow Headband"
-        },
-        {
-          "name": "Ciao Bella",
+          "name": "Scoop Squad",
           "type": "Bandana Bib",
-          "full": "Ciao Bella Bandana Bib"
+          "full": "Scoop Squad Bandana Bib"
         },
         {
-          "name": "Ciao Bella",
+          "name": "Scoop Squad",
           "type": "Large Cloud Blanket®",
-          "full": "Ciao Bella Large Cloud Blanket®"
+          "full": "Scoop Squad Large Cloud Blanket®"
         },
         {
-          "name": "Azure Garden",
-          "type": "3 Pack Girl's Brief Underwear",
-          "full": "Azure Garden 3 Pack Girl's Brief Underwear"
+          "name": "Scoop Squad",
+          "type": "Skater Dress",
+          "full": "Scoop Squad Skater Dress"
         },
         {
-          "name": "Tidepool Party",
-          "type": "3 Pack Boy's Boxer Brief Underwear",
-          "full": "Tidepool Party 3 Pack Boy's Boxer Brief Underwear"
+          "name": "Scoop Squad",
+          "type": "Skater Dress with Bodysuit",
+          "full": "Scoop Squad Skater Dress with Bodysuit"
+        },
+        {
+          "name": "Scoop Squad",
+          "type": "Relaxed Tee",
+          "full": "Scoop Squad Relaxed Tee"
+        },
+        {
+          "name": "Scoop Squad",
+          "type": "Pocket Shorty Romper",
+          "full": "Scoop Squad Pocket Shorty Romper"
+        },
+        {
+          "name": "Ocean Mist",
+          "type": "Zippy",
+          "full": "Ocean Mist Zippy"
+        },
+        {
+          "name": "Ocean Mist",
+          "type": "Shorty Zippy",
+          "full": "Ocean Mist Shorty Zippy"
+        },
+        {
+          "name": "Ocean Mist",
+          "type": "Two-Piece Pajama Set",
+          "full": "Ocean Mist Two-Piece Pajama Set"
+        },
+        {
+          "name": "Ocean Mist",
+          "type": "Women's Pajama Top",
+          "full": "Ocean Mist Women's Pajama Top"
+        },
+        {
+          "name": "Ocean Mist",
+          "type": "Women's Pajama Shorts",
+          "full": "Ocean Mist Women's Pajama Shorts"
+        },
+        {
+          "name": "Ocean Mist",
+          "type": "Men's Pajama Top",
+          "full": "Ocean Mist Men's Pajama Top"
+        },
+        {
+          "name": "Ocean Mist",
+          "type": "Men's Pajama Shorts",
+          "full": "Ocean Mist Men's Pajama Shorts"
+        },
+        {
+          "name": "Ocean Mist",
+          "type": "Swaddle & Beanie Set",
+          "full": "Ocean Mist Swaddle & Beanie Set"
+        },
+        {
+          "name": "Soft Wisteria",
+          "type": "Zippy",
+          "full": "Soft Wisteria Zippy"
+        },
+        {
+          "name": "Soft Wisteria",
+          "type": "Shorty Zippy",
+          "full": "Soft Wisteria Shorty Zippy"
+        },
+        {
+          "name": "Soft Wisteria",
+          "type": "Two-Piece Pajama Set",
+          "full": "Soft Wisteria Two-Piece Pajama Set"
+        },
+        {
+          "name": "Soft Wisteria",
+          "type": "Women's Sleeveless Nightgown",
+          "full": "Soft Wisteria Women's Sleeveless Nightgown"
+        },
+        {
+          "name": "Soft Wisteria",
+          "type": "Women's Pajama Top",
+          "full": "Soft Wisteria Women's Pajama Top"
+        },
+        {
+          "name": "Soft Wisteria",
+          "type": "Women's Pajama Shorts",
+          "full": "Soft Wisteria Women's Pajama Shorts"
+        },
+        {
+          "name": "Soft Wisteria",
+          "type": "Swaddle & Luxe Bow Headband Set",
+          "full": "Soft Wisteria Swaddle & Luxe Bow Headband Set"
+        },
+        {
+          "name": "Soft Wisteria",
+          "type": "Luxe Bow Headband",
+          "full": "Soft Wisteria Luxe Bow Headband"
+        },
+        {
+          "name": "Sweet Papaya",
+          "type": "Zippy",
+          "full": "Sweet Papaya Zippy"
+        },
+        {
+          "name": "Sweet Papaya",
+          "type": "Shorty Zippy",
+          "full": "Sweet Papaya Shorty Zippy"
+        },
+        {
+          "name": "Sweet Papaya",
+          "type": "Two-Piece Pajama Set",
+          "full": "Sweet Papaya Two-Piece Pajama Set"
         }
       ],
       "snipe_targets": [
         {
-          "keyword": "ciao bella zippy",
+          "keyword": "scoop squad zippy",
           "priority": "NORMAL"
         },
         {
-          "keyword": "ciao bella shorty zippy",
+          "keyword": "scoop squad shorty zippy",
           "priority": "NORMAL"
         },
         {
-          "keyword": "ciao bella two-piece pajama set",
+          "keyword": "scoop squad two-piece pajama set",
           "priority": "NORMAL"
         },
         {
-          "keyword": "azure garden zippy",
-          "priority": "NORMAL"
-        },
-        {
-          "keyword": "azure garden shorty zippy",
-          "priority": "NORMAL"
-        },
-        {
-          "keyword": "azure garden two-piece pajama set",
-          "priority": "NORMAL"
-        },
-        {
-          "keyword": "azure garden large cloud blanket®",
+          "keyword": "scoop squad large cloud blanket®",
           "priority": "HIGH"
         },
         {
-          "keyword": "ciao bella large cloud blanket®",
-          "priority": "HIGH"
+          "keyword": "ocean mist zippy",
+          "priority": "NORMAL"
+        },
+        {
+          "keyword": "ocean mist shorty zippy",
+          "priority": "NORMAL"
+        },
+        {
+          "keyword": "ocean mist two-piece pajama set",
+          "priority": "NORMAL"
+        },
+        {
+          "keyword": "soft wisteria zippy",
+          "priority": "NORMAL"
+        },
+        {
+          "keyword": "soft wisteria shorty zippy",
+          "priority": "NORMAL"
+        },
+        {
+          "keyword": "soft wisteria two-piece pajama set",
+          "priority": "NORMAL"
+        },
+        {
+          "keyword": "sweet papaya zippy",
+          "priority": "NORMAL"
+        },
+        {
+          "keyword": "sweet papaya shorty zippy",
+          "priority": "NORMAL"
+        },
+        {
+          "keyword": "sweet papaya two-piece pajama set",
+          "priority": "NORMAL"
         }
       ],
-      "raw_item_count": 51,
+      "raw_item_count": 30,
       "parse_strategy": "found"
     }
   ]
