@@ -1,220 +1,69 @@
 {
-  "scraped_at": "2026-06-23T17:54:11.696Z",
+  "scraped_at": "2026-06-23T23:56:26.915Z",
   "drops": [
     {
       "name": "Coming Soon",
-      "date": "2026-06-23",
+      "date": "2026-06-25",
       "time_local": "9am",
       "timezone": "PT",
       "drop_hour": 9,
       "drop_min": 0,
       "items": [
         {
-          "name": "Scoop Squad",
+          "name": "Fizzy Fair",
           "type": "Zippy",
-          "full": "Scoop Squad Zippy"
+          "full": "Fizzy Fair Zippy"
         },
         {
-          "name": "Scoop Squad",
+          "name": "Fizzy Fair",
           "type": "Shorty Zippy",
-          "full": "Scoop Squad Shorty Zippy"
+          "full": "Fizzy Fair Shorty Zippy"
         },
         {
-          "name": "Scoop Squad",
+          "name": "Fizzy Fair",
           "type": "Two-Piece Pajama Set",
-          "full": "Scoop Squad Two-Piece Pajama Set"
+          "full": "Fizzy Fair Two-Piece Pajama Set"
         },
         {
-          "name": "Scoop Squad",
-          "type": "Women's Pajama Shorts",
-          "full": "Scoop Squad Women's Pajama Shorts"
+          "name": "Fizzy Fair",
+          "type": "Large Cloud Blanket",
+          "full": "Fizzy Fair Large Cloud Blanket"
         },
         {
-          "name": "Scoop Squad",
-          "type": "Men's Pajama Shorts",
-          "full": "Scoop Squad Men's Pajama Shorts"
-        },
-        {
-          "name": "Scoop Squad",
+          "name": "Fizzy Fair",
           "type": "Bandana Bib",
-          "full": "Scoop Squad Bandana Bib"
+          "full": "Fizzy Fair Bandana Bib"
         },
         {
-          "name": "Scoop Squad",
-          "type": "Large Cloud Blanket®",
-          "full": "Scoop Squad Large Cloud Blanket®"
-        },
-        {
-          "name": "Scoop Squad",
-          "type": "Skater Dress",
-          "full": "Scoop Squad Skater Dress"
-        },
-        {
-          "name": "Scoop Squad",
-          "type": "Skater Dress with Bodysuit",
-          "full": "Scoop Squad Skater Dress with Bodysuit"
-        },
-        {
-          "name": "Scoop Squad",
-          "type": "Relaxed Tee",
-          "full": "Scoop Squad Relaxed Tee"
-        },
-        {
-          "name": "Scoop Squad",
-          "type": "Pocket Shorty Romper",
-          "full": "Scoop Squad Pocket Shorty Romper"
-        },
-        {
-          "name": "Ocean Mist",
-          "type": "Zippy",
-          "full": "Ocean Mist Zippy"
-        },
-        {
-          "name": "Ocean Mist",
-          "type": "Shorty Zippy",
-          "full": "Ocean Mist Shorty Zippy"
-        },
-        {
-          "name": "Ocean Mist",
-          "type": "Two-Piece Pajama Set",
-          "full": "Ocean Mist Two-Piece Pajama Set"
-        },
-        {
-          "name": "Ocean Mist",
-          "type": "Women's Pajama Top",
-          "full": "Ocean Mist Women's Pajama Top"
-        },
-        {
-          "name": "Ocean Mist",
+          "name": "Fizzy Fair",
           "type": "Women's Pajama Shorts",
-          "full": "Ocean Mist Women's Pajama Shorts"
+          "full": "Fizzy Fair Women's Pajama Shorts"
         },
         {
-          "name": "Ocean Mist",
-          "type": "Men's Pajama Top",
-          "full": "Ocean Mist Men's Pajama Top"
-        },
-        {
-          "name": "Ocean Mist",
+          "name": "Fizzy Fair",
           "type": "Men's Pajama Shorts",
-          "full": "Ocean Mist Men's Pajama Shorts"
-        },
-        {
-          "name": "Ocean Mist",
-          "type": "Swaddle & Beanie Set",
-          "full": "Ocean Mist Swaddle & Beanie Set"
-        },
-        {
-          "name": "Soft Wisteria",
-          "type": "Zippy",
-          "full": "Soft Wisteria Zippy"
-        },
-        {
-          "name": "Soft Wisteria",
-          "type": "Shorty Zippy",
-          "full": "Soft Wisteria Shorty Zippy"
-        },
-        {
-          "name": "Soft Wisteria",
-          "type": "Two-Piece Pajama Set",
-          "full": "Soft Wisteria Two-Piece Pajama Set"
-        },
-        {
-          "name": "Soft Wisteria",
-          "type": "Women's Sleeveless Nightgown",
-          "full": "Soft Wisteria Women's Sleeveless Nightgown"
-        },
-        {
-          "name": "Soft Wisteria",
-          "type": "Women's Pajama Top",
-          "full": "Soft Wisteria Women's Pajama Top"
-        },
-        {
-          "name": "Soft Wisteria",
-          "type": "Women's Pajama Shorts",
-          "full": "Soft Wisteria Women's Pajama Shorts"
-        },
-        {
-          "name": "Soft Wisteria",
-          "type": "Swaddle & Luxe Bow Headband Set",
-          "full": "Soft Wisteria Swaddle & Luxe Bow Headband Set"
-        },
-        {
-          "name": "Soft Wisteria",
-          "type": "Luxe Bow Headband",
-          "full": "Soft Wisteria Luxe Bow Headband"
-        },
-        {
-          "name": "Sweet Papaya",
-          "type": "Zippy",
-          "full": "Sweet Papaya Zippy"
-        },
-        {
-          "name": "Sweet Papaya",
-          "type": "Shorty Zippy",
-          "full": "Sweet Papaya Shorty Zippy"
-        },
-        {
-          "name": "Sweet Papaya",
-          "type": "Two-Piece Pajama Set",
-          "full": "Sweet Papaya Two-Piece Pajama Set"
+          "full": "Fizzy Fair Men's Pajama Shorts"
         }
       ],
       "snipe_targets": [
         {
-          "keyword": "scoop squad zippy",
+          "keyword": "fizzy fair zippy",
           "priority": "NORMAL"
         },
         {
-          "keyword": "scoop squad shorty zippy",
+          "keyword": "fizzy fair shorty zippy",
           "priority": "NORMAL"
         },
         {
-          "keyword": "scoop squad two-piece pajama set",
+          "keyword": "fizzy fair two-piece pajama set",
           "priority": "NORMAL"
         },
         {
-          "keyword": "scoop squad large cloud blanket®",
+          "keyword": "fizzy fair large cloud blanket",
           "priority": "HIGH"
-        },
-        {
-          "keyword": "ocean mist zippy",
-          "priority": "NORMAL"
-        },
-        {
-          "keyword": "ocean mist shorty zippy",
-          "priority": "NORMAL"
-        },
-        {
-          "keyword": "ocean mist two-piece pajama set",
-          "priority": "NORMAL"
-        },
-        {
-          "keyword": "soft wisteria zippy",
-          "priority": "NORMAL"
-        },
-        {
-          "keyword": "soft wisteria shorty zippy",
-          "priority": "NORMAL"
-        },
-        {
-          "keyword": "soft wisteria two-piece pajama set",
-          "priority": "NORMAL"
-        },
-        {
-          "keyword": "sweet papaya zippy",
-          "priority": "NORMAL"
-        },
-        {
-          "keyword": "sweet papaya shorty zippy",
-          "priority": "NORMAL"
-        },
-        {
-          "keyword": "sweet papaya two-piece pajama set",
-          "priority": "NORMAL"
         }
       ],
-      "raw_item_count": 30,
+      "raw_item_count": 7,
       "parse_strategy": "found"
     }
   ]
