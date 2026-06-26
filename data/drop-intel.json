@@ -1,69 +1,156 @@
 {
-  "scraped_at": "2026-06-25T15:42:12.700Z",
+  "scraped_at": "2026-06-26T00:08:41.194Z",
   "drops": [
     {
       "name": "Coming Soon",
-      "date": "2026-06-25",
+      "date": "2026-06-30",
       "time_local": "9am",
       "timezone": "PT",
       "drop_hour": 9,
       "drop_min": 0,
       "items": [
         {
-          "name": "Fizzy Fair",
+          "name": "Wildwood Floral",
           "type": "Zippy",
-          "full": "Fizzy Fair Zippy"
+          "full": "Wildwood Floral Zippy"
         },
         {
-          "name": "Fizzy Fair",
-          "type": "Shorty Zippy",
-          "full": "Fizzy Fair Shorty Zippy"
-        },
-        {
-          "name": "Fizzy Fair",
+          "name": "Wildwood Floral",
           "type": "Two-Piece Pajama Set",
-          "full": "Fizzy Fair Two-Piece Pajama Set"
+          "full": "Wildwood Floral Two-Piece Pajama Set"
         },
         {
-          "name": "Fizzy Fair",
+          "name": "Wildwood Floral",
+          "type": "Women's Pajama Top",
+          "full": "Wildwood Floral Women's Pajama Top"
+        },
+        {
+          "name": "Wildwood Floral",
+          "type": "Women's Sleep Shirt",
+          "full": "Wildwood Floral Women's Sleep Shirt"
+        },
+        {
+          "name": "Wildwood Floral",
+          "type": "Women's Pajama Pants",
+          "full": "Wildwood Floral Women's Pajama Pants"
+        },
+        {
+          "name": "Wildwood Floral",
+          "type": "Bubble Romper",
+          "full": "Wildwood Floral Bubble Romper"
+        },
+        {
+          "name": "Wildwood Floral",
+          "type": "Skater Dress",
+          "full": "Wildwood Floral Skater Dress"
+        },
+        {
+          "name": "Wildwood Floral",
+          "type": "Infant Gown",
+          "full": "Wildwood Floral Infant Gown"
+        },
+        {
+          "name": "Wildwood Floral",
+          "type": "Luxe Bow Headband",
+          "full": "Wildwood Floral Luxe Bow Headband"
+        },
+        {
+          "name": "Wildwood Floral",
           "type": "Large Cloud Blanket",
-          "full": "Fizzy Fair Large Cloud Blanket"
+          "full": "Wildwood Floral Large Cloud Blanket"
         },
         {
-          "name": "Fizzy Fair",
-          "type": "Bandana Bib",
-          "full": "Fizzy Fair Bandana Bib"
+          "name": "Wildwood Floral",
+          "type": "Swaddle & Luxe Bow Headband Set",
+          "full": "Wildwood Floral Swaddle & Luxe Bow Headband Set"
         },
         {
-          "name": "Fizzy Fair",
-          "type": "Women's Pajama Shorts",
-          "full": "Fizzy Fair Women's Pajama Shorts"
+          "name": "Wildwood Floral",
+          "type": "Fitted Crib Sheet",
+          "full": "Wildwood Floral Fitted Crib Sheet"
         },
         {
-          "name": "Fizzy Fair",
-          "type": "Men's Pajama Shorts",
-          "full": "Fizzy Fair Men's Pajama Shorts"
+          "name": "Wildwood Floral",
+          "type": "Twin Sheet Set",
+          "full": "Wildwood Floral Twin Sheet Set"
+        },
+        {
+          "name": "Peace & Love",
+          "type": "Ribbed Zippy",
+          "full": "Peace & Love Ribbed Zippy"
+        },
+        {
+          "name": "Peace & Love",
+          "type": "Ribbed Shorty Zippy",
+          "full": "Peace & Love Ribbed Shorty Zippy"
+        },
+        {
+          "name": "Peace & Love",
+          "type": "Ribbed Two-Piece Pajama Set",
+          "full": "Peace & Love Ribbed Two-Piece Pajama Set"
+        },
+        {
+          "name": "Peace & Love",
+          "type": "Ribbed Women's Pajama Shorts",
+          "full": "Peace & Love Ribbed Women's Pajama Shorts"
+        },
+        {
+          "name": "Peace & Love",
+          "type": "Ribbed Men's Pajama Shorts",
+          "full": "Peace & Love Ribbed Men's Pajama Shorts"
+        },
+        {
+          "name": "Peace & Love",
+          "type": "Large Cloud Blanket",
+          "full": "Peace & Love Large Cloud Blanket"
+        },
+        {
+          "name": "Peace & Love",
+          "type": "Fitted Crib Sheet",
+          "full": "Peace & Love Fitted Crib Sheet"
+        },
+        {
+          "name": "Peace & Love",
+          "type": "Twin Sheet Set",
+          "full": "Peace & Love Twin Sheet Set"
+        },
+        {
+          "name": "Peace & Love",
+          "type": "Ribbed Swaddle & Beanie Set",
+          "full": "Peace & Love Ribbed Swaddle & Beanie Set"
         }
       ],
       "snipe_targets": [
         {
-          "keyword": "fizzy fair zippy",
+          "keyword": "wildwood floral zippy",
           "priority": "NORMAL"
         },
         {
-          "keyword": "fizzy fair shorty zippy",
+          "keyword": "wildwood floral two-piece pajama set",
           "priority": "NORMAL"
         },
         {
-          "keyword": "fizzy fair two-piece pajama set",
+          "keyword": "wildwood floral large cloud blanket",
+          "priority": "HIGH"
+        },
+        {
+          "keyword": "peace & love ribbed zippy",
           "priority": "NORMAL"
         },
         {
-          "keyword": "fizzy fair large cloud blanket",
+          "keyword": "peace & love ribbed shorty zippy",
+          "priority": "NORMAL"
+        },
+        {
+          "keyword": "peace & love ribbed two-piece pajama set",
+          "priority": "NORMAL"
+        },
+        {
+          "keyword": "peace & love large cloud blanket",
           "priority": "HIGH"
         }
       ],
-      "raw_item_count": 7,
+      "raw_item_count": 22,
       "parse_strategy": "found"
     }
   ]
