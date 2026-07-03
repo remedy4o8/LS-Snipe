@@ -1,156 +1,215 @@
 {
-  "scraped_at": "2026-06-30T15:26:56.254Z",
+  "scraped_at": "2026-07-03T02:55:51.277Z",
   "drops": [
     {
       "name": "Coming Soon",
-      "date": "2026-06-30",
+      "date": "2026-07-07",
       "time_local": "9am",
       "timezone": "PT",
       "drop_hour": 9,
       "drop_min": 0,
       "items": [
         {
-          "name": "Wildwood Floral",
+          "name": "Dusk Blue Checks",
           "type": "Zippy",
-          "full": "Wildwood Floral Zippy"
+          "full": "Dusk Blue Checks Zippy"
         },
         {
-          "name": "Wildwood Floral",
+          "name": "Dusk Blue Checks",
+          "type": "Shorty Zippy",
+          "full": "Dusk Blue Checks Shorty Zippy"
+        },
+        {
+          "name": "Dusk Blue Checks",
           "type": "Two-Piece Pajama Set",
-          "full": "Wildwood Floral Two-Piece Pajama Set"
+          "full": "Dusk Blue Checks Two-Piece Pajama Set"
         },
         {
-          "name": "Wildwood Floral",
-          "type": "Women's Pajama Top",
-          "full": "Wildwood Floral Women's Pajama Top"
+          "name": "Dusk Blue Checks",
+          "type": "Relaxed Hooded Tee",
+          "full": "Dusk Blue Checks Relaxed Hooded Tee"
         },
         {
-          "name": "Wildwood Floral",
-          "type": "Women's Sleep Shirt",
-          "full": "Wildwood Floral Women's Sleep Shirt"
+          "name": "Dusk Blue Checks",
+          "type": "Relaxed Pocket Tee",
+          "full": "Dusk Blue Checks Relaxed Pocket Tee"
         },
         {
-          "name": "Wildwood Floral",
+          "name": "Whiskers & Wags",
+          "type": "Crewneck Sweatshirt",
+          "full": "Whiskers & Wags Crewneck Sweatshirt"
+        },
+        {
+          "name": "Whiskers & Wags",
+          "type": "Relaxed Pocket Tee",
+          "full": "Whiskers & Wags Relaxed Pocket Tee"
+        },
+        {
+          "name": "Whiskers & Wags",
+          "type": "Patch Pocket Dress",
+          "full": "Whiskers & Wags Patch Pocket Dress"
+        },
+        {
+          "name": "Whiskers & Wags",
+          "type": "Patch Pocket Dress with Bloomer",
+          "full": "Whiskers & Wags Patch Pocket Dress with Bloomer"
+        },
+        {
+          "name": "Whiskers & Wags",
+          "type": "Puff Sleeve Tee",
+          "full": "Whiskers & Wags Puff Sleeve Tee"
+        },
+        {
+          "name": "Whiskers & Wags",
+          "type": "Legging",
+          "full": "Whiskers & Wags Legging"
+        },
+        {
+          "name": "Heather Lavender",
+          "type": "Flutter Tee",
+          "full": "Heather Lavender Flutter Tee"
+        },
+        {
+          "name": "Sweet Raspberry Checks",
+          "type": "Zippy",
+          "full": "Sweet Raspberry Checks Zippy"
+        },
+        {
+          "name": "Sweet Raspberry Checks",
+          "type": "Shorty Zippy",
+          "full": "Sweet Raspberry Checks Shorty Zippy"
+        },
+        {
+          "name": "Sweet Raspberry Checks",
+          "type": "Two-Piece Pajama Set",
+          "full": "Sweet Raspberry Checks Two-Piece Pajama Set"
+        },
+        {
+          "name": "Bright White",
+          "type": "Flutter Tee",
+          "full": "Bright White Flutter Tee"
+        },
+        {
+          "name": "Sweet Raspberry Checks",
+          "type": "Skirt Overall",
+          "full": "Sweet Raspberry Checks Skirt Overall"
+        },
+        {
+          "name": "Smiley Stripes",
+          "type": "Ruffled Shift Dress",
+          "full": "Smiley Stripes Ruffled Shift Dress"
+        },
+        {
+          "name": "Smiley Stripes",
+          "type": "Double Flutter Tee",
+          "full": "Smiley Stripes Double Flutter Tee"
+        },
+        {
+          "name": "Smiley Face",
+          "type": "Tiered Skort",
+          "full": "Smiley Face Tiered Skort"
+        },
+        {
+          "name": "Cheery Checks",
+          "type": "Drop Shoulder Crewneck",
+          "full": "Cheery Checks Drop Shoulder Crewneck"
+        },
+        {
+          "name": "Cheery Checks",
+          "type": "Pink Dolphin Shorts",
+          "full": "Cheery Checks Pink Dolphin Shorts"
+        },
+        {
+          "name": "Stone Checks",
+          "type": "Relaxed Hooded Tee",
+          "full": "Stone Checks Relaxed Hooded Tee"
+        },
+        {
+          "name": "Stone Checks",
+          "type": "Relaxed Pocket Tee",
+          "full": "Stone Checks Relaxed Pocket Tee"
+        },
+        {
+          "name": "Whiskers & Wags",
+          "type": "Bodysuit",
+          "full": "Whiskers & Wags Bodysuit"
+        },
+        {
+          "name": "Dusk Blue Checks",
           "type": "Women's Pajama Pants",
-          "full": "Wildwood Floral Women's Pajama Pants"
+          "full": "Dusk Blue Checks Women's Pajama Pants"
         },
         {
-          "name": "Wildwood Floral",
-          "type": "Bubble Romper",
-          "full": "Wildwood Floral Bubble Romper"
+          "name": "Dusk Blue Checks",
+          "type": "Men's Pajama Pants",
+          "full": "Dusk Blue Checks Men's Pajama Pants"
         },
         {
-          "name": "Wildwood Floral",
-          "type": "Skater Dress",
-          "full": "Wildwood Floral Skater Dress"
+          "name": "Dusk Blue Checks",
+          "type": "Swaddle & Beanie Set",
+          "full": "Dusk Blue Checks Swaddle & Beanie Set"
         },
         {
-          "name": "Wildwood Floral",
-          "type": "Infant Gown",
-          "full": "Wildwood Floral Infant Gown"
+          "name": "Dusk Blue Checks",
+          "type": "Large Cloud Blanket®",
+          "full": "Dusk Blue Checks Large Cloud Blanket®"
         },
         {
-          "name": "Wildwood Floral",
-          "type": "Luxe Bow Headband",
-          "full": "Wildwood Floral Luxe Bow Headband"
+          "name": "Sweet Raspberry Checks",
+          "type": "Women's Sleep Shirt",
+          "full": "Sweet Raspberry Checks Women's Sleep Shirt"
         },
         {
-          "name": "Wildwood Floral",
-          "type": "Large Cloud Blanket",
-          "full": "Wildwood Floral Large Cloud Blanket"
-        },
-        {
-          "name": "Wildwood Floral",
+          "name": "Sweet Raspberry Checks",
           "type": "Swaddle & Luxe Bow Headband Set",
-          "full": "Wildwood Floral Swaddle & Luxe Bow Headband Set"
+          "full": "Sweet Raspberry Checks Swaddle & Luxe Bow Headband Set"
         },
         {
-          "name": "Wildwood Floral",
-          "type": "Fitted Crib Sheet",
-          "full": "Wildwood Floral Fitted Crib Sheet"
+          "name": "Sweet Raspberry Checks",
+          "type": "Luxe Bow Headband",
+          "full": "Sweet Raspberry Checks Luxe Bow Headband"
         },
         {
-          "name": "Wildwood Floral",
-          "type": "Twin Sheet Set",
-          "full": "Wildwood Floral Twin Sheet Set"
-        },
-        {
-          "name": "Peace & Love",
-          "type": "Ribbed Zippy",
-          "full": "Peace & Love Ribbed Zippy"
-        },
-        {
-          "name": "Peace & Love",
-          "type": "Ribbed Shorty Zippy",
-          "full": "Peace & Love Ribbed Shorty Zippy"
-        },
-        {
-          "name": "Peace & Love",
-          "type": "Ribbed Two-Piece Pajama Set",
-          "full": "Peace & Love Ribbed Two-Piece Pajama Set"
-        },
-        {
-          "name": "Peace & Love",
-          "type": "Ribbed Women's Pajama Shorts",
-          "full": "Peace & Love Ribbed Women's Pajama Shorts"
-        },
-        {
-          "name": "Peace & Love",
-          "type": "Ribbed Men's Pajama Shorts",
-          "full": "Peace & Love Ribbed Men's Pajama Shorts"
-        },
-        {
-          "name": "Peace & Love",
-          "type": "Large Cloud Blanket",
-          "full": "Peace & Love Large Cloud Blanket"
-        },
-        {
-          "name": "Peace & Love",
-          "type": "Fitted Crib Sheet",
-          "full": "Peace & Love Fitted Crib Sheet"
-        },
-        {
-          "name": "Peace & Love",
-          "type": "Twin Sheet Set",
-          "full": "Peace & Love Twin Sheet Set"
-        },
-        {
-          "name": "Peace & Love",
-          "type": "Ribbed Swaddle & Beanie Set",
-          "full": "Peace & Love Ribbed Swaddle & Beanie Set"
+          "name": "Sweet Raspberry Checks",
+          "type": "Large Cloud Blanket®",
+          "full": "Sweet Raspberry Checks Large Cloud Blanket®"
         }
       ],
       "snipe_targets": [
         {
-          "keyword": "wildwood floral zippy",
+          "keyword": "dusk blue checks zippy",
           "priority": "NORMAL"
         },
         {
-          "keyword": "wildwood floral two-piece pajama set",
+          "keyword": "dusk blue checks shorty zippy",
           "priority": "NORMAL"
         },
         {
-          "keyword": "wildwood floral large cloud blanket",
+          "keyword": "dusk blue checks two-piece pajama set",
+          "priority": "NORMAL"
+        },
+        {
+          "keyword": "sweet raspberry checks zippy",
+          "priority": "NORMAL"
+        },
+        {
+          "keyword": "sweet raspberry checks shorty zippy",
+          "priority": "NORMAL"
+        },
+        {
+          "keyword": "sweet raspberry checks two-piece pajama set",
+          "priority": "NORMAL"
+        },
+        {
+          "keyword": "dusk blue checks large cloud blanket®",
           "priority": "HIGH"
         },
         {
-          "keyword": "peace & love ribbed zippy",
-          "priority": "NORMAL"
-        },
-        {
-          "keyword": "peace & love ribbed shorty zippy",
-          "priority": "NORMAL"
-        },
-        {
-          "keyword": "peace & love ribbed two-piece pajama set",
-          "priority": "NORMAL"
-        },
-        {
-          "keyword": "peace & love large cloud blanket",
+          "keyword": "sweet raspberry checks large cloud blanket®",
           "priority": "HIGH"
         }
       ],
-      "raw_item_count": 22,
+      "raw_item_count": 33,
       "parse_strategy": "found"
     }
   ]
