@@ -1,79 +1,134 @@
 {
-  "scraped_at": "2026-07-14T16:13:59.589Z",
+  "scraped_at": "2026-07-16T23:58:34.258Z",
   "drops": [
     {
       "name": "Coming Soon",
-      "date": "2026-07-14",
+      "date": "2026-07-21",
       "time_local": "9am",
       "timezone": "PT",
       "drop_hour": 9,
       "drop_min": 0,
       "items": [
         {
-          "name": "Koala Cuddles",
+          "name": "Adventure Bay Heroes",
           "type": "Zippy",
-          "full": "Koala Cuddles Zippy"
+          "full": "Adventure Bay Heroes Zippy"
         },
         {
-          "name": "Koala Cuddles",
+          "name": "Adventure Bay Heroes",
           "type": "Shorty Zippy",
-          "full": "Koala Cuddles Shorty Zippy"
+          "full": "Adventure Bay Heroes Shorty Zippy"
         },
         {
-          "name": "Koala Cuddles",
+          "name": "Adventure Bay Heroes",
           "type": "Two-Piece Pajama Set",
-          "full": "Koala Cuddles Two-Piece Pajama Set"
+          "full": "Adventure Bay Heroes Two-Piece Pajama Set"
         },
         {
-          "name": "Koala Cuddles",
+          "name": "Adventure Bay Heroes",
+          "type": "Relaxed Pocket Tee",
+          "full": "Adventure Bay Heroes Relaxed Pocket Tee"
+        },
+        {
+          "name": "Adventure Bay Heroes",
+          "type": "Pocket Bodysuit",
+          "full": "Adventure Bay Heroes Pocket Bodysuit"
+        },
+        {
+          "name": "Adventure Bay Heroes",
+          "type": "Skater Dress",
+          "full": "Adventure Bay Heroes Skater Dress"
+        },
+        {
+          "name": "Adventure Bay Heroes",
+          "type": "Skater Dress with Bodysuit",
+          "full": "Adventure Bay Heroes Skater Dress with Bodysuit"
+        },
+        {
+          "name": "Adventure Bay Heroes",
+          "type": "Zip Hoodie",
+          "full": "Adventure Bay Heroes Zip Hoodie"
+        },
+        {
+          "name": "Rescue Ready",
+          "type": "Crewneck Sweatshirt",
+          "full": "Rescue Ready Crewneck Sweatshirt"
+        },
+        {
+          "name": "Rescue Ready",
+          "type": "Relaxed Tee",
+          "full": "Rescue Ready Relaxed Tee"
+        },
+        {
+          "name": "Rescue Ready",
+          "type": "Puff Sleeve Tee",
+          "full": "Rescue Ready Puff Sleeve Tee"
+        },
+        {
+          "name": "Chase",
+          "type": "Bucket Hat",
+          "full": "Chase Bucket Hat"
+        },
+        {
+          "name": "Skye",
+          "type": "Bucket Hat",
+          "full": "Skye Bucket Hat"
+        },
+        {
+          "name": "Adventure Bay Heroes",
+          "type": "Women's Pajama Top",
+          "full": "Adventure Bay Heroes Women's Pajama Top"
+        },
+        {
+          "name": "Adventure Bay Heroes",
           "type": "Women's Pajama Pants",
-          "full": "Koala Cuddles Women's Pajama Pants"
+          "full": "Adventure Bay Heroes Women's Pajama Pants"
         },
         {
-          "name": "Koala Cuddles",
+          "name": "Adventure Bay Heroes",
+          "type": "Men's Pajama Top",
+          "full": "Adventure Bay Heroes Men's Pajama Top"
+        },
+        {
+          "name": "Adventure Bay Heroes",
           "type": "Men's Pajama Pants",
-          "full": "Koala Cuddles Men's Pajama Pants"
+          "full": "Adventure Bay Heroes Men's Pajama Pants"
         },
         {
-          "name": "Koala Cuddles",
+          "name": "Adventure Bay Heroes",
           "type": "Large Cloud Blanket®",
-          "full": "Koala Cuddles Large Cloud Blanket®"
+          "full": "Adventure Bay Heroes Large Cloud Blanket®"
         },
         {
-          "name": "Koala Cuddles",
+          "name": "Adventure Bay Heroes",
           "type": "Fitted Crib Sheet",
-          "full": "Koala Cuddles Fitted Crib Sheet"
+          "full": "Adventure Bay Heroes Fitted Crib Sheet"
         },
         {
-          "name": "Koala Cuddles",
-          "type": "Swaddle & Beanie Set",
-          "full": "Koala Cuddles Swaddle & Beanie Set"
-        },
-        {
-          "name": "Koala Cuddles",
-          "type": "Swaddle & Luxe Bow Headband Set",
-          "full": "Koala Cuddles Swaddle & Luxe Bow Headband Set"
+          "name": "Adventure Bay Heroes",
+          "type": "Twin Sheet Set",
+          "full": "Adventure Bay Heroes Twin Sheet Set"
         }
       ],
       "snipe_targets": [
         {
-          "keyword": "koala cuddles zippy",
+          "keyword": "adventure bay heroes zippy",
           "priority": "NORMAL"
         },
         {
-          "keyword": "koala cuddles shorty zippy",
+          "keyword": "adventure bay heroes shorty zippy",
           "priority": "NORMAL"
         },
         {
-          "keyword": "koala cuddles two-piece pajama set",
+          "keyword": "adventure bay heroes two-piece pajama set",
           "priority": "NORMAL"
         },
         {
-          "keyword": "koala cuddles large cloud blanket®",
+          "keyword": "adventure bay heroes large cloud blanket®",
           "priority": "HIGH"
         }
       ],
-      "raw_item_count": 9,
+      "raw_item_count": 20,
       "parse_strategy": "found"
     }
   ]
