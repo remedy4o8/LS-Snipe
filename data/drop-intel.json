@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-21T15:42:37.605Z",
+  "scraped_at": "2026-08-05T00:01:13.868Z",
   "drops": [
     {
       "name": "Coming Soon",
@@ -10,125 +10,71 @@
       "drop_min": 0,
       "items": [
         {
-          "name": "Adventure Bay Heroes",
+          "name": "Team Spirit",
           "type": "Zippy",
-          "full": "Adventure Bay Heroes Zippy"
+          "full": "Team Spirit Zippy"
         },
         {
-          "name": "Adventure Bay Heroes",
+          "name": "Team Spirit",
           "type": "Shorty Zippy",
-          "full": "Adventure Bay Heroes Shorty Zippy"
+          "full": "Team Spirit Shorty Zippy"
         },
         {
-          "name": "Adventure Bay Heroes",
+          "name": "Team Spirit",
           "type": "Two-Piece Pajama Set",
-          "full": "Adventure Bay Heroes Two-Piece Pajama Set"
+          "full": "Team Spirit Two-Piece Pajama Set"
         },
         {
-          "name": "Adventure Bay Heroes",
-          "type": "Relaxed Pocket Tee",
-          "full": "Adventure Bay Heroes Relaxed Pocket Tee"
-        },
-        {
-          "name": "Adventure Bay Heroes",
-          "type": "Pocket Bodysuit",
-          "full": "Adventure Bay Heroes Pocket Bodysuit"
-        },
-        {
-          "name": "Adventure Bay Heroes",
-          "type": "Skater Dress",
-          "full": "Adventure Bay Heroes Skater Dress"
-        },
-        {
-          "name": "Adventure Bay Heroes",
-          "type": "Skater Dress with Bodysuit",
-          "full": "Adventure Bay Heroes Skater Dress with Bodysuit"
-        },
-        {
-          "name": "Adventure Bay Heroes",
-          "type": "Zip Hoodie",
-          "full": "Adventure Bay Heroes Zip Hoodie"
-        },
-        {
-          "name": "Rescue Ready",
-          "type": "Crewneck Sweatshirt",
-          "full": "Rescue Ready Crewneck Sweatshirt"
-        },
-        {
-          "name": "Rescue Ready",
-          "type": "Relaxed Tee",
-          "full": "Rescue Ready Relaxed Tee"
-        },
-        {
-          "name": "Rescue Ready",
-          "type": "Puff Sleeve Tee",
-          "full": "Rescue Ready Puff Sleeve Tee"
-        },
-        {
-          "name": "Chase",
-          "type": "Bucket Hat",
-          "full": "Chase Bucket Hat"
-        },
-        {
-          "name": "Skye",
-          "type": "Bucket Hat",
-          "full": "Skye Bucket Hat"
-        },
-        {
-          "name": "Adventure Bay Heroes",
-          "type": "Women's Pajama Top",
-          "full": "Adventure Bay Heroes Women's Pajama Top"
-        },
-        {
-          "name": "Adventure Bay Heroes",
-          "type": "Women's Pajama Pants",
-          "full": "Adventure Bay Heroes Women's Pajama Pants"
-        },
-        {
-          "name": "Adventure Bay Heroes",
+          "name": "Team Spirit",
           "type": "Men's Pajama Top",
-          "full": "Adventure Bay Heroes Men's Pajama Top"
+          "full": "Team Spirit Men's Pajama Top"
         },
         {
-          "name": "Adventure Bay Heroes",
+          "name": "Team Spirit",
           "type": "Men's Pajama Pants",
-          "full": "Adventure Bay Heroes Men's Pajama Pants"
+          "full": "Team Spirit Men's Pajama Pants"
         },
         {
-          "name": "Adventure Bay Heroes",
-          "type": "Large Cloud Blanket®",
-          "full": "Adventure Bay Heroes Large Cloud Blanket®"
+          "name": "Team Spirit",
+          "type": "Swaddle & Beanie Set",
+          "full": "Team Spirit Swaddle & Beanie Set"
         },
         {
-          "name": "Adventure Bay Heroes",
+          "name": "Team Spirit",
           "type": "Fitted Crib Sheet",
-          "full": "Adventure Bay Heroes Fitted Crib Sheet"
+          "full": "Team Spirit Fitted Crib Sheet"
         },
         {
-          "name": "Adventure Bay Heroes",
-          "type": "Twin Sheet Set",
-          "full": "Adventure Bay Heroes Twin Sheet Set"
+          "name": "Team Spirit",
+          "type": "Women's Pajama Top",
+          "full": "Team Spirit Women's Pajama Top"
+        },
+        {
+          "name": "Team Spirit",
+          "type": "Women's Pajama Pants",
+          "full": "Team Spirit Women's Pajama Pants"
+        },
+        {
+          "name": "Team Spirit",
+          "type": "Swaddle & Luxe Bow Headband Set",
+          "full": "Team Spirit Swaddle & Luxe Bow Headband Set"
         }
       ],
       "snipe_targets": [
         {
-          "keyword": "adventure bay heroes zippy",
+          "keyword": "team spirit zippy",
           "priority": "NORMAL"
         },
         {
-          "keyword": "adventure bay heroes shorty zippy",
+          "keyword": "team spirit shorty zippy",
           "priority": "NORMAL"
         },
         {
-          "keyword": "adventure bay heroes two-piece pajama set",
+          "keyword": "team spirit two-piece pajama set",
           "priority": "NORMAL"
-        },
-        {
-          "keyword": "adventure bay heroes large cloud blanket®",
-          "priority": "HIGH"
         }
       ],
-      "raw_item_count": 20,
+      "raw_item_count": 10,
       "parse_strategy": "found"
     }
   ]
