@@ -1,269 +1,207 @@
 {
-  "scraped_at": "2026-08-11T17:55:03.134Z",
+  "scraped_at": "2026-08-13T23:39:28.031Z",
   "drops": [
     {
       "name": "Coming Soon",
-      "date": "2026-08-11",
+      "date": "2026-08-18",
       "time_local": "9am",
       "timezone": "PT",
       "drop_hour": 9,
       "drop_min": 0,
       "items": [
         {
-          "name": "Moonlit Magic",
+          "name": "Spellbinding Studies",
           "type": "Zippy",
-          "full": "Moonlit Magic Zippy"
+          "full": "Spellbinding Studies Zippy"
         },
         {
-          "name": "Moonlit Magic",
+          "name": "Spellbinding Studies",
+          "type": "Shorty Zippy",
+          "full": "Spellbinding Studies Shorty Zippy"
+        },
+        {
+          "name": "Gryffindor",
+          "type": "Crescent Zippy",
+          "full": "Gryffindor Crescent Zippy"
+        },
+        {
+          "name": "Spellbinding Studies",
           "type": "Two-Piece Pajama Set",
-          "full": "Moonlit Magic Two-Piece Pajama Set"
+          "full": "Spellbinding Studies Two-Piece Pajama Set"
         },
         {
-          "name": "Moonlit Magic",
-          "type": "Women's Pajama Pants",
-          "full": "Moonlit Magic Women's Pajama Pants"
+          "name": "Spellbinding Studies",
+          "type": "Hooded Cloak",
+          "full": "Spellbinding Studies Hooded Cloak"
         },
         {
-          "name": "Moonlit Magic",
-          "type": "Men's Pajama Pants",
-          "full": "Moonlit Magic Men's Pajama Pants"
-        },
-        {
-          "name": "Patch the Pumpkin",
-          "type": "Sleepyhead Lovey",
-          "full": "Patch the Pumpkin Sleepyhead Lovey"
-        },
-        {
-          "name": "Moonlit Magic",
-          "type": "Women's Pajama Top",
-          "full": "Moonlit Magic Women's Pajama Top"
-        },
-        {
-          "name": "Moonlit Magic",
-          "type": "Luxe Bow Headband",
-          "full": "Moonlit Magic Luxe Bow Headband"
-        },
-        {
-          "name": "Little Sleepies",
-          "type": "Halloween Treat Bag",
-          "full": "Little Sleepies Halloween Treat Bag"
-        },
-        {
-          "name": "Moonlit Magic",
+          "name": "Gryffindor",
           "type": "Crewneck Sweatshirt",
-          "full": "Moonlit Magic Crewneck Sweatshirt"
+          "full": "Gryffindor Crewneck Sweatshirt"
         },
         {
-          "name": "Moonlit Magic",
-          "type": "Relaxed Pocket Tee",
-          "full": "Moonlit Magic Relaxed Pocket Tee"
+          "name": "Spellbinding Studies",
+          "type": "Crewneck Sweatshirt",
+          "full": "Spellbinding Studies Crewneck Sweatshirt"
         },
         {
-          "name": "Moonlit Magic",
-          "type": "Pocket Shorty Romper",
-          "full": "Moonlit Magic Pocket Shorty Romper"
+          "name": "Spellbinding Studies",
+          "type": "Sweater Beanie",
+          "full": "Spellbinding Studies Sweater Beanie"
         },
         {
-          "name": "Moonlit Magic",
-          "type": "Bow Back Skater Dress",
-          "full": "Moonlit Magic Bow Back Skater Dress"
+          "name": "Spellbinding Studies",
+          "type": "Zip Hoodie",
+          "full": "Spellbinding Studies Zip Hoodie"
         },
         {
-          "name": "Moonlit Magic",
-          "type": "Bow Back Skater Dress with Bodysuit",
-          "full": "Moonlit Magic Bow Back Skater Dress with Bodysuit"
+          "name": "Gryffindor",
+          "type": "Scarf",
+          "full": "Gryffindor Scarf"
         },
         {
-          "name": "Moonlit Magic",
-          "type": "Flutter Tee",
-          "full": "Moonlit Magic Flutter Tee"
-        },
-        {
-          "name": "Black",
-          "type": "Tutu Legging",
-          "full": "Black Tutu Legging"
-        },
-        {
-          "name": "Black Cat",
-          "type": "Peplum Hoodie",
-          "full": "Black Cat Peplum Hoodie"
-        },
-        {
-          "name": "Black Cat",
-          "type": "Hoodie Romper",
-          "full": "Black Cat Hoodie Romper"
-        },
-        {
-          "name": "Dracula's Disco",
-          "type": "Zippy",
-          "full": "Dracula's Disco Zippy"
-        },
-        {
-          "name": "Dracula's Disco",
-          "type": "Two-Piece Pajama Set",
-          "full": "Dracula's Disco Two-Piece Pajama Set"
-        },
-        {
-          "name": "Dracula's Disco",
-          "type": "Women's Pajama Top",
-          "full": "Dracula's Disco Women's Pajama Top"
-        },
-        {
-          "name": "Dracula's Disco",
-          "type": "Women's Pajama Pants",
-          "full": "Dracula's Disco Women's Pajama Pants"
-        },
-        {
-          "name": "Dracula's Disco",
-          "type": "Men's Pajama Top",
-          "full": "Dracula's Disco Men's Pajama Top"
-        },
-        {
-          "name": "Dracula's Disco",
-          "type": "Men's Pajama Pants",
-          "full": "Dracula's Disco Men's Pajama Pants"
-        },
-        {
-          "name": "Dracula's Disco",
-          "type": "Pet Bandana",
-          "full": "Dracula's Disco Pet Bandana"
-        },
-        {
-          "name": "Frankie the Monster",
-          "type": "Sleepyhead Lovey",
-          "full": "Frankie the Monster Sleepyhead Lovey"
-        },
-        {
-          "name": "Dracula's Disco",
-          "type": "=Crewneck Sweatshirt",
-          "full": "Dracula's Disco =Crewneck Sweatshirt"
-        },
-        {
-          "name": "Dracula's Disco",
-          "type": "Raglan Tee",
-          "full": "Dracula's Disco Raglan Tee"
-        },
-        {
-          "name": "Dracula's Disco",
-          "type": "Raglan Bodysuit",
-          "full": "Dracula's Disco Raglan Bodysuit"
-        },
-        {
-          "name": "Jack-O'-Lantern",
-          "type": "Relaxed Tee",
-          "full": "Jack-O'-Lantern Relaxed Tee"
-        },
-        {
-          "name": "Jack-O'-Lantern",
-          "type": "Raglan Romper",
-          "full": "Jack-O'-Lantern Raglan Romper"
-        },
-        {
-          "name": "Spooky Stripes",
-          "type": "Dress",
-          "full": "Spooky Stripes Dress"
-        },
-        {
-          "name": "Spooky Stripes",
-          "type": "Dress with Bloomer",
-          "full": "Spooky Stripes Dress with Bloomer"
-        },
-        {
-          "name": "Spooky Stripes",
+          "name": "Spellbinding Studies",
           "type": "Henley Romper",
-          "full": "Spooky Stripes Henley Romper"
+          "full": "Spellbinding Studies Henley Romper"
         },
         {
-          "name": "Midnight Mischief",
-          "type": "Crewneck Sweatshirt",
-          "full": "Midnight Mischief Crewneck Sweatshirt"
+          "name": "Spellbinding Studies",
+          "type": "Skater Dress",
+          "full": "Spellbinding Studies Skater Dress"
         },
         {
-          "name": "Midnight Mischief",
-          "type": "Bow Back Skater Dress",
-          "full": "Midnight Mischief Bow Back Skater Dress"
+          "name": "Spellbinding Studies",
+          "type": "Skater Dress with Bodysuit",
+          "full": "Spellbinding Studies Skater Dress with Bodysuit"
         },
         {
-          "name": "Midnight Mischief",
-          "type": "Bow Back Skater Dress with Bodysuit",
-          "full": "Midnight Mischief Bow Back Skater Dress with Bodysuit"
+          "name": "Spellbinding Studies",
+          "type": "Bodysuit",
+          "full": "Spellbinding Studies Bodysuit"
         },
         {
-          "name": "Bones the Skeleton",
-          "type": "Sleepyhead Lovey",
-          "full": "Bones the Skeleton Sleepyhead Lovey"
+          "name": "Hedwig",
+          "type": "Bodysuit",
+          "full": "Hedwig Bodysuit"
         },
         {
-          "name": "Midnight Mischief",
-          "type": "Zippy",
-          "full": "Midnight Mischief Zippy"
+          "name": "Hedwig",
+          "type": "Sherpa Beanie",
+          "full": "Hedwig Sherpa Beanie"
         },
         {
-          "name": "Midnight Mischief",
-          "type": "Two-Piece Pajama Set",
-          "full": "Midnight Mischief Two-Piece Pajama Set"
+          "name": "Spellbinding Studies",
+          "type": "Flare Sleeve Twirl Dress",
+          "full": "Spellbinding Studies Flare Sleeve Twirl Dress"
         },
         {
-          "name": "Midnight Mischief",
-          "type": "Women's Pajama Top",
-          "full": "Midnight Mischief Women's Pajama Top"
+          "name": "Spellbinding Studies",
+          "type": "Relaxed Tee",
+          "full": "Spellbinding Studies Relaxed Tee"
         },
         {
-          "name": "Midnight Mischief",
-          "type": "Women's Pajama Pants",
-          "full": "Midnight Mischief Women's Pajama Pants"
-        },
-        {
-          "name": "Midnight Mischief",
+          "name": "Spellbinding Studies",
           "type": "Men's Pajama Top",
-          "full": "Midnight Mischief Men's Pajama Top"
+          "full": "Spellbinding Studies Men's Pajama Top"
         },
         {
-          "name": "Midnight Mischief",
+          "name": "Spellbinding Studies",
           "type": "Men's Pajama Pants",
-          "full": "Midnight Mischief Men's Pajama Pants"
+          "full": "Spellbinding Studies Men's Pajama Pants"
+        },
+        {
+          "name": "Spellbinding Studies",
+          "type": "Adult Crewneck Sweatshirt",
+          "full": "Spellbinding Studies Adult Crewneck Sweatshirt"
+        },
+        {
+          "name": "Spellbinding Studies",
+          "type": "Adult Sweater Beanie",
+          "full": "Spellbinding Studies Adult Sweater Beanie"
+        },
+        {
+          "name": "Spellbinding Studies",
+          "type": "Women's Pajama Top",
+          "full": "Spellbinding Studies Women's Pajama Top"
+        },
+        {
+          "name": "Spellbinding Studies",
+          "type": "Women's Pajama Pants",
+          "full": "Spellbinding Studies Women's Pajama Pants"
+        },
+        {
+          "name": "Spellbinding Studies",
+          "type": "Pet Bandana",
+          "full": "Spellbinding Studies Pet Bandana"
+        },
+        {
+          "name": "Spellbinding Studies",
+          "type": "Fitted Crib Sheet",
+          "full": "Spellbinding Studies Fitted Crib Sheet"
+        },
+        {
+          "name": "Spellbinding Studies",
+          "type": "Twin Sheet Set",
+          "full": "Spellbinding Studies Twin Sheet Set"
+        },
+        {
+          "name": "Spellbinding Studies",
+          "type": "Bandana Bib",
+          "full": "Spellbinding Studies Bandana Bib"
+        },
+        {
+          "name": "Spellbinding Studies",
+          "type": "Sherpa Large Cloud Blanket®",
+          "full": "Spellbinding Studies Sherpa Large Cloud Blanket®"
+        },
+        {
+          "name": "Harry Potter™",
+          "type": "Lovey",
+          "full": "Harry Potter™ Lovey"
+        },
+        {
+          "name": "Spellbinding Studies",
+          "type": "Swaddle & Beanie Set",
+          "full": "Spellbinding Studies Swaddle & Beanie Set"
+        },
+        {
+          "name": "Spellbinding Studies",
+          "type": "Swaddle & Luxe Bow Headband Set",
+          "full": "Spellbinding Studies Swaddle & Luxe Bow Headband Set"
+        },
+        {
+          "name": "Spellbinding Studies",
+          "type": "Luxe Bow Headband",
+          "full": "Spellbinding Studies Luxe Bow Headband"
         }
       ],
       "snipe_targets": [
         {
-          "keyword": "moonlit magic zippy",
+          "keyword": "spellbinding studies zippy",
           "priority": "NORMAL"
         },
         {
-          "keyword": "moonlit magic two-piece pajama set",
+          "keyword": "spellbinding studies shorty zippy",
           "priority": "NORMAL"
         },
         {
-          "keyword": "patch the pumpkin sleepyhead lovey",
+          "keyword": "gryffindor crescent zippy",
+          "priority": "NORMAL"
+        },
+        {
+          "keyword": "spellbinding studies two-piece pajama set",
+          "priority": "NORMAL"
+        },
+        {
+          "keyword": "spellbinding studies sherpa large cloud blanket®",
+          "priority": "HIGH"
+        },
+        {
+          "keyword": "harry potter™ lovey",
           "priority": "MEDIUM"
-        },
-        {
-          "keyword": "dracula's disco zippy",
-          "priority": "NORMAL"
-        },
-        {
-          "keyword": "dracula's disco two-piece pajama set",
-          "priority": "NORMAL"
-        },
-        {
-          "keyword": "frankie the monster sleepyhead lovey",
-          "priority": "MEDIUM"
-        },
-        {
-          "keyword": "bones the skeleton sleepyhead lovey",
-          "priority": "MEDIUM"
-        },
-        {
-          "keyword": "midnight mischief zippy",
-          "priority": "NORMAL"
-        },
-        {
-          "keyword": "midnight mischief two-piece pajama set",
-          "priority": "NORMAL"
         }
       ],
-      "raw_item_count": 43,
+      "raw_item_count": 33,
       "parse_strategy": "found"
     }
   ]
