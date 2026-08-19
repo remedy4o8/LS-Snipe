@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-19T11:23:43.630Z",
+  "scraped_at": "2026-08-19T12:43:11.641Z",
   "drops": [
     {
       "name": "Coming Soon",
@@ -10,198 +10,233 @@
       "drop_min": 0,
       "items": [
         {
-          "name": "Spellbinding Studies",
-          "type": "Zippy",
-          "full": "Spellbinding Studies Zippy"
+          "name": "Announcement",
+          "type": "",
+          "full": "Announcement"
         },
         {
-          "name": "Spellbinding Studies",
-          "type": "Shorty Zippy",
-          "full": "Spellbinding Studies Shorty Zippy"
+          "name": "main menu",
+          "type": "",
+          "full": "main menu"
         },
         {
-          "name": "Gryffindor",
-          "type": "Crescent Zippy",
-          "full": "Gryffindor Crescent Zippy"
+          "name": "toggle mobile menu",
+          "type": "",
+          "full": "toggle mobile menu"
         },
         {
-          "name": "Spellbinding Studies",
-          "type": "Two-Piece Pajama Set",
-          "full": "Spellbinding Studies Two-Piece Pajama Set"
+          "name": "open desktop menu",
+          "type": "",
+          "full": "open desktop menu"
         },
         {
-          "name": "Spellbinding Studies",
-          "type": "Hooded Cloak",
-          "full": "Spellbinding Studies Hooded Cloak"
+          "name": "search",
+          "type": "",
+          "full": "search"
         },
         {
-          "name": "Gryffindor",
-          "type": "Crewneck Sweatshirt",
-          "full": "Gryffindor Crewneck Sweatshirt"
+          "name": "Close search",
+          "type": "",
+          "full": "Close search"
         },
         {
-          "name": "Spellbinding Studies",
-          "type": "Crewneck Sweatshirt",
-          "full": "Spellbinding Studies Crewneck Sweatshirt"
+          "name": "account",
+          "type": "",
+          "full": "account"
         },
         {
-          "name": "Spellbinding Studies",
-          "type": "Sweater Beanie",
-          "full": "Spellbinding Studies Sweater Beanie"
+          "name": "Open notifications",
+          "type": "",
+          "full": "Open notifications"
         },
         {
-          "name": "Spellbinding Studies",
-          "type": "Zip Hoodie",
-          "full": "Spellbinding Studies Zip Hoodie"
+          "name": "New notifications pending",
+          "type": "",
+          "full": "New notifications pending"
         },
         {
-          "name": "Gryffindor",
-          "type": "Scarf",
-          "full": "Gryffindor Scarf"
+          "name": "Notifications",
+          "type": "",
+          "full": "Notifications"
         },
         {
-          "name": "Spellbinding Studies",
-          "type": "Henley Romper",
-          "full": "Spellbinding Studies Henley Romper"
+          "name": "Open cart, 0 items in cart",
+          "type": "",
+          "full": "Open cart, 0 items in cart"
         },
         {
-          "name": "Spellbinding Studies",
-          "type": "Skater Dress",
-          "full": "Spellbinding Studies Skater Dress"
+          "name": "mobile menu",
+          "type": "",
+          "full": "mobile menu"
         },
         {
-          "name": "Spellbinding Studies",
-          "type": "Skater Dress with Bodysuit",
-          "full": "Spellbinding Studies Skater Dress with Bodysuit"
+          "name": "Close Mobile Nav",
+          "type": "",
+          "full": "Close Mobile Nav"
         },
         {
-          "name": "Spellbinding Studies",
-          "type": "Bodysuit",
-          "full": "Spellbinding Studies Bodysuit"
+          "name": "Mega Menu Linklist Carousel",
+          "type": "",
+          "full": "Mega Menu Linklist Carousel"
         },
         {
-          "name": "Hedwig",
-          "type": "Bodysuit",
-          "full": "Hedwig Bodysuit"
+          "name": "previous slide",
+          "type": "",
+          "full": "previous slide"
         },
         {
-          "name": "Hedwig",
-          "type": "Sherpa Beanie",
-          "full": "Hedwig Sherpa Beanie"
+          "name": "slide 1 of 8",
+          "type": "",
+          "full": "slide 1 of 8"
         },
         {
-          "name": "Spellbinding Studies",
-          "type": "Flare Sleeve Twirl Dress",
-          "full": "Spellbinding Studies Flare Sleeve Twirl Dress"
+          "name": "slide 2 of 8",
+          "type": "",
+          "full": "slide 2 of 8"
         },
         {
-          "name": "Spellbinding Studies",
-          "type": "Relaxed Tee",
-          "full": "Spellbinding Studies Relaxed Tee"
+          "name": "slide 3 of 8",
+          "type": "",
+          "full": "slide 3 of 8"
         },
         {
-          "name": "Spellbinding Studies",
-          "type": "Men's Pajama Top",
-          "full": "Spellbinding Studies Men's Pajama Top"
+          "name": "slide 4 of 8",
+          "type": "",
+          "full": "slide 4 of 8"
         },
         {
-          "name": "Spellbinding Studies",
-          "type": "Men's Pajama Pants",
-          "full": "Spellbinding Studies Men's Pajama Pants"
+          "name": "slide 5 of 8",
+          "type": "",
+          "full": "slide 5 of 8"
         },
         {
-          "name": "Spellbinding Studies",
-          "type": "Adult Crewneck Sweatshirt",
-          "full": "Spellbinding Studies Adult Crewneck Sweatshirt"
+          "name": "slide 6 of 8",
+          "type": "",
+          "full": "slide 6 of 8"
         },
         {
-          "name": "Spellbinding Studies",
-          "type": "Adult Sweater Beanie",
-          "full": "Spellbinding Studies Adult Sweater Beanie"
+          "name": "slide 7 of 8",
+          "type": "",
+          "full": "slide 7 of 8"
         },
         {
-          "name": "Spellbinding Studies",
-          "type": "Women's Pajama Top",
-          "full": "Spellbinding Studies Women's Pajama Top"
+          "name": "slide 8 of 8",
+          "type": "",
+          "full": "slide 8 of 8"
         },
         {
-          "name": "Spellbinding Studies",
-          "type": "Women's Pajama Pants",
-          "full": "Spellbinding Studies Women's Pajama Pants"
+          "name": "next slide",
+          "type": "",
+          "full": "next slide"
         },
         {
-          "name": "Spellbinding Studies",
-          "type": "Pet Bandana",
-          "full": "Spellbinding Studies Pet Bandana"
+          "name": "desktop menu",
+          "type": "",
+          "full": "desktop menu"
         },
         {
-          "name": "Spellbinding Studies",
-          "type": "Fitted Crib Sheet",
-          "full": "Spellbinding Studies Fitted Crib Sheet"
+          "name": "Close Desktop Nav",
+          "type": "",
+          "full": "Close Desktop Nav"
         },
         {
-          "name": "Spellbinding Studies",
-          "type": "Twin Sheet Set",
-          "full": "Spellbinding Studies Twin Sheet Set"
+          "name": "Search our store",
+          "type": "",
+          "full": "Search our store"
         },
         {
-          "name": "Spellbinding Studies",
-          "type": "Bandana Bib",
-          "full": "Spellbinding Studies Bandana Bib"
+          "name": "Close search bar",
+          "type": "",
+          "full": "Close search bar"
         },
         {
-          "name": "Spellbinding Studies",
-          "type": "Sherpa Large Cloud Blanket®",
-          "full": "Spellbinding Studies Sherpa Large Cloud Blanket®"
+          "name": "Previus slide",
+          "type": "",
+          "full": "Previus slide"
         },
         {
-          "name": "Harry Potter™",
-          "type": "Lovey",
-          "full": "Harry Potter™ Lovey"
+          "name": "Product Recommendations Carousel",
+          "type": "",
+          "full": "Product Recommendations Carousel"
         },
         {
-          "name": "Spellbinding Studies",
-          "type": "Swaddle & Beanie Set",
-          "full": "Spellbinding Studies Swaddle & Beanie Set"
+          "name": "Next slide",
+          "type": "",
+          "full": "Next slide"
         },
         {
-          "name": "Spellbinding Studies",
-          "type": "Swaddle & Luxe Bow Headband Set",
-          "full": "Spellbinding Studies Swaddle & Luxe Bow Headband Set"
+          "name": "Slide Cart Footer Card Link Carousel",
+          "type": "",
+          "full": "Slide Cart Footer Card Link Carousel"
         },
         {
-          "name": "Spellbinding Studies",
-          "type": "Luxe Bow Headband",
-          "full": "Spellbinding Studies Luxe Bow Headband"
+          "name": "slide 1 of 7",
+          "type": "",
+          "full": "slide 1 of 7"
+        },
+        {
+          "name": "slide 2 of 7",
+          "type": "",
+          "full": "slide 2 of 7"
+        },
+        {
+          "name": "slide 3 of 7",
+          "type": "",
+          "full": "slide 3 of 7"
+        },
+        {
+          "name": "slide 4 of 7",
+          "type": "",
+          "full": "slide 4 of 7"
+        },
+        {
+          "name": "slide 5 of 7",
+          "type": "",
+          "full": "slide 5 of 7"
+        },
+        {
+          "name": "slide 6 of 7",
+          "type": "",
+          "full": "slide 6 of 7"
+        },
+        {
+          "name": "slide 7 of 7",
+          "type": "",
+          "full": "slide 7 of 7"
+        },
+        {
+          "name": "Slide Cart Footer Swatch Link Carousel",
+          "type": "",
+          "full": "Slide Cart Footer Swatch Link Carousel"
+        },
+        {
+          "name": "Collection Swatch Link Carousel",
+          "type": "",
+          "full": "Collection Swatch Link Carousel"
+        },
+        {
+          "name": "Spinning logo play/pause",
+          "type": "",
+          "full": "Spinning logo play/pause"
+        },
+        {
+          "name": "Accordion Control Group Buttons",
+          "type": "",
+          "full": "Accordion Control Group Buttons"
+        },
+        {
+          "name": "Footer desktop links",
+          "type": "",
+          "full": "Footer desktop links"
+        },
+        {
+          "name": "legal",
+          "type": "",
+          "full": "legal"
         }
       ],
-      "snipe_targets": [
-        {
-          "keyword": "spellbinding studies zippy",
-          "priority": "NORMAL"
-        },
-        {
-          "keyword": "spellbinding studies shorty zippy",
-          "priority": "NORMAL"
-        },
-        {
-          "keyword": "gryffindor crescent zippy",
-          "priority": "NORMAL"
-        },
-        {
-          "keyword": "spellbinding studies two-piece pajama set",
-          "priority": "NORMAL"
-        },
-        {
-          "keyword": "spellbinding studies sherpa large cloud blanket®",
-          "priority": "HIGH"
-        },
-        {
-          "keyword": "harry potter™ lovey",
-          "priority": "MEDIUM"
-        }
-      ],
-      "raw_item_count": 33,
+      "snipe_targets": [],
+      "raw_item_count": 45,
       "parse_strategy": "found"
     }
   ]
