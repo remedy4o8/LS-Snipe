@@ -1,242 +1,191 @@
 {
-  "scraped_at": "2026-08-19T12:43:11.641Z",
+  "scraped_at": "2026-08-21T01:14:07.814Z",
   "drops": [
     {
       "name": "Coming Soon",
-      "date": "2026-08-18",
+      "date": "2026-08-25",
       "time_local": "9am",
       "timezone": "PT",
       "drop_hour": 9,
       "drop_min": 0,
       "items": [
         {
-          "name": "Announcement",
-          "type": "",
-          "full": "Announcement"
+          "name": "Tractor Tales",
+          "type": "Zippy",
+          "full": "Tractor Tales Zippy"
         },
         {
-          "name": "main menu",
-          "type": "",
-          "full": "main menu"
+          "name": "Tractor Tales",
+          "type": "Shorty Zippy",
+          "full": "Tractor Tales Shorty Zippy"
         },
         {
-          "name": "toggle mobile menu",
-          "type": "",
-          "full": "toggle mobile menu"
+          "name": "Tractor Tales",
+          "type": "Two-Piece Pajama Set",
+          "full": "Tractor Tales Two-Piece Pajama Set"
         },
         {
-          "name": "open desktop menu",
-          "type": "",
-          "full": "open desktop menu"
+          "name": "Tractor Tales",
+          "type": "Women's Pajama Top",
+          "full": "Tractor Tales Women's Pajama Top"
         },
         {
-          "name": "search",
-          "type": "",
-          "full": "search"
+          "name": "Tractor Tales",
+          "type": "Women's Pajama Pants",
+          "full": "Tractor Tales Women's Pajama Pants"
         },
         {
-          "name": "Close search",
-          "type": "",
-          "full": "Close search"
+          "name": "Tractor Tales",
+          "type": "Men's Pajama Top",
+          "full": "Tractor Tales Men's Pajama Top"
         },
         {
-          "name": "account",
-          "type": "",
-          "full": "account"
+          "name": "Tractor Tales",
+          "type": "Men's Pajama Pants",
+          "full": "Tractor Tales Men's Pajama Pants"
         },
         {
-          "name": "Open notifications",
-          "type": "",
-          "full": "Open notifications"
+          "name": "Tractor Ride",
+          "type": "Crewneck Sweatshirt",
+          "full": "Tractor Ride Crewneck Sweatshirt"
         },
         {
-          "name": "New notifications pending",
-          "type": "",
-          "full": "New notifications pending"
+          "name": "Tractor Tales",
+          "type": "Relaxed Pocket Tee",
+          "full": "Tractor Tales Relaxed Pocket Tee"
         },
         {
-          "name": "Notifications",
-          "type": "",
-          "full": "Notifications"
+          "name": "Mini Pumpkins",
+          "type": "Skirt Overall Dress",
+          "full": "Mini Pumpkins Skirt Overall Dress"
         },
         {
-          "name": "Open cart, 0 items in cart",
-          "type": "",
-          "full": "Open cart, 0 items in cart"
+          "name": "Pumpkin",
+          "type": "Drop Shoulder Sweater",
+          "full": "Pumpkin Drop Shoulder Sweater"
         },
         {
-          "name": "mobile menu",
-          "type": "",
-          "full": "mobile menu"
+          "name": "Harvest Hearts",
+          "type": "Flutter Skater Dress",
+          "full": "Harvest Hearts Flutter Skater Dress"
         },
         {
-          "name": "Close Mobile Nav",
-          "type": "",
-          "full": "Close Mobile Nav"
+          "name": "Harvest Hearts",
+          "type": "Flutter Skater Dress with Bodysuit",
+          "full": "Harvest Hearts Flutter Skater Dress with Bodysuit"
         },
         {
-          "name": "Mega Menu Linklist Carousel",
-          "type": "",
-          "full": "Mega Menu Linklist Carousel"
+          "name": "Linen Heather Stripe",
+          "type": "Flutter Tee",
+          "full": "Linen Heather Stripe Flutter Tee"
         },
         {
-          "name": "previous slide",
-          "type": "",
-          "full": "previous slide"
+          "name": "Tractor Tales",
+          "type": "Pocket Shorty Romper",
+          "full": "Tractor Tales Pocket Shorty Romper"
         },
         {
-          "name": "slide 1 of 8",
-          "type": "",
-          "full": "slide 1 of 8"
+          "name": "Mini Pumpkins",
+          "type": "Overall Bodysuit Set",
+          "full": "Mini Pumpkins Overall Bodysuit Set"
         },
         {
-          "name": "slide 2 of 8",
-          "type": "",
-          "full": "slide 2 of 8"
+          "name": "Pumpkin",
+          "type": "Sweater Beanie",
+          "full": "Pumpkin Sweater Beanie"
         },
         {
-          "name": "slide 3 of 8",
-          "type": "",
-          "full": "slide 3 of 8"
+          "name": "Pumpkin",
+          "type": "Cardigan Sweater",
+          "full": "Pumpkin Cardigan Sweater"
         },
         {
-          "name": "slide 4 of 8",
-          "type": "",
-          "full": "slide 4 of 8"
+          "name": "Harvest Sweets",
+          "type": "Zippy",
+          "full": "Harvest Sweets Zippy"
         },
         {
-          "name": "slide 5 of 8",
-          "type": "",
-          "full": "slide 5 of 8"
+          "name": "Harvest Sweets",
+          "type": "Shorty Zippy",
+          "full": "Harvest Sweets Shorty Zippy"
         },
         {
-          "name": "slide 6 of 8",
-          "type": "",
-          "full": "slide 6 of 8"
+          "name": "Harvest Sweets",
+          "type": "Two-Piece Pajama Set",
+          "full": "Harvest Sweets Two-Piece Pajama Set"
         },
         {
-          "name": "slide 7 of 8",
-          "type": "",
-          "full": "slide 7 of 8"
+          "name": "Harvest Sweets",
+          "type": "Women's Pajama Top",
+          "full": "Harvest Sweets Women's Pajama Top"
         },
         {
-          "name": "slide 8 of 8",
-          "type": "",
-          "full": "slide 8 of 8"
+          "name": "Harvest Sweets",
+          "type": "Women's Pajama Pants",
+          "full": "Harvest Sweets Women's Pajama Pants"
         },
         {
-          "name": "next slide",
-          "type": "",
-          "full": "next slide"
+          "name": "Harvest Sweets",
+          "type": "Bandana Bib",
+          "full": "Harvest Sweets Bandana Bib"
         },
         {
-          "name": "desktop menu",
-          "type": "",
-          "full": "desktop menu"
+          "name": "Harvest Sweets",
+          "type": "Luxe Bow Headband",
+          "full": "Harvest Sweets Luxe Bow Headband"
         },
         {
-          "name": "Close Desktop Nav",
-          "type": "",
-          "full": "Close Desktop Nav"
+          "name": "Tractor Tales",
+          "type": "Swaddle & Beanie Set",
+          "full": "Tractor Tales Swaddle & Beanie Set"
         },
         {
-          "name": "Search our store",
-          "type": "",
-          "full": "Search our store"
+          "name": "Tractor Tales",
+          "type": "Large Cloud Blanket®",
+          "full": "Tractor Tales Large Cloud Blanket®"
         },
         {
-          "name": "Close search bar",
-          "type": "",
-          "full": "Close search bar"
+          "name": "Tractor Tales",
+          "type": "Fitted Crib Sheet",
+          "full": "Tractor Tales Fitted Crib Sheet"
         },
         {
-          "name": "Previus slide",
-          "type": "",
-          "full": "Previus slide"
-        },
-        {
-          "name": "Product Recommendations Carousel",
-          "type": "",
-          "full": "Product Recommendations Carousel"
-        },
-        {
-          "name": "Next slide",
-          "type": "",
-          "full": "Next slide"
-        },
-        {
-          "name": "Slide Cart Footer Card Link Carousel",
-          "type": "",
-          "full": "Slide Cart Footer Card Link Carousel"
-        },
-        {
-          "name": "slide 1 of 7",
-          "type": "",
-          "full": "slide 1 of 7"
-        },
-        {
-          "name": "slide 2 of 7",
-          "type": "",
-          "full": "slide 2 of 7"
-        },
-        {
-          "name": "slide 3 of 7",
-          "type": "",
-          "full": "slide 3 of 7"
-        },
-        {
-          "name": "slide 4 of 7",
-          "type": "",
-          "full": "slide 4 of 7"
-        },
-        {
-          "name": "slide 5 of 7",
-          "type": "",
-          "full": "slide 5 of 7"
-        },
-        {
-          "name": "slide 6 of 7",
-          "type": "",
-          "full": "slide 6 of 7"
-        },
-        {
-          "name": "slide 7 of 7",
-          "type": "",
-          "full": "slide 7 of 7"
-        },
-        {
-          "name": "Slide Cart Footer Swatch Link Carousel",
-          "type": "",
-          "full": "Slide Cart Footer Swatch Link Carousel"
-        },
-        {
-          "name": "Collection Swatch Link Carousel",
-          "type": "",
-          "full": "Collection Swatch Link Carousel"
-        },
-        {
-          "name": "Spinning logo play/pause",
-          "type": "",
-          "full": "Spinning logo play/pause"
-        },
-        {
-          "name": "Accordion Control Group Buttons",
-          "type": "",
-          "full": "Accordion Control Group Buttons"
-        },
-        {
-          "name": "Footer desktop links",
-          "type": "",
-          "full": "Footer desktop links"
-        },
-        {
-          "name": "legal",
-          "type": "",
-          "full": "legal"
+          "name": "Tractor Tales",
+          "type": "Twin Sheet Set",
+          "full": "Tractor Tales Twin Sheet Set"
         }
       ],
-      "snipe_targets": [],
-      "raw_item_count": 45,
+      "snipe_targets": [
+        {
+          "keyword": "tractor tales zippy",
+          "priority": "NORMAL"
+        },
+        {
+          "keyword": "tractor tales shorty zippy",
+          "priority": "NORMAL"
+        },
+        {
+          "keyword": "tractor tales two-piece pajama set",
+          "priority": "NORMAL"
+        },
+        {
+          "keyword": "harvest sweets zippy",
+          "priority": "NORMAL"
+        },
+        {
+          "keyword": "harvest sweets shorty zippy",
+          "priority": "NORMAL"
+        },
+        {
+          "keyword": "harvest sweets two-piece pajama set",
+          "priority": "NORMAL"
+        },
+        {
+          "keyword": "tractor tales large cloud blanket®",
+          "priority": "HIGH"
+        }
+      ],
+      "raw_item_count": 29,
       "parse_strategy": "found"
     }
   ]
