@@ -1,191 +1,117 @@
 {
-  "scraped_at": "2026-08-25T17:30:23.654Z",
+  "scraped_at": "2026-08-26T01:14:41.414Z",
   "drops": [
     {
       "name": "Coming Soon",
-      "date": "2026-08-25",
+      "date": "2026-08-27",
       "time_local": "9am",
       "timezone": "PT",
       "drop_hour": 9,
       "drop_min": 0,
       "items": [
         {
-          "name": "Tractor Tales",
+          "name": "Savanna Friends",
           "type": "Zippy",
-          "full": "Tractor Tales Zippy"
+          "full": "Savanna Friends Zippy"
         },
         {
-          "name": "Tractor Tales",
+          "name": "Savanna Friends",
           "type": "Shorty Zippy",
-          "full": "Tractor Tales Shorty Zippy"
+          "full": "Savanna Friends Shorty Zippy"
         },
         {
-          "name": "Tractor Tales",
+          "name": "Savanna Friends",
           "type": "Two-Piece Pajama Set",
-          "full": "Tractor Tales Two-Piece Pajama Set"
+          "full": "Savanna Friends Two-Piece Pajama Set"
         },
         {
-          "name": "Tractor Tales",
-          "type": "Women's Pajama Top",
-          "full": "Tractor Tales Women's Pajama Top"
-        },
-        {
-          "name": "Tractor Tales",
+          "name": "Savanna Friends",
           "type": "Women's Pajama Pants",
-          "full": "Tractor Tales Women's Pajama Pants"
+          "full": "Savanna Friends Women's Pajama Pants"
         },
         {
-          "name": "Tractor Tales",
-          "type": "Men's Pajama Top",
-          "full": "Tractor Tales Men's Pajama Top"
-        },
-        {
-          "name": "Tractor Tales",
+          "name": "Savanna Friends",
           "type": "Men's Pajama Pants",
-          "full": "Tractor Tales Men's Pajama Pants"
+          "full": "Savanna Friends Men's Pajama Pants"
         },
         {
-          "name": "Tractor Ride",
-          "type": "Crewneck Sweatshirt",
-          "full": "Tractor Ride Crewneck Sweatshirt"
+          "name": "Savanna Friends",
+          "type": "Swaddle & Luxe Bow Headband Set",
+          "full": "Savanna Friends Swaddle & Luxe Bow Headband Set"
         },
         {
-          "name": "Tractor Tales",
-          "type": "Relaxed Pocket Tee",
-          "full": "Tractor Tales Relaxed Pocket Tee"
-        },
-        {
-          "name": "Mini Pumpkins",
-          "type": "Skirt Overall Dress",
-          "full": "Mini Pumpkins Skirt Overall Dress"
-        },
-        {
-          "name": "Pumpkin",
-          "type": "Drop Shoulder Sweater",
-          "full": "Pumpkin Drop Shoulder Sweater"
-        },
-        {
-          "name": "Harvest Hearts",
-          "type": "Flutter Skater Dress",
-          "full": "Harvest Hearts Flutter Skater Dress"
-        },
-        {
-          "name": "Harvest Hearts",
-          "type": "Flutter Skater Dress with Bodysuit",
-          "full": "Harvest Hearts Flutter Skater Dress with Bodysuit"
-        },
-        {
-          "name": "Linen Heather Stripe",
-          "type": "Flutter Tee",
-          "full": "Linen Heather Stripe Flutter Tee"
-        },
-        {
-          "name": "Tractor Tales",
-          "type": "Pocket Shorty Romper",
-          "full": "Tractor Tales Pocket Shorty Romper"
-        },
-        {
-          "name": "Mini Pumpkins",
-          "type": "Overall Bodysuit Set",
-          "full": "Mini Pumpkins Overall Bodysuit Set"
-        },
-        {
-          "name": "Pumpkin",
-          "type": "Sweater Beanie",
-          "full": "Pumpkin Sweater Beanie"
-        },
-        {
-          "name": "Pumpkin",
-          "type": "Cardigan Sweater",
-          "full": "Pumpkin Cardigan Sweater"
-        },
-        {
-          "name": "Harvest Sweets",
-          "type": "Zippy",
-          "full": "Harvest Sweets Zippy"
-        },
-        {
-          "name": "Harvest Sweets",
-          "type": "Shorty Zippy",
-          "full": "Harvest Sweets Shorty Zippy"
-        },
-        {
-          "name": "Harvest Sweets",
-          "type": "Two-Piece Pajama Set",
-          "full": "Harvest Sweets Two-Piece Pajama Set"
-        },
-        {
-          "name": "Harvest Sweets",
-          "type": "Women's Pajama Top",
-          "full": "Harvest Sweets Women's Pajama Top"
-        },
-        {
-          "name": "Harvest Sweets",
-          "type": "Women's Pajama Pants",
-          "full": "Harvest Sweets Women's Pajama Pants"
-        },
-        {
-          "name": "Harvest Sweets",
-          "type": "Bandana Bib",
-          "full": "Harvest Sweets Bandana Bib"
-        },
-        {
-          "name": "Harvest Sweets",
-          "type": "Luxe Bow Headband",
-          "full": "Harvest Sweets Luxe Bow Headband"
-        },
-        {
-          "name": "Tractor Tales",
+          "name": "Savanna Friends",
           "type": "Swaddle & Beanie Set",
-          "full": "Tractor Tales Swaddle & Beanie Set"
+          "full": "Savanna Friends Swaddle & Beanie Set"
         },
         {
-          "name": "Tractor Tales",
-          "type": "Large Cloud Blanket®",
-          "full": "Tractor Tales Large Cloud Blanket®"
+          "name": "Savanna Friends",
+          "type": "Luxe Bow Headband",
+          "full": "Savanna Friends Luxe Bow Headband"
         },
         {
-          "name": "Tractor Tales",
+          "name": "Savanna Friends",
           "type": "Fitted Crib Sheet",
-          "full": "Tractor Tales Fitted Crib Sheet"
+          "full": "Savanna Friends Fitted Crib Sheet"
         },
         {
-          "name": "Tractor Tales",
-          "type": "Twin Sheet Set",
-          "full": "Tractor Tales Twin Sheet Set"
+          "name": "Wild Stripes",
+          "type": "Zippy",
+          "full": "Wild Stripes Zippy"
+        },
+        {
+          "name": "Wild Stripes",
+          "type": "Shorty Zippy",
+          "full": "Wild Stripes Shorty Zippy"
+        },
+        {
+          "name": "Wild Stripes",
+          "type": "Two-Piece Pajama Set",
+          "full": "Wild Stripes Two-Piece Pajama Set"
+        },
+        {
+          "name": "Wild Stripes",
+          "type": "Women's Pajama Set",
+          "full": "Wild Stripes Women's Pajama Set"
+        },
+        {
+          "name": "Wild Stripes",
+          "type": "Women's Pajama Pants",
+          "full": "Wild Stripes Women's Pajama Pants"
+        },
+        {
+          "name": "Wild Stripes",
+          "type": "Luxe Bow Headband",
+          "full": "Wild Stripes Luxe Bow Headband"
         }
       ],
       "snipe_targets": [
         {
-          "keyword": "tractor tales zippy",
+          "keyword": "savanna friends zippy",
           "priority": "NORMAL"
         },
         {
-          "keyword": "tractor tales shorty zippy",
+          "keyword": "savanna friends shorty zippy",
           "priority": "NORMAL"
         },
         {
-          "keyword": "tractor tales two-piece pajama set",
+          "keyword": "savanna friends two-piece pajama set",
           "priority": "NORMAL"
         },
         {
-          "keyword": "harvest sweets zippy",
+          "keyword": "wild stripes zippy",
           "priority": "NORMAL"
         },
         {
-          "keyword": "harvest sweets shorty zippy",
+          "keyword": "wild stripes shorty zippy",
           "priority": "NORMAL"
         },
         {
-          "keyword": "harvest sweets two-piece pajama set",
+          "keyword": "wild stripes two-piece pajama set",
           "priority": "NORMAL"
-        },
-        {
-          "keyword": "tractor tales large cloud blanket®",
-          "priority": "HIGH"
         }
       ],
-      "raw_item_count": 29,
+      "raw_item_count": 15,
       "parse_strategy": "found"
     }
   ]
