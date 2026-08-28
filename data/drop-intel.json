@@ -1,117 +1,104 @@
 {
-  "scraped_at": "2026-08-27T04:16:57.172Z",
+  "scraped_at": "2026-08-28T01:16:17.278Z",
   "drops": [
     {
       "name": "Coming Soon",
-      "date": "2026-08-27",
+      "date": "2026-09-01",
       "time_local": "9am",
       "timezone": "PT",
       "drop_hour": 9,
       "drop_min": 0,
       "items": [
         {
-          "name": "Savanna Friends",
+          "name": "Gummy Giggles",
           "type": "Zippy",
-          "full": "Savanna Friends Zippy"
+          "full": "Gummy Giggles Zippy"
         },
         {
-          "name": "Savanna Friends",
+          "name": "Gummy Giggles",
           "type": "Shorty Zippy",
-          "full": "Savanna Friends Shorty Zippy"
+          "full": "Gummy Giggles Shorty Zippy"
         },
         {
-          "name": "Savanna Friends",
+          "name": "Gummy Giggles",
           "type": "Two-Piece Pajama Set",
-          "full": "Savanna Friends Two-Piece Pajama Set"
+          "full": "Gummy Giggles Two-Piece Pajama Set"
         },
         {
-          "name": "Savanna Friends",
+          "name": "Gummy Giggles",
+          "type": "Skater Dress",
+          "full": "Gummy Giggles Skater Dress"
+        },
+        {
+          "name": "Gummy Giggles",
+          "type": "Skater Dress with Bodysuit",
+          "full": "Gummy Giggles Skater Dress with Bodysuit"
+        },
+        {
+          "name": "Gummy Giggles",
+          "type": "Smocked Bubble Romper",
+          "full": "Gummy Giggles Smocked Bubble Romper"
+        },
+        {
+          "name": "Gummy Giggles",
+          "type": "Women's Pajama Top",
+          "full": "Gummy Giggles Women's Pajama Top"
+        },
+        {
+          "name": "Gummy Giggles",
           "type": "Women's Pajama Pants",
-          "full": "Savanna Friends Women's Pajama Pants"
+          "full": "Gummy Giggles Women's Pajama Pants"
         },
         {
-          "name": "Savanna Friends",
+          "name": "Gummy Giggles",
           "type": "Men's Pajama Pants",
-          "full": "Savanna Friends Men's Pajama Pants"
+          "full": "Gummy Giggles Men's Pajama Pants"
         },
         {
-          "name": "Savanna Friends",
-          "type": "Swaddle & Luxe Bow Headband Set",
-          "full": "Savanna Friends Swaddle & Luxe Bow Headband Set"
+          "name": "Gummy Giggles",
+          "type": "Large Cloud Blanket®",
+          "full": "Gummy Giggles Large Cloud Blanket®"
         },
         {
-          "name": "Savanna Friends",
+          "name": "Gummy Giggles",
           "type": "Swaddle & Beanie Set",
-          "full": "Savanna Friends Swaddle & Beanie Set"
+          "full": "Gummy Giggles Swaddle & Beanie Set"
         },
         {
-          "name": "Savanna Friends",
+          "name": "Gummy Giggles",
+          "type": "Swaddle & Luxe Bow Headband Set",
+          "full": "Gummy Giggles Swaddle & Luxe Bow Headband Set"
+        },
+        {
+          "name": "Gummy Giggles",
+          "type": "Bandana Bib",
+          "full": "Gummy Giggles Bandana Bib"
+        },
+        {
+          "name": "Gummy Giggles",
           "type": "Luxe Bow Headband",
-          "full": "Savanna Friends Luxe Bow Headband"
-        },
-        {
-          "name": "Savanna Friends",
-          "type": "Fitted Crib Sheet",
-          "full": "Savanna Friends Fitted Crib Sheet"
-        },
-        {
-          "name": "Wild Stripes",
-          "type": "Zippy",
-          "full": "Wild Stripes Zippy"
-        },
-        {
-          "name": "Wild Stripes",
-          "type": "Shorty Zippy",
-          "full": "Wild Stripes Shorty Zippy"
-        },
-        {
-          "name": "Wild Stripes",
-          "type": "Two-Piece Pajama Set",
-          "full": "Wild Stripes Two-Piece Pajama Set"
-        },
-        {
-          "name": "Wild Stripes",
-          "type": "Women's Pajama Set",
-          "full": "Wild Stripes Women's Pajama Set"
-        },
-        {
-          "name": "Wild Stripes",
-          "type": "Women's Pajama Pants",
-          "full": "Wild Stripes Women's Pajama Pants"
-        },
-        {
-          "name": "Wild Stripes",
-          "type": "Luxe Bow Headband",
-          "full": "Wild Stripes Luxe Bow Headband"
+          "full": "Gummy Giggles Luxe Bow Headband"
         }
       ],
       "snipe_targets": [
         {
-          "keyword": "savanna friends zippy",
+          "keyword": "gummy giggles zippy",
           "priority": "NORMAL"
         },
         {
-          "keyword": "savanna friends shorty zippy",
+          "keyword": "gummy giggles shorty zippy",
           "priority": "NORMAL"
         },
         {
-          "keyword": "savanna friends two-piece pajama set",
+          "keyword": "gummy giggles two-piece pajama set",
           "priority": "NORMAL"
         },
         {
-          "keyword": "wild stripes zippy",
-          "priority": "NORMAL"
-        },
-        {
-          "keyword": "wild stripes shorty zippy",
-          "priority": "NORMAL"
-        },
-        {
-          "keyword": "wild stripes two-piece pajama set",
-          "priority": "NORMAL"
+          "keyword": "gummy giggles large cloud blanket®",
+          "priority": "HIGH"
         }
       ],
-      "raw_item_count": 15,
+      "raw_item_count": 14,
       "parse_strategy": "found"
     }
   ]
