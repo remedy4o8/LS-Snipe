@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-11T13:16:18.518Z",
+  "scraped_at": "2026-09-11T17:32:36.021Z",
   "drops": [
     {
       "name": "Coming Soon",
@@ -938,6 +938,11 @@
           "name": "Sammy the Snowman",
           "type": "Sleepyhead Lovey",
           "full": "Sammy the Snowman Sleepyhead Lovey"
+        },
+        {
+          "name": "Minnie Mouse",
+          "type": "Luxe Bow Headband",
+          "full": "Minnie Mouse Luxe Bow Headband"
         }
       ],
       "snipe_targets": [
@@ -1130,7 +1135,7 @@
           "priority": "MEDIUM"
         }
       ],
-      "raw_item_count": 186,
+      "raw_item_count": 187,
       "parse_strategy": "found"
     }
   ]
