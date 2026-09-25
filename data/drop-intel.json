@@ -1,167 +1,213 @@
 {
-  "scraped_at": "2026-09-24T13:15:24.647Z",
+  "scraped_at": "2026-09-25T00:27:01.000Z",
   "drops": [
     {
       "name": "Coming Soon",
-      "date": "2026-09-24",
+      "date": "2026-09-29",
       "time_local": "9am",
       "timezone": "PT",
       "drop_hour": 9,
       "drop_min": 0,
       "items": [
         {
-          "name": "Cozy Autumn Bear",
-          "type": "Relaxed Tee",
-          "full": "Cozy Autumn Bear Relaxed Tee"
+          "name": "Winnie The Pooh",
+          "type": "Matelasse Romper",
+          "full": "Winnie The Pooh Matelasse Romper"
         },
         {
-          "name": "Olive",
-          "type": "Hooded Shacket",
-          "full": "Olive Hooded Shacket"
+          "name": "Sweet Strolls",
+          "type": "Crescent Zippy",
+          "full": "Sweet Strolls Crescent Zippy"
         },
         {
-          "name": "Acorn Woods",
-          "type": "Relaxed Pocket Tee",
-          "full": "Acorn Woods Relaxed Pocket Tee"
+          "name": "Winnie The Pooh",
+          "type": "Quilted Blanket",
+          "full": "Winnie The Pooh Quilted Blanket"
         },
         {
-          "name": "Classic Navy",
-          "type": "Quilted Hooded Jacket",
-          "full": "Classic Navy Quilted Hooded Jacket"
+          "name": "Garden Adventures",
+          "type": "Ruffle Zippy",
+          "full": "Garden Adventures Ruffle Zippy"
         },
         {
-          "name": "Classic Burgundy",
-          "type": "Barn Jacket",
-          "full": "Classic Burgundy Barn Jacket"
+          "name": "Garden Adventures",
+          "type": "Ruffle Mini Cloud Blanket®",
+          "full": "Garden Adventures Ruffle Mini Cloud Blanket®"
         },
         {
-          "name": "Wildflower Days",
-          "type": "Smocked Dress",
-          "full": "Wildflower Days Smocked Dress"
+          "name": "Playtime with Pooh",
+          "type": "Zippy",
+          "full": "Playtime with Pooh Zippy"
         },
         {
-          "name": "Wildflower Days",
-          "type": "Smocked Dress with Bloomer",
-          "full": "Wildflower Days Smocked Dress with Bloomer"
+          "name": "Garden Adventures",
+          "type": "Swaddle & Luxe Bow Headband Set",
+          "full": "Garden Adventures Swaddle & Luxe Bow Headband Set"
         },
         {
-          "name": "Classic Navy Wildflowers",
-          "type": "Puff Sleeve Peplum Tee",
-          "full": "Classic Navy Wildflowers Puff Sleeve Peplum Tee"
+          "name": "Playtime With Pooh",
+          "type": "Swaddle & Hat Set",
+          "full": "Playtime With Pooh Swaddle & Hat Set"
         },
         {
-          "name": "Amber Oak Floral",
-          "type": "Embroidery Square Neck Dress",
-          "full": "Amber Oak Floral Embroidery Square Neck Dress"
+          "name": "Playtime With Pooh",
+          "type": "Crescent Zippy",
+          "full": "Playtime With Pooh Crescent Zippy"
         },
         {
-          "name": "Mushroom Patch",
-          "type": "Puff Sleeve Peplum Tee",
-          "full": "Mushroom Patch Puff Sleeve Peplum Tee"
+          "name": "Hundred Acre Wood",
+          "type": "Mini Cloud Blanket®",
+          "full": "Hundred Acre Wood Mini Cloud Blanket®"
         },
         {
-          "name": "Woodland Fantasy",
-          "type": "Smocked Flutter Top",
-          "full": "Woodland Fantasy Smocked Flutter Top"
+          "name": "Winnie The Pooh",
+          "type": "Sweater Beanie",
+          "full": "Winnie The Pooh Sweater Beanie"
         },
         {
-          "name": "Blooming Unicorn",
-          "type": "Drop Shoulder Crewneck",
-          "full": "Blooming Unicorn Drop Shoulder Crewneck"
+          "name": "Playtime With Pooh",
+          "type": "Henley Bodysuit",
+          "full": "Playtime With Pooh Henley Bodysuit"
         },
         {
-          "name": "Wildflower Days",
-          "type": "Legging",
-          "full": "Wildflower Days Legging"
+          "name": "Winnie The Pooh",
+          "type": "Sweater",
+          "full": "Winnie The Pooh Sweater"
         },
         {
-          "name": "Mushroom Patch",
-          "type": "Pocket Dress",
-          "full": "Mushroom Patch Pocket Dress"
+          "name": "Sweet Strolls Stripe",
+          "type": "Fold Over Legging",
+          "full": "Sweet Strolls Stripe Fold Over Legging"
         },
         {
-          "name": "Mushroom",
-          "type": "Patch Pocket Dress with Bloomer",
-          "full": "Mushroom Patch Pocket Dress with Bloomer"
+          "name": "Sweet Strolls Stripe",
+          "type": "Overall Romper",
+          "full": "Sweet Strolls Stripe Overall Romper"
         },
         {
-          "name": "Woodland Fantasy",
-          "type": "Bow Back Skater Dress",
-          "full": "Woodland Fantasy Bow Back Skater Dress"
+          "name": "Playtime With Pooh",
+          "type": "Luxe Bow Headband",
+          "full": "Playtime With Pooh Luxe Bow Headband"
         },
         {
-          "name": "Woodland Fantasy",
-          "type": "Bow Back Skater Dress with Bodysuit",
-          "full": "Woodland Fantasy Bow Back Skater Dress with Bodysuit"
+          "name": "Winnie The Pooh",
+          "type": "Sweater Booties",
+          "full": "Winnie The Pooh Sweater Booties"
         },
         {
-          "name": "Amber Oak Heather",
-          "type": "Cropped Sweater",
-          "full": "Amber Oak Heather Cropped Sweater"
+          "name": "Winnie The Pooh",
+          "type": "Hooded Sweater",
+          "full": "Winnie The Pooh Hooded Sweater"
         },
         {
-          "name": "Soft White Ribbed",
-          "type": "Puff Sleeve Tee",
-          "full": "Soft White Ribbed Puff Sleeve Tee"
+          "name": "Garden Adventures",
+          "type": "Luxe Bow Headband",
+          "full": "Garden Adventures Luxe Bow Headband"
         },
         {
-          "name": "Mushroom Patch",
-          "type": "Legging",
-          "full": "Mushroom Patch Legging"
+          "name": "Garden Adventures",
+          "type": "Flutter Bodysuit",
+          "full": "Garden Adventures Flutter Bodysuit"
         },
         {
-          "name": "Amber Oak",
-          "type": "Relaxed Pocket Tee",
-          "full": "Amber Oak Relaxed Pocket Tee"
+          "name": "Sweet Strolls",
+          "type": "Zip Romper",
+          "full": "Sweet Strolls Zip Romper"
         },
         {
-          "name": "Classic Navy Multistripe",
-          "type": "Raglan Henley Tee",
-          "full": "Classic Navy Multistripe Raglan Henley Tee"
+          "name": "Winnie The Pooh",
+          "type": "Bandana Bib",
+          "full": "Winnie The Pooh Bandana Bib"
         },
         {
-          "name": "Teddy Brown",
-          "type": "Bear Zip Up Hoodie",
-          "full": "Teddy Brown Bear Zip Up Hoodie"
+          "name": "Garden Adventures",
+          "type": "Ruffle Bib",
+          "full": "Garden Adventures Ruffle Bib"
         },
         {
-          "name": "Acorn Woods",
-          "type": "Crewneck Sweatshirt",
-          "full": "Acorn Woods Crewneck Sweatshirt"
+          "name": "Garden Adventures",
+          "type": "Infant Gown",
+          "full": "Garden Adventures Infant Gown"
         },
         {
-          "name": "Teddy Brown",
-          "type": "Bear Beanie",
-          "full": "Teddy Brown Bear Beanie"
+          "name": "Garden Adventures",
+          "type": "Women's Pajama Set",
+          "full": "Garden Adventures Women's Pajama Set"
         },
         {
-          "name": "Teddy Brown",
-          "type": "Bear Overall Bodysuit Set",
-          "full": "Teddy Brown Bear Overall Bodysuit Set"
+          "name": "Playtime with Pooh",
+          "type": "Infant Gown",
+          "full": "Playtime with Pooh Infant Gown"
         },
         {
-          "name": "Forest Foragers",
-          "type": "Henley Romper",
-          "full": "Forest Foragers Henley Romper"
+          "name": "Playtime With Pooh",
+          "type": "Women's Pajama Set",
+          "full": "Playtime With Pooh Women's Pajama Set"
         },
         {
-          "name": "Classic Navy Multistripe",
-          "type": "Ribbed Jogger Set",
-          "full": "Classic Navy Multistripe Ribbed Jogger Set"
+          "name": "Winnie The Pooh",
+          "type": "Lovey",
+          "full": "Winnie The Pooh Lovey"
         },
         {
-          "name": "Amber Oak Floral",
-          "type": "Ruffle Overall Romper",
-          "full": "Amber Oak Floral Ruffle Overall Romper"
+          "name": "Tigger",
+          "type": "Lovey",
+          "full": "Tigger Lovey"
         },
         {
-          "name": "Soft White Ribbed",
-          "type": "Puff Bodysuit",
-          "full": "Soft White Ribbed Puff Bodysuit"
+          "name": "Sweet As Can Bee",
+          "type": "Fitted Crib Sheet",
+          "full": "Sweet As Can Bee Fitted Crib Sheet"
+        },
+        {
+          "name": "Playtime With Pooh",
+          "type": "Large Cloud Blanket®",
+          "full": "Playtime With Pooh Large Cloud Blanket®"
         }
       ],
-      "snipe_targets": [],
-      "raw_item_count": 30,
+      "snipe_targets": [
+        {
+          "keyword": "sweet strolls crescent zippy",
+          "priority": "NORMAL"
+        },
+        {
+          "keyword": "winnie the pooh quilted blanket",
+          "priority": "HIGH"
+        },
+        {
+          "keyword": "garden adventures ruffle zippy",
+          "priority": "NORMAL"
+        },
+        {
+          "keyword": "garden adventures ruffle mini cloud blanket®",
+          "priority": "HIGH"
+        },
+        {
+          "keyword": "playtime with pooh zippy",
+          "priority": "NORMAL"
+        },
+        {
+          "keyword": "playtime with pooh crescent zippy",
+          "priority": "NORMAL"
+        },
+        {
+          "keyword": "hundred acre wood mini cloud blanket®",
+          "priority": "HIGH"
+        },
+        {
+          "keyword": "winnie the pooh lovey",
+          "priority": "MEDIUM"
+        },
+        {
+          "keyword": "tigger lovey",
+          "priority": "MEDIUM"
+        },
+        {
+          "keyword": "playtime with pooh large cloud blanket®",
+          "priority": "HIGH"
+        }
+      ],
+      "raw_item_count": 31,
       "parse_strategy": "found"
     }
   ]
