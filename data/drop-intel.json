@@ -1,97 +1,56 @@
 {
-  "scraped_at": "2026-10-06T12:49:35.612Z",
+  "scraped_at": "2026-10-07T02:07:03.835Z",
   "drops": [
     {
       "name": "Coming Soon",
-      "date": "2026-10-06",
+      "date": "2026-10-08",
       "time_local": "9am",
       "timezone": "PT",
       "drop_hour": 9,
       "drop_min": 0,
       "items": [
         {
-          "name": "S'mores Galore",
+          "name": "Turkey Dash",
           "type": "Zippy",
-          "full": "S'mores Galore Zippy"
+          "full": "Turkey Dash Zippy"
         },
         {
-          "name": "S'mores Galore",
-          "type": "Shorty Zippy",
-          "full": "S'mores Galore Shorty Zippy"
-        },
-        {
-          "name": "S'mores Galore",
+          "name": "Turkey Dash",
           "type": "Two-Piece Pajama Set",
-          "full": "S'mores Galore Two-Piece Pajama Set"
+          "full": "Turkey Dash Two-Piece Pajama Set"
         },
         {
-          "name": "S'more's Galore",
-          "type": "Two-Piece Pajama Set",
-          "full": "S'more's Galore Two-Piece Pajama Set"
-        },
-        {
-          "name": "S'mores Galore",
+          "name": "Turkey Dash",
           "type": "Women's Pajama Top",
-          "full": "S'mores Galore Women's Pajama Top"
+          "full": "Turkey Dash Women's Pajama Top"
         },
         {
-          "name": "S'mores Galore",
+          "name": "Turkey Dash",
           "type": "Women's Pajama Pants",
-          "full": "S'mores Galore Women's Pajama Pants"
+          "full": "Turkey Dash Women's Pajama Pants"
         },
         {
-          "name": "S'mores Galore",
+          "name": "Turkey Dash",
           "type": "Men's Pajama Top",
-          "full": "S'mores Galore Men's Pajama Top"
+          "full": "Turkey Dash Men's Pajama Top"
         },
         {
-          "name": "S'mores Galore",
+          "name": "Turkey Dash",
           "type": "Men's Pajama Pants",
-          "full": "S'mores Galore Men's Pajama Pants"
-        },
-        {
-          "name": "S'mores Galore",
-          "type": "Large Cloud Blanket®",
-          "full": "S'mores Galore Large Cloud Blanket®"
-        },
-        {
-          "name": "Sweetie the S'more",
-          "type": "Sleepyhead Lovey",
-          "full": "Sweetie the S'more Sleepyhead Lovey"
-        },
-        {
-          "name": "S'mores Galore",
-          "type": "Bandana Bib",
-          "full": "S'mores Galore Bandana Bib"
+          "full": "Turkey Dash Men's Pajama Pants"
         }
       ],
       "snipe_targets": [
         {
-          "keyword": "s'mores galore zippy",
+          "keyword": "turkey dash zippy",
           "priority": "NORMAL"
         },
         {
-          "keyword": "s'mores galore shorty zippy",
+          "keyword": "turkey dash two-piece pajama set",
           "priority": "NORMAL"
-        },
-        {
-          "keyword": "s'mores galore two-piece pajama set",
-          "priority": "NORMAL"
-        },
-        {
-          "keyword": "s'more's galore two-piece pajama set",
-          "priority": "NORMAL"
-        },
-        {
-          "keyword": "s'mores galore large cloud blanket®",
-          "priority": "HIGH"
-        },
-        {
-          "keyword": "sweetie the s'more sleepyhead lovey",
-          "priority": "MEDIUM"
         }
       ],
-      "raw_item_count": 11,
+      "raw_item_count": 6,
       "parse_strategy": "found"
     }
   ]
