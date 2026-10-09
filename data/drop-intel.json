@@ -1,56 +1,142 @@
 {
-  "scraped_at": "2026-10-08T17:44:01.753Z",
+  "scraped_at": "2026-10-09T02:52:47.350Z",
   "drops": [
     {
       "name": "Coming Soon",
-      "date": "2026-10-08",
+      "date": "2026-10-13",
       "time_local": "9am",
       "timezone": "PT",
       "drop_hour": 9,
       "drop_min": 0,
       "items": [
         {
-          "name": "Turkey Dash",
-          "type": "Zippy",
-          "full": "Turkey Dash Zippy"
+          "name": "Northern Night Plaid",
+          "type": "Polo Shirt",
+          "full": "Northern Night Plaid Polo Shirt"
         },
         {
-          "name": "Turkey Dash",
-          "type": "Two-Piece Pajama Set",
-          "full": "Turkey Dash Two-Piece Pajama Set"
+          "name": "Holiday Red",
+          "type": "Quilted Zip Pullover",
+          "full": "Holiday Red Quilted Zip Pullover"
         },
         {
-          "name": "Turkey Dash",
-          "type": "Women's Pajama Top",
-          "full": "Turkey Dash Women's Pajama Top"
+          "name": "Northern Night Plaid",
+          "type": "Polo Romper",
+          "full": "Northern Night Plaid Polo Romper"
         },
         {
-          "name": "Turkey Dash",
-          "type": "Women's Pajama Pants",
-          "full": "Turkey Dash Women's Pajama Pants"
+          "name": "Northern Night Plaid",
+          "type": "Tiered Tutu Dress",
+          "full": "Northern Night Plaid Tiered Tutu Dress"
         },
         {
-          "name": "Turkey Dash",
-          "type": "Men's Pajama Top",
-          "full": "Turkey Dash Men's Pajama Top"
+          "name": "Northern Night Plaid",
+          "type": "Tiered Tutu Dress with Bloomer",
+          "full": "Northern Night Plaid Tiered Tutu Dress with Bloomer"
         },
         {
-          "name": "Turkey Dash",
-          "type": "Men's Pajama Pants",
-          "full": "Turkey Dash Men's Pajama Pants"
+          "name": "Northern Night Plaid",
+          "type": "Bow Peplum Top",
+          "full": "Northern Night Plaid Bow Peplum Top"
+        },
+        {
+          "name": "Midnight Black",
+          "type": "Velvet Pleated Skirt",
+          "full": "Midnight Black Velvet Pleated Skirt"
+        },
+        {
+          "name": "Soft White",
+          "type": "Bow Top",
+          "full": "Soft White Bow Top"
+        },
+        {
+          "name": "Party Polka Dot",
+          "type": "Velvet Twirl Dress",
+          "full": "Party Polka Dot Velvet Twirl Dress"
+        },
+        {
+          "name": "Party Polka Dot",
+          "type": "Velvet Twirl Dress with Bloomer",
+          "full": "Party Polka Dot Velvet Twirl Dress with Bloomer"
+        },
+        {
+          "name": "Heather Charcoal",
+          "type": "Zip Sweater",
+          "full": "Heather Charcoal Zip Sweater"
+        },
+        {
+          "name": "Pop Stripe Pines",
+          "type": "Sweater",
+          "full": "Pop Stripe Pines Sweater"
+        },
+        {
+          "name": "Pop Stripe",
+          "type": "Sweater Beanie",
+          "full": "Pop Stripe Sweater Beanie"
+        },
+        {
+          "name": "Cheer",
+          "type": "Drop Shoulder Sweater",
+          "full": "Cheer Drop Shoulder Sweater"
+        },
+        {
+          "name": "Midnight Black",
+          "type": "Velvet Legging",
+          "full": "Midnight Black Velvet Legging"
+        },
+        {
+          "name": "Holiday Rose Garden",
+          "type": "Flutter Tee",
+          "full": "Holiday Rose Garden Flutter Tee"
+        },
+        {
+          "name": "Holiday Rose Garden",
+          "type": "Bow Back Skater Dress",
+          "full": "Holiday Rose Garden Bow Back Skater Dress"
+        },
+        {
+          "name": "Holiday Rose Garden",
+          "type": "Bow Back Skater Dress with Bodysuit",
+          "full": "Holiday Rose Garden Bow Back Skater Dress with Bodysuit"
+        },
+        {
+          "name": "Rockin' Santa",
+          "type": "Crewneck Sweatshirt",
+          "full": "Rockin' Santa Crewneck Sweatshirt"
+        },
+        {
+          "name": "Santa Pocket",
+          "type": "Cinched Jogger Set",
+          "full": "Santa Pocket Cinched Jogger Set"
+        },
+        {
+          "name": "Holiday Red",
+          "type": "Sweater Beanie",
+          "full": "Holiday Red Sweater Beanie"
+        },
+        {
+          "name": "Natural Cream",
+          "type": "Sherpa Jacket",
+          "full": "Natural Cream Sherpa Jacket"
+        },
+        {
+          "name": "Holiday Red",
+          "type": "Drop Shoulder Bow Sweater",
+          "full": "Holiday Red Drop Shoulder Bow Sweater"
+        },
+        {
+          "name": "Holiday Rose Garden",
+          "type": "Legging",
+          "full": "Holiday Rose Garden Legging"
+        },
+        {
+          "name": "Holiday Red Polka Dot",
+          "type": "Puff Romper",
+          "full": "Holiday Red Polka Dot Puff Romper"
         }
       ],
-      "snipe_targets": [
-        {
-          "keyword": "turkey dash zippy",
-          "priority": "NORMAL"
-        },
-        {
-          "keyword": "turkey dash two-piece pajama set",
-          "priority": "NORMAL"
-        }
-      ],
-      "raw_item_count": 6,
+      "snipe_targets": [],
+      "raw_item_count": 25,
       "parse_strategy": "found"
     }
   ]
