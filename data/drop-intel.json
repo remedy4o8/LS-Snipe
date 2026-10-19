@@ -1,142 +1,133 @@
 {
-  "scraped_at": "2026-10-14T11:17:09.579Z",
+  "scraped_at": "2026-10-19T19:02:01.567Z",
   "drops": [
     {
       "name": "Coming Soon",
-      "date": "2026-10-13",
+      "date": "2026-10-20",
       "time_local": "9am",
       "timezone": "PT",
       "drop_hour": 9,
       "drop_min": 0,
       "items": [
         {
-          "name": "Northern Night Plaid",
-          "type": "Polo Shirt",
-          "full": "Northern Night Plaid Polo Shirt"
+          "name": "Bowie The Bear",
+          "type": "Baby Hooded Bath Towel",
+          "full": "Bowie The Bear Baby Hooded Bath Towel"
         },
         {
-          "name": "Holiday Red",
-          "type": "Quilted Zip Pullover",
-          "full": "Holiday Red Quilted Zip Pullover"
+          "name": "Bowie The Bear",
+          "type": "Kids Hooded Bath Towel",
+          "full": "Bowie The Bear Kids Hooded Bath Towel"
         },
         {
-          "name": "Northern Night Plaid",
-          "type": "Polo Romper",
-          "full": "Northern Night Plaid Polo Romper"
+          "name": "Bowie The Bear",
+          "type": "Puppet Washcloth",
+          "full": "Bowie The Bear Puppet Washcloth"
         },
         {
-          "name": "Northern Night Plaid",
-          "type": "Tiered Tutu Dress",
-          "full": "Northern Night Plaid Tiered Tutu Dress"
+          "name": "Roary The Dino",
+          "type": "Baby Hooded Bath Towel",
+          "full": "Roary The Dino Baby Hooded Bath Towel"
         },
         {
-          "name": "Northern Night Plaid",
-          "type": "Tiered Tutu Dress with Bloomer",
-          "full": "Northern Night Plaid Tiered Tutu Dress with Bloomer"
+          "name": "Roary The Dino",
+          "type": "Kids Hooded Bath Towel",
+          "full": "Roary The Dino Kids Hooded Bath Towel"
         },
         {
-          "name": "Northern Night Plaid",
-          "type": "Bow Peplum Top",
-          "full": "Northern Night Plaid Bow Peplum Top"
+          "name": "Roary The Dino",
+          "type": "Puppet Washcloth",
+          "full": "Roary The Dino Puppet Washcloth"
         },
         {
-          "name": "Midnight Black",
-          "type": "Velvet Pleated Skirt",
-          "full": "Midnight Black Velvet Pleated Skirt"
+          "name": "Sienna The Unicorn",
+          "type": "Baby Hooded Bath Towel",
+          "full": "Sienna The Unicorn Baby Hooded Bath Towel"
         },
         {
-          "name": "Soft White",
-          "type": "Bow Top",
-          "full": "Soft White Bow Top"
+          "name": "Sienna The Unicorn",
+          "type": "Kids Hooded Bath Towel",
+          "full": "Sienna The Unicorn Kids Hooded Bath Towel"
         },
         {
-          "name": "Party Polka Dot",
-          "type": "Velvet Twirl Dress",
-          "full": "Party Polka Dot Velvet Twirl Dress"
+          "name": "Sienna The Unicorn",
+          "type": "Puppet Washcloth",
+          "full": "Sienna The Unicorn Puppet Washcloth"
         },
         {
-          "name": "Party Polka Dot",
-          "type": "Velvet Twirl Dress with Bloomer",
-          "full": "Party Polka Dot Velvet Twirl Dress with Bloomer"
+          "name": "Goldie The Ducky",
+          "type": "Baby Hooded Bath Towel",
+          "full": "Goldie The Ducky Baby Hooded Bath Towel"
         },
         {
-          "name": "Heather Charcoal",
-          "type": "Zip Sweater",
-          "full": "Heather Charcoal Zip Sweater"
+          "name": "Goldie The Ducky",
+          "type": "Kids Hooded Bath Towel",
+          "full": "Goldie The Ducky Kids Hooded Bath Towel"
         },
         {
-          "name": "Pop Stripe Pines",
-          "type": "Sweater",
-          "full": "Pop Stripe Pines Sweater"
+          "name": "Goldie The Ducky",
+          "type": "Puppet Washcloth",
+          "full": "Goldie The Ducky Puppet Washcloth"
         },
         {
-          "name": "Pop Stripe",
-          "type": "Sweater Beanie",
-          "full": "Pop Stripe Sweater Beanie"
+          "name": "Splish Splash",
+          "type": "Zippy",
+          "full": "Splish Splash Zippy"
         },
         {
-          "name": "Cheer",
-          "type": "Drop Shoulder Sweater",
-          "full": "Cheer Drop Shoulder Sweater"
+          "name": "Splish Splash",
+          "type": "Shorty Zippy",
+          "full": "Splish Splash Shorty Zippy"
         },
         {
-          "name": "Midnight Black",
-          "type": "Velvet Legging",
-          "full": "Midnight Black Velvet Legging"
+          "name": "Splish Splash",
+          "type": "Two-Piece Pajama Set",
+          "full": "Splish Splash Two-Piece Pajama Set"
         },
         {
-          "name": "Holiday Rose Garden",
-          "type": "Flutter Tee",
-          "full": "Holiday Rose Garden Flutter Tee"
+          "name": "Splish Splash",
+          "type": "Women's Pajama Pants",
+          "full": "Splish Splash Women's Pajama Pants"
         },
         {
-          "name": "Holiday Rose Garden",
-          "type": "Bow Back Skater Dress",
-          "full": "Holiday Rose Garden Bow Back Skater Dress"
+          "name": "Splish Splash",
+          "type": "Men's Pajama Pants",
+          "full": "Splish Splash Men's Pajama Pants"
         },
         {
-          "name": "Holiday Rose Garden",
-          "type": "Bow Back Skater Dress with Bodysuit",
-          "full": "Holiday Rose Garden Bow Back Skater Dress with Bodysuit"
+          "name": "Splish Splash",
+          "type": "Large Cloud Blanket®",
+          "full": "Splish Splash Large Cloud Blanket®"
         },
         {
-          "name": "Rockin' Santa",
-          "type": "Crewneck Sweatshirt",
-          "full": "Rockin' Santa Crewneck Sweatshirt"
-        },
-        {
-          "name": "Santa Pocket",
-          "type": "Cinched Jogger Set",
-          "full": "Santa Pocket Cinched Jogger Set"
-        },
-        {
-          "name": "Holiday Red",
-          "type": "Sweater Beanie",
-          "full": "Holiday Red Sweater Beanie"
-        },
-        {
-          "name": "Natural Cream",
-          "type": "Sherpa Jacket",
-          "full": "Natural Cream Sherpa Jacket"
-        },
-        {
-          "name": "Holiday Red",
-          "type": "Drop Shoulder Bow Sweater",
-          "full": "Holiday Red Drop Shoulder Bow Sweater"
-        },
-        {
-          "name": "Holiday Rose Garden",
-          "type": "Legging",
-          "full": "Holiday Rose Garden Legging"
-        },
-        {
-          "name": "Holiday Red Polka Dot",
-          "type": "Puff Romper",
-          "full": "Holiday Red Polka Dot Puff Romper"
+          "name": "Bubbles the Rubber Ducky",
+          "type": "Sleepyhead Lovey",
+          "full": "Bubbles the Rubber Ducky Sleepyhead Lovey"
         }
       ],
-      "snipe_targets": [],
-      "raw_item_count": 25,
+      "snipe_targets": [
+        {
+          "keyword": "splish splash zippy",
+          "priority": "NORMAL"
+        },
+        {
+          "keyword": "splish splash shorty zippy",
+          "priority": "NORMAL"
+        },
+        {
+          "keyword": "splish splash two-piece pajama set",
+          "priority": "NORMAL"
+        },
+        {
+          "keyword": "splish splash large cloud blanket®",
+          "priority": "HIGH"
+        },
+        {
+          "keyword": "bubbles the rubber ducky sleepyhead lovey",
+          "priority": "MEDIUM"
+        }
+      ],
+      "raw_item_count": 19,
       "parse_strategy": "found"
     }
   ]
