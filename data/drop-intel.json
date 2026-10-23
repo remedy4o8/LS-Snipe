@@ -1,133 +1,143 @@
 {
-  "scraped_at": "2026-10-20T18:55:41.069Z",
+  "scraped_at": "2026-10-23T01:13:55.453Z",
   "drops": [
     {
       "name": "Coming Soon",
-      "date": "2026-10-20",
+      "date": "2026-10-27",
       "time_local": "9am",
       "timezone": "PT",
       "drop_hour": 9,
       "drop_min": 0,
       "items": [
         {
-          "name": "Bowie The Bear",
-          "type": "Baby Hooded Bath Towel",
-          "full": "Bowie The Bear Baby Hooded Bath Towel"
-        },
-        {
-          "name": "Bowie The Bear",
-          "type": "Kids Hooded Bath Towel",
-          "full": "Bowie The Bear Kids Hooded Bath Towel"
-        },
-        {
-          "name": "Bowie The Bear",
-          "type": "Puppet Washcloth",
-          "full": "Bowie The Bear Puppet Washcloth"
-        },
-        {
-          "name": "Roary The Dino",
-          "type": "Baby Hooded Bath Towel",
-          "full": "Roary The Dino Baby Hooded Bath Towel"
-        },
-        {
-          "name": "Roary The Dino",
-          "type": "Kids Hooded Bath Towel",
-          "full": "Roary The Dino Kids Hooded Bath Towel"
-        },
-        {
-          "name": "Roary The Dino",
-          "type": "Puppet Washcloth",
-          "full": "Roary The Dino Puppet Washcloth"
-        },
-        {
-          "name": "Sienna The Unicorn",
-          "type": "Baby Hooded Bath Towel",
-          "full": "Sienna The Unicorn Baby Hooded Bath Towel"
-        },
-        {
-          "name": "Sienna The Unicorn",
-          "type": "Kids Hooded Bath Towel",
-          "full": "Sienna The Unicorn Kids Hooded Bath Towel"
-        },
-        {
-          "name": "Sienna The Unicorn",
-          "type": "Puppet Washcloth",
-          "full": "Sienna The Unicorn Puppet Washcloth"
-        },
-        {
-          "name": "Goldie The Ducky",
-          "type": "Baby Hooded Bath Towel",
-          "full": "Goldie The Ducky Baby Hooded Bath Towel"
-        },
-        {
-          "name": "Goldie The Ducky",
-          "type": "Kids Hooded Bath Towel",
-          "full": "Goldie The Ducky Kids Hooded Bath Towel"
-        },
-        {
-          "name": "Goldie The Ducky",
-          "type": "Puppet Washcloth",
-          "full": "Goldie The Ducky Puppet Washcloth"
-        },
-        {
-          "name": "Splish Splash",
+          "name": "Chalet Fair Isle",
           "type": "Zippy",
-          "full": "Splish Splash Zippy"
+          "full": "Chalet Fair Isle Zippy"
         },
         {
-          "name": "Splish Splash",
-          "type": "Shorty Zippy",
-          "full": "Splish Splash Shorty Zippy"
-        },
-        {
-          "name": "Splish Splash",
+          "name": "Chalet Fair Isle",
           "type": "Two-Piece Pajama Set",
-          "full": "Splish Splash Two-Piece Pajama Set"
+          "full": "Chalet Fair Isle Two-Piece Pajama Set"
         },
         {
-          "name": "Splish Splash",
+          "name": "On The Slopes",
+          "type": "Zippy",
+          "full": "On The Slopes Zippy"
+        },
+        {
+          "name": "On The Slopes",
+          "type": "Two-Piece Pajama Set",
+          "full": "On The Slopes Two-Piece Pajama Set"
+        },
+        {
+          "name": "Après Ski",
+          "type": "Beanie",
+          "full": "Après Ski Beanie"
+        },
+        {
+          "name": "Classic Navy",
+          "type": "Zip Up Hoodie",
+          "full": "Classic Navy Zip Up Hoodie"
+        },
+        {
+          "name": "Classic Navy",
+          "type": "Relaxed Jogger",
+          "full": "Classic Navy Relaxed Jogger"
+        },
+        {
+          "name": "Après All Day",
+          "type": "Crewneck Sweatshirt",
+          "full": "Après All Day Crewneck Sweatshirt"
+        },
+        {
+          "name": "Chalet Fair Isle",
+          "type": "Skater Dress",
+          "full": "Chalet Fair Isle Skater Dress"
+        },
+        {
+          "name": "Chalet Fair Isle",
+          "type": "Skater Dress with Bodysuit",
+          "full": "Chalet Fair Isle Skater Dress with Bodysuit"
+        },
+        {
+          "name": "Après All Day",
+          "type": "Bodysuit Overall Set",
+          "full": "Après All Day Bodysuit Overall Set"
+        },
+        {
+          "name": "Après All Day",
+          "type": "Flutter Bodysuit Overall Set",
+          "full": "Après All Day Flutter Bodysuit Overall Set"
+        },
+        {
+          "name": "Chalet Fair Isle",
+          "type": "Women's Pajama Top",
+          "full": "Chalet Fair Isle Women's Pajama Top"
+        },
+        {
+          "name": "Chalet Fair Isle",
           "type": "Women's Pajama Pants",
-          "full": "Splish Splash Women's Pajama Pants"
+          "full": "Chalet Fair Isle Women's Pajama Pants"
         },
         {
-          "name": "Splish Splash",
+          "name": "Chalet Fair Isle",
+          "type": "Men's Pajama Top",
+          "full": "Chalet Fair Isle Men's Pajama Top"
+        },
+        {
+          "name": "Chalet Fair Isle",
           "type": "Men's Pajama Pants",
-          "full": "Splish Splash Men's Pajama Pants"
+          "full": "Chalet Fair Isle Men's Pajama Pants"
         },
         {
-          "name": "Splish Splash",
+          "name": "Chalet Fair Isle",
           "type": "Large Cloud Blanket®",
-          "full": "Splish Splash Large Cloud Blanket®"
+          "full": "Chalet Fair Isle Large Cloud Blanket®"
         },
         {
-          "name": "Bubbles the Rubber Ducky",
-          "type": "Sleepyhead Lovey",
-          "full": "Bubbles the Rubber Ducky Sleepyhead Lovey"
+          "name": "On The Slopes",
+          "type": "Women's Pajama Top",
+          "full": "On The Slopes Women's Pajama Top"
+        },
+        {
+          "name": "On The Slopes",
+          "type": "Women's Pajama Pants",
+          "full": "On The Slopes Women's Pajama Pants"
+        },
+        {
+          "name": "On The Slopes",
+          "type": "Men's Pajama Top",
+          "full": "On The Slopes Men's Pajama Top"
+        },
+        {
+          "name": "On The Slopes",
+          "type": "Men's Pajama Pants",
+          "full": "On The Slopes Men's Pajama Pants"
         }
       ],
       "snipe_targets": [
         {
-          "keyword": "splish splash zippy",
+          "keyword": "chalet fair isle zippy",
           "priority": "NORMAL"
         },
         {
-          "keyword": "splish splash shorty zippy",
+          "keyword": "chalet fair isle two-piece pajama set",
           "priority": "NORMAL"
         },
         {
-          "keyword": "splish splash two-piece pajama set",
+          "keyword": "on the slopes zippy",
           "priority": "NORMAL"
         },
         {
-          "keyword": "splish splash large cloud blanket®",
+          "keyword": "on the slopes two-piece pajama set",
+          "priority": "NORMAL"
+        },
+        {
+          "keyword": "chalet fair isle large cloud blanket®",
           "priority": "HIGH"
-        },
-        {
-          "keyword": "bubbles the rubber ducky sleepyhead lovey",
-          "priority": "MEDIUM"
         }
       ],
-      "raw_item_count": 19,
+      "raw_item_count": 21,
       "parse_strategy": "found"
     }
   ]
