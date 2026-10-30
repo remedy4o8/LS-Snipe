@@ -1,143 +1,120 @@
 {
-  "scraped_at": "2026-10-28T17:06:06.571Z",
+  "scraped_at": "2026-10-30T01:34:33.082Z",
   "drops": [
     {
       "name": "Coming Soon",
-      "date": "2026-10-27",
+      "date": null,
       "time_local": "9am",
       "timezone": "PT",
       "drop_hour": 9,
       "drop_min": 0,
       "items": [
         {
-          "name": "Chalet Fair Isle",
+          "name": "Princess Garden",
           "type": "Zippy",
-          "full": "Chalet Fair Isle Zippy"
+          "full": "Princess Garden Zippy"
         },
         {
-          "name": "Chalet Fair Isle",
+          "name": "Princess Garden",
           "type": "Two-Piece Pajama Set",
-          "full": "Chalet Fair Isle Two-Piece Pajama Set"
+          "full": "Princess Garden Two-Piece Pajama Set"
         },
         {
-          "name": "On The Slopes",
-          "type": "Zippy",
-          "full": "On The Slopes Zippy"
+          "name": "Floral Fairytale",
+          "type": "Flutter Crewneck",
+          "full": "Floral Fairytale Flutter Crewneck"
         },
         {
-          "name": "On The Slopes",
-          "type": "Two-Piece Pajama Set",
-          "full": "On The Slopes Two-Piece Pajama Set"
+          "name": "Precious Pink",
+          "type": "Tutu Skirt",
+          "full": "Precious Pink Tutu Skirt"
         },
         {
-          "name": "Après Ski",
-          "type": "Beanie",
-          "full": "Après Ski Beanie"
+          "name": "Princess Garden",
+          "type": "Double Flutter Tee",
+          "full": "Princess Garden Double Flutter Tee"
         },
         {
-          "name": "Classic Navy",
-          "type": "Zip Up Hoodie",
-          "full": "Classic Navy Zip Up Hoodie"
+          "name": "Princess",
+          "type": "Iridescent Varsity Jacket",
+          "full": "Princess Iridescent Varsity Jacket"
         },
         {
-          "name": "Classic Navy",
-          "type": "Relaxed Jogger",
-          "full": "Classic Navy Relaxed Jogger"
+          "name": "Princess Garden",
+          "type": "Bow Back Skater Dress",
+          "full": "Princess Garden Bow Back Skater Dress"
         },
         {
-          "name": "Après All Day",
-          "type": "Crewneck Sweatshirt",
-          "full": "Après All Day Crewneck Sweatshirt"
+          "name": "Princess Garden",
+          "type": "Bow Back Skater Dress with Bodysuit",
+          "full": "Princess Garden Bow Back Skater Dress with Bodysuit"
         },
         {
-          "name": "Chalet Fair Isle",
-          "type": "Skater Dress",
-          "full": "Chalet Fair Isle Skater Dress"
+          "name": "Princess Ariel",
+          "type": "Dress",
+          "full": "Princess Ariel Dress"
         },
         {
-          "name": "Chalet Fair Isle",
-          "type": "Skater Dress with Bodysuit",
-          "full": "Chalet Fair Isle Skater Dress with Bodysuit"
+          "name": "Princess Ariel",
+          "type": "Dress with Bodysuit",
+          "full": "Princess Ariel Dress with Bodysuit"
         },
         {
-          "name": "Après All Day",
-          "type": "Bodysuit Overall Set",
-          "full": "Après All Day Bodysuit Overall Set"
+          "name": "Princess",
+          "type": "Rapunzel Dress",
+          "full": "Princess Rapunzel Dress"
         },
         {
-          "name": "Après All Day",
-          "type": "Flutter Bodysuit Overall Set",
-          "full": "Après All Day Flutter Bodysuit Overall Set"
+          "name": "Princess",
+          "type": "Rapunzel Dress with Bodysuit",
+          "full": "Princess Rapunzel Dress with Bodysuit"
         },
         {
-          "name": "Chalet Fair Isle",
-          "type": "Women's Pajama Top",
-          "full": "Chalet Fair Isle Women's Pajama Top"
+          "name": "Princess Belle",
+          "type": "Dress",
+          "full": "Princess Belle Dress"
         },
         {
-          "name": "Chalet Fair Isle",
-          "type": "Women's Pajama Pants",
-          "full": "Chalet Fair Isle Women's Pajama Pants"
+          "name": "Princess Belle",
+          "type": "Dress with Bodysuit",
+          "full": "Princess Belle Dress with Bodysuit"
         },
         {
-          "name": "Chalet Fair Isle",
-          "type": "Men's Pajama Top",
-          "full": "Chalet Fair Isle Men's Pajama Top"
-        },
-        {
-          "name": "Chalet Fair Isle",
-          "type": "Men's Pajama Pants",
-          "full": "Chalet Fair Isle Men's Pajama Pants"
-        },
-        {
-          "name": "Chalet Fair Isle",
+          "name": "Princess Garden",
           "type": "Large Cloud Blanket®",
-          "full": "Chalet Fair Isle Large Cloud Blanket®"
+          "full": "Princess Garden Large Cloud Blanket®"
         },
         {
-          "name": "On The Slopes",
+          "name": "Princess Garden",
           "type": "Women's Pajama Top",
-          "full": "On The Slopes Women's Pajama Top"
+          "full": "Princess Garden Women's Pajama Top"
         },
         {
-          "name": "On The Slopes",
+          "name": "Princess Garden",
           "type": "Women's Pajama Pants",
-          "full": "On The Slopes Women's Pajama Pants"
+          "full": "Princess Garden Women's Pajama Pants"
         },
         {
-          "name": "On The Slopes",
-          "type": "Men's Pajama Top",
-          "full": "On The Slopes Men's Pajama Top"
-        },
-        {
-          "name": "On The Slopes",
+          "name": "Princess Garden",
           "type": "Men's Pajama Pants",
-          "full": "On The Slopes Men's Pajama Pants"
+          "full": "Princess Garden Men's Pajama Pants"
         }
       ],
       "snipe_targets": [
         {
-          "keyword": "chalet fair isle zippy",
+          "keyword": "princess garden zippy",
           "priority": "NORMAL"
         },
         {
-          "keyword": "chalet fair isle two-piece pajama set",
+          "keyword": "princess garden two-piece pajama set",
           "priority": "NORMAL"
         },
         {
-          "keyword": "on the slopes zippy",
-          "priority": "NORMAL"
-        },
-        {
-          "keyword": "on the slopes two-piece pajama set",
-          "priority": "NORMAL"
-        },
-        {
-          "keyword": "chalet fair isle large cloud blanket®",
+          "keyword": "princess garden large cloud blanket®",
           "priority": "HIGH"
         }
       ],
-      "raw_item_count": 21,
+      "raw_item_count": 18,
       "parse_strategy": "found"
     }
   ]
