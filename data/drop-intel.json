@@ -1,120 +1,92 @@
 {
-  "scraped_at": "2026-11-04T08:39:55.410Z",
+  "scraped_at": "2026-11-06T00:47:13.918Z",
   "drops": [
     {
       "name": "Coming Soon",
-      "date": null,
+      "date": "2026-11-10",
       "time_local": "9am",
       "timezone": "PT",
       "drop_hour": 9,
       "drop_min": 0,
       "items": [
         {
-          "name": "Princess Garden",
+          "name": "Lilac Fields",
           "type": "Zippy",
-          "full": "Princess Garden Zippy"
+          "full": "Lilac Fields Zippy"
         },
         {
-          "name": "Princess Garden",
+          "name": "Lilac Fields",
           "type": "Two-Piece Pajama Set",
-          "full": "Princess Garden Two-Piece Pajama Set"
+          "full": "Lilac Fields Two-Piece Pajama Set"
         },
         {
-          "name": "Floral Fairytale",
-          "type": "Flutter Crewneck",
-          "full": "Floral Fairytale Flutter Crewneck"
+          "name": "Lilac Fields",
+          "type": "Women's Pajama Set",
+          "full": "Lilac Fields Women's Pajama Set"
         },
         {
-          "name": "Precious Pink",
-          "type": "Tutu Skirt",
-          "full": "Precious Pink Tutu Skirt"
-        },
-        {
-          "name": "Princess Garden",
-          "type": "Double Flutter Tee",
-          "full": "Princess Garden Double Flutter Tee"
-        },
-        {
-          "name": "Princess",
-          "type": "Iridescent Varsity Jacket",
-          "full": "Princess Iridescent Varsity Jacket"
-        },
-        {
-          "name": "Princess Garden",
-          "type": "Bow Back Skater Dress",
-          "full": "Princess Garden Bow Back Skater Dress"
-        },
-        {
-          "name": "Princess Garden",
-          "type": "Bow Back Skater Dress with Bodysuit",
-          "full": "Princess Garden Bow Back Skater Dress with Bodysuit"
-        },
-        {
-          "name": "Princess Ariel",
-          "type": "Dress",
-          "full": "Princess Ariel Dress"
-        },
-        {
-          "name": "Princess Ariel",
-          "type": "Dress with Bodysuit",
-          "full": "Princess Ariel Dress with Bodysuit"
-        },
-        {
-          "name": "Princess",
-          "type": "Rapunzel Dress",
-          "full": "Princess Rapunzel Dress"
-        },
-        {
-          "name": "Princess",
-          "type": "Rapunzel Dress with Bodysuit",
-          "full": "Princess Rapunzel Dress with Bodysuit"
-        },
-        {
-          "name": "Princess Belle",
-          "type": "Dress",
-          "full": "Princess Belle Dress"
-        },
-        {
-          "name": "Princess Belle",
-          "type": "Dress with Bodysuit",
-          "full": "Princess Belle Dress with Bodysuit"
-        },
-        {
-          "name": "Princess Garden",
+          "name": "Lilac Fields",
           "type": "Large Cloud Blanket®",
-          "full": "Princess Garden Large Cloud Blanket®"
+          "full": "Lilac Fields Large Cloud Blanket®"
         },
         {
-          "name": "Princess Garden",
-          "type": "Women's Pajama Top",
-          "full": "Princess Garden Women's Pajama Top"
+          "name": "Lilac Fields",
+          "type": "Luxe Bow Headband",
+          "full": "Lilac Fields Luxe Bow Headband"
         },
         {
-          "name": "Princess Garden",
+          "name": "Arctic Neighbors",
+          "type": "Zippy",
+          "full": "Arctic Neighbors Zippy"
+        },
+        {
+          "name": "Arctic Neighbors",
+          "type": "Two-Piece Pajama Set",
+          "full": "Arctic Neighbors Two-Piece Pajama Set"
+        },
+        {
+          "name": "Arctic Neighbors",
           "type": "Women's Pajama Pants",
-          "full": "Princess Garden Women's Pajama Pants"
+          "full": "Arctic Neighbors Women's Pajama Pants"
         },
         {
-          "name": "Princess Garden",
+          "name": "Arctic Neighbors",
           "type": "Men's Pajama Pants",
-          "full": "Princess Garden Men's Pajama Pants"
+          "full": "Arctic Neighbors Men's Pajama Pants"
+        },
+        {
+          "name": "Arctic Neighbors",
+          "type": "Large Cloud Blanket®",
+          "full": "Arctic Neighbors Large Cloud Blanket®"
         }
       ],
       "snipe_targets": [
         {
-          "keyword": "princess garden zippy",
+          "keyword": "lilac fields zippy",
           "priority": "NORMAL"
         },
         {
-          "keyword": "princess garden two-piece pajama set",
+          "keyword": "lilac fields two-piece pajama set",
           "priority": "NORMAL"
         },
         {
-          "keyword": "princess garden large cloud blanket®",
+          "keyword": "lilac fields large cloud blanket®",
+          "priority": "HIGH"
+        },
+        {
+          "keyword": "arctic neighbors zippy",
+          "priority": "NORMAL"
+        },
+        {
+          "keyword": "arctic neighbors two-piece pajama set",
+          "priority": "NORMAL"
+        },
+        {
+          "keyword": "arctic neighbors large cloud blanket®",
           "priority": "HIGH"
         }
       ],
-      "raw_item_count": 18,
+      "raw_item_count": 10,
       "parse_strategy": "found"
     }
   ]
