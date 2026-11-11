@@ -1,92 +1,157 @@
 {
-  "scraped_at": "2026-11-10T12:09:04.060Z",
+  "scraped_at": "2026-11-11T01:00:59.199Z",
   "drops": [
     {
       "name": "Coming Soon",
-      "date": "2026-11-10",
+      "date": "2026-11-12",
       "time_local": "9am",
       "timezone": "PT",
       "drop_hour": 9,
       "drop_min": 0,
       "items": [
         {
-          "name": "Lilac Fields",
-          "type": "Zippy",
-          "full": "Lilac Fields Zippy"
+          "name": "Aurora Ombré",
+          "type": "Drop Shoulder Sweater",
+          "full": "Aurora Ombré Drop Shoulder Sweater"
         },
         {
-          "name": "Lilac Fields",
-          "type": "Two-Piece Pajama Set",
-          "full": "Lilac Fields Two-Piece Pajama Set"
+          "name": "Aurora Ombré",
+          "type": "Sweater Beanie",
+          "full": "Aurora Ombré Sweater Beanie"
         },
         {
-          "name": "Lilac Fields",
-          "type": "Women's Pajama Set",
-          "full": "Lilac Fields Women's Pajama Set"
+          "name": "Aurora Ombré",
+          "type": "Women's Drop Shoulder Sweater",
+          "full": "Aurora Ombré Women's Drop Shoulder Sweater"
         },
         {
-          "name": "Lilac Fields",
-          "type": "Large Cloud Blanket®",
-          "full": "Lilac Fields Large Cloud Blanket®"
+          "name": "Snowflake Tile",
+          "type": "Flutter Twirl Dress",
+          "full": "Snowflake Tile Flutter Twirl Dress"
         },
         {
-          "name": "Lilac Fields",
-          "type": "Luxe Bow Headband",
-          "full": "Lilac Fields Luxe Bow Headband"
+          "name": "Snowflake Tile",
+          "type": "Flutter Twirl Dress with Bodysuit",
+          "full": "Snowflake Tile Flutter Twirl Dress with Bodysuit"
         },
         {
-          "name": "Arctic Neighbors",
-          "type": "Zippy",
-          "full": "Arctic Neighbors Zippy"
+          "name": "Teddy Brown",
+          "type": "Paneled Crewneck",
+          "full": "Teddy Brown Paneled Crewneck"
         },
         {
-          "name": "Arctic Neighbors",
-          "type": "Two-Piece Pajama Set",
-          "full": "Arctic Neighbors Two-Piece Pajama Set"
+          "name": "Teddy Brown",
+          "type": "Paneled Jogger",
+          "full": "Teddy Brown Paneled Jogger"
         },
         {
-          "name": "Arctic Neighbors",
-          "type": "Women's Pajama Pants",
-          "full": "Arctic Neighbors Women's Pajama Pants"
+          "name": "Amber Oak Stripe",
+          "type": "Fold Over Beanie",
+          "full": "Amber Oak Stripe Fold Over Beanie"
         },
         {
-          "name": "Arctic Neighbors",
-          "type": "Men's Pajama Pants",
-          "full": "Arctic Neighbors Men's Pajama Pants"
+          "name": "Canyon Camo",
+          "type": "Fleece Pullover",
+          "full": "Canyon Camo Fleece Pullover"
         },
         {
-          "name": "Arctic Neighbors",
-          "type": "Large Cloud Blanket®",
-          "full": "Arctic Neighbors Large Cloud Blanket®"
+          "name": "Skate & Sparkle",
+          "type": "Bow Back Skater Dress",
+          "full": "Skate & Sparkle Bow Back Skater Dress"
+        },
+        {
+          "name": "Skate & Sparkle",
+          "type": "Bow Back Skater Dress with Bodysuit",
+          "full": "Skate & Sparkle Bow Back Skater Dress with Bodysuit"
+        },
+        {
+          "name": "Skate & Sparkle",
+          "type": "Flutter Tee",
+          "full": "Skate & Sparkle Flutter Tee"
+        },
+        {
+          "name": "Skate & Sparkle",
+          "type": "Legging",
+          "full": "Skate & Sparkle Legging"
+        },
+        {
+          "name": "Radiant Pink",
+          "type": "Puff Vest",
+          "full": "Radiant Pink Puff Vest"
+        },
+        {
+          "name": "Pale Dawn",
+          "type": "Sherpa Jacket",
+          "full": "Pale Dawn Sherpa Jacket"
+        },
+        {
+          "name": "Canyon Camo",
+          "type": "Relaxed Tee",
+          "full": "Canyon Camo Relaxed Tee"
+        },
+        {
+          "name": "Chill Wooly",
+          "type": "Crewneck Sweatshirt",
+          "full": "Chill Wooly Crewneck Sweatshirt"
+        },
+        {
+          "name": "Classic Navy",
+          "type": "Puff Vest",
+          "full": "Classic Navy Puff Vest"
+        },
+        {
+          "name": "Wooly Wander",
+          "type": "Henley Tee",
+          "full": "Wooly Wander Henley Tee"
+        },
+        {
+          "name": "Aurora Stripe",
+          "type": "Flutter Tee",
+          "full": "Aurora Stripe Flutter Tee"
+        },
+        {
+          "name": "Snowflake",
+          "type": "Tutu Legging",
+          "full": "Snowflake Tutu Legging"
+        },
+        {
+          "name": "Misty Lavender",
+          "type": "Sweater Legging",
+          "full": "Misty Lavender Sweater Legging"
+        },
+        {
+          "name": "Snowflake",
+          "type": "Drop Shoulder Crewneck",
+          "full": "Snowflake Drop Shoulder Crewneck"
+        },
+        {
+          "name": "Mauve Rose",
+          "type": "Ruffle Hoodie",
+          "full": "Mauve Rose Ruffle Hoodie"
+        },
+        {
+          "name": "Mauve Rose",
+          "type": "Ruffle Jogger",
+          "full": "Mauve Rose Ruffle Jogger"
+        },
+        {
+          "name": "Mauve Rose",
+          "type": "Ruffle Romper",
+          "full": "Mauve Rose Ruffle Romper"
+        },
+        {
+          "name": "Pale Dawn",
+          "type": "Sherpa Romper",
+          "full": "Pale Dawn Sherpa Romper"
+        },
+        {
+          "name": "Wooly Wander",
+          "type": "Jogger Set",
+          "full": "Wooly Wander Jogger Set"
         }
       ],
-      "snipe_targets": [
-        {
-          "keyword": "lilac fields zippy",
-          "priority": "NORMAL"
-        },
-        {
-          "keyword": "lilac fields two-piece pajama set",
-          "priority": "NORMAL"
-        },
-        {
-          "keyword": "lilac fields large cloud blanket®",
-          "priority": "HIGH"
-        },
-        {
-          "keyword": "arctic neighbors zippy",
-          "priority": "NORMAL"
-        },
-        {
-          "keyword": "arctic neighbors two-piece pajama set",
-          "priority": "NORMAL"
-        },
-        {
-          "keyword": "arctic neighbors large cloud blanket®",
-          "priority": "HIGH"
-        }
-      ],
-      "raw_item_count": 10,
+      "snipe_targets": [],
+      "raw_item_count": 28,
       "parse_strategy": "found"
     }
   ]
